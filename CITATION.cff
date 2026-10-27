@@ -6,6 +6,7 @@ authors:
   - family-names: "Imran"
     affiliation: "King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
 version: "2026-10-27"
+doi: "10.5281/zenodo.23691982"
 date-released: "2026-10-27"
 repository-code: "https://github.com/imranij/edge-cloud-gap-decomposition"
 keywords:
