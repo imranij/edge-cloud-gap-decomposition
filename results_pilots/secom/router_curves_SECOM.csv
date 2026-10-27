@@ -1,0 +1,1681 @@
+seed,policy,f,BA
+19,"Confidence, least-confident first",0.05,0.6017389891110027
+19,"Confidence, least-confident first",0.1,0.6238420282788882
+19,"Confidence, least-confident first",0.15,0.6170160897123353
+19,"Confidence, least-confident first",0.2,0.6459450674467738
+19,"Confidence, least-confident first",0.3,0.6408256135218592
+19,"Confidence, least-confident first",0.4,0.6374126442385828
+19,"Confidence, least-confident first",0.5,0.6305867056720298
+19,"Confidence, least-confident first",0.6,0.6271737363887534
+19,"Confidence, least-confident first",0.73,0.6441573216317243
+19,"Confidence, least-confident first",0.8,0.6186413131805623
+19,"Confidence, least-confident first",0.9,0.6186413131805623
+19,"Confidence, least-confident first",1.0,0.6458638062733626
+19,"Learned R1, logistic",0.05,0.6051519583942792
+19,"Learned R1, logistic",0.1,0.6017389891110027
+19,"Learned R1, logistic",0.15,0.6034454737526409
+19,"Learned R1, logistic",0.2,0.6238420282788882
+19,"Learned R1, logistic",0.3,0.6187225743539736
+19,"Learned R1, logistic",0.4,0.6118966357874207
+19,"Learned R1, logistic",0.5,0.6033642125792296
+19,"Learned R1, logistic",0.6,0.6016577279375913
+19,"Learned R1, logistic",0.73,0.5999512432959531
+19,"Learned R1, logistic",0.8,0.5965382740126767
+19,"Learned R1, logistic",0.9,0.5965382740126767
+19,"Learned R1, logistic",1.0,0.6458638062733625
+19,"Learned R2, logistic",0.05,0.5830489192263936
+19,"Learned R2, logistic",0.1,0.5830489192263936
+19,"Learned R2, logistic",0.15,0.5813424345847553
+19,"Learned R2, logistic",0.2,0.5830489192263936
+19,"Learned R2, logistic",0.3,0.5796359499431171
+19,"Learned R2, logistic",0.4,0.5728100113765642
+19,"Learned R2, logistic",0.5,0.5728100113765642
+19,"Learned R2, logistic",0.6,0.5490004875670403
+19,"Learned R2, logistic",0.73,0.564277588168373
+19,"Learned R2, logistic",0.8,0.5880871119778969
+19,"Learned R2, logistic",0.9,0.6118966357874207
+19,"Learned R2, logistic",1.0,0.6458638062733625
+19,"Learned R3, logistic",0.05,0.5830489192263936
+19,"Learned R3, logistic",0.1,0.58646188850967
+19,"Learned R3, logistic",0.15,0.5830489192263936
+19,"Learned R3, logistic",0.2,0.5830489192263936
+19,"Learned R3, logistic",0.3,0.5847554038680318
+19,"Learned R3, logistic",0.4,0.5813424345847553
+19,"Learned R3, logistic",0.5,0.5983260198277263
+19,"Learned R3, logistic",0.6,0.5932065659028115
+19,"Learned R3, logistic",0.73,0.596619535186088
+19,"Learned R3, logistic",0.8,0.5932065659028115
+19,"Learned R3, logistic",0.9,0.632293190313668
+19,"Learned R3, logistic",1.0,0.6458638062733625
+19,"Learned R3, boosting",0.05,0.5932878270762229
+19,"Learned R3, boosting",0.1,0.5780107264748902
+19,"Learned R3, boosting",0.15,0.5797172111165284
+19,"Learned R3, boosting",0.2,0.5814236957581667
+19,"Learned R3, boosting",0.3,0.5814236957581667
+19,"Learned R3, boosting",0.4,0.5814236957581667
+19,"Learned R3, boosting",0.5,0.5814236957581667
+19,"Learned R3, boosting",0.6,0.5797172111165284
+19,"Learned R3, boosting",0.73,0.6001137656427757
+19,"Learned R3, boosting",0.8,0.5915813424345847
+19,"Learned R3, boosting",0.9,0.6255485129205265
+19,"Learned R3, boosting",1.0,0.6458638062733626
+19,Oracle,0.05,0.7191613846903948
+19,Oracle,0.1,0.7328132618235006
+19,Oracle,0.15,0.7328132618235006
+19,Oracle,0.2,0.7328132618235006
+19,Oracle,0.3,0.7328132618235006
+19,Oracle,0.4,0.7328132618235006
+19,Oracle,0.5,0.7328132618235006
+19,Oracle,0.6,0.7328132618235006
+19,Oracle,0.73,0.7328132618235006
+19,Oracle,0.8,0.7328132618235006
+19,Oracle,0.9,0.7208678693320331
+19,Oracle,1.0,0.6458638062733626
+19,"Random, expected",0.05,0.5845685031691856
+19,"Random, expected",0.1,0.587794571753616
+19,"Random, expected",0.15,0.5910206403380464
+19,"Random, expected",0.2,0.5942467089224768
+19,"Random, expected",0.3,0.6006988460913375
+19,"Random, expected",0.4,0.6071509832601982
+19,"Random, expected",0.5,0.613603120429059
+19,"Random, expected",0.6,0.6200552575979196
+19,"Random, expected",0.73,0.6284430359174386
+19,"Random, expected",0.8,0.632959531935641
+19,"Random, expected",0.9,0.6394116691045018
+19,"Random, expected",1.0,0.6458638062733625
+29,"Confidence, least-confident first",0.05,0.5848366650414432
+29,"Confidence, least-confident first",0.1,0.5984072810011376
+29,"Confidence, least-confident first",0.15,0.6085649276775557
+29,"Confidence, least-confident first",0.2,0.5897935966195351
+29,"Confidence, least-confident first",0.3,0.6356248984235332
+29,"Confidence, least-confident first",0.4,0.647407768568178
+29,"Confidence, least-confident first",0.5,0.6796684544124817
+29,"Confidence, least-confident first",0.6,0.659190638712823
+29,"Confidence, least-confident first",0.73,0.6574028928977735
+29,"Confidence, least-confident first",0.8,0.6692670242158297
+29,"Confidence, least-confident first",0.9,0.655615147082724
+29,"Confidence, least-confident first",1.0,0.6470827238745328
+29,"Learned R1, logistic",0.05,0.6103526734926052
+29,"Learned R1, logistic",0.1,0.6153908662441085
+29,"Learned R1, logistic",0.15,0.6170160897123355
+29,"Learned R1, logistic",0.2,0.623760767105477
+29,"Learned R1, logistic",0.3,0.659434422233057
+29,"Learned R1, logistic",0.4,0.6542337071347311
+29,"Learned R1, logistic",0.5,0.6252234682268812
+29,"Learned R1, logistic",0.6,0.6557776694295466
+29,"Learned R1, logistic",0.73,0.6693482853892411
+29,"Learned R1, logistic",0.8,0.6505769543312206
+29,"Learned R1, logistic",0.9,0.6590281163660004
+29,"Learned R1, logistic",1.0,0.6470827238745329
+29,"Learned R2, logistic",0.05,0.6375751665854055
+29,"Learned R2, logistic",0.1,0.6153908662441085
+29,"Learned R2, logistic",0.15,0.6238420282788883
+29,"Learned R2, logistic",0.2,0.6357061595969445
+29,"Learned R2, logistic",0.3,0.6934828538924103
+29,"Learned R2, logistic",0.4,0.6899886234357224
+29,"Learned R2, logistic",0.5,0.6678043230944255
+29,"Learned R2, logistic",0.6,0.6473265073947669
+29,"Learned R2, logistic",0.73,0.6744677393141558
+29,"Learned R2, logistic",0.8,0.6642288314643265
+29,"Learned R2, logistic",0.9,0.6675605395741916
+29,"Learned R2, logistic",1.0,0.6470827238745329
+29,"Learned R3, logistic",0.05,0.6154721274175199
+29,"Learned R3, logistic",0.1,0.6137656427758816
+29,"Learned R3, logistic",0.15,0.6103526734926052
+29,"Learned R3, logistic",0.2,0.6052332195676906
+29,"Learned R3, logistic",0.3,0.6205103201690232
+29,"Learned R3, logistic",0.4,0.5983260198277263
+29,"Learned R3, logistic",0.5,0.6271737363887534
+29,"Learned R3, logistic",0.6,0.6032829514058183
+29,"Learned R3, logistic",0.73,0.5895498130993011
+29,"Learned R3, logistic",0.8,0.591175036567528
+29,"Learned R3, logistic",0.9,0.6267674305216967
+29,"Learned R3, logistic",1.0,0.6470827238745327
+29,"Learned R3, boosting",0.05,0.6001950268161872
+29,"Learned R3, boosting",0.1,0.5984885421745489
+29,"Learned R3, boosting",0.15,0.5984885421745489
+29,"Learned R3, boosting",0.2,0.5984885421745489
+29,"Learned R3, boosting",0.3,0.591662603607996
+29,"Learned R3, boosting",0.4,0.6001137656427759
+29,"Learned R3, boosting",0.5,0.5813424345847554
+29,"Learned R3, boosting",0.6,0.5999512432959532
+29,"Learned R3, boosting",0.73,0.6151470827238745
+29,"Learned R3, boosting",0.8,0.6099463676255485
+29,"Learned R3, boosting",0.9,0.6183162684869169
+29,"Learned R3, boosting",1.0,0.6470827238745327
+29,Oracle,0.05,0.8655127580042256
+29,Oracle,0.1,0.8655127580042256
+29,Oracle,0.15,0.8655127580042256
+29,Oracle,0.2,0.8655127580042256
+29,Oracle,0.3,0.8655127580042256
+29,Oracle,0.4,0.8655127580042256
+29,Oracle,0.5,0.8655127580042256
+29,Oracle,0.6,0.8620997887209491
+29,Oracle,0.73,0.7921339184137818
+29,Oracle,0.8,0.7545912562977408
+29,Oracle,0.9,0.6999837477653177
+29,Oracle,1.0,0.6470827238745328
+29,"Random, expected",0.05,0.6041605720786608
+29,"Random, expected",0.1,0.6064196326994962
+29,"Random, expected",0.15,0.6086786933203315
+29,"Random, expected",0.2,0.6109377539411669
+29,"Random, expected",0.3,0.6154558751828376
+29,"Random, expected",0.4,0.6199739964245083
+29,"Random, expected",0.5,0.6244921176661791
+29,"Random, expected",0.6,0.6290102389078498
+29,"Random, expected",0.73,0.6348837965220218
+29,"Random, expected",0.8,0.6380464813911912
+29,"Random, expected",0.9,0.642564602632862
+29,"Random, expected",1.0,0.6470827238745327
+39,"Confidence, least-confident first",0.05,0.5641963269949617
+39,"Confidence, least-confident first",0.1,0.5607833577116853
+39,"Confidence, least-confident first",0.15,0.5539574191451324
+39,"Confidence, least-confident first",0.2,0.5522509345034942
+39,"Confidence, least-confident first",0.3,0.5692345197464651
+39,"Confidence, least-confident first",0.4,0.5828051357061595
+39,"Confidence, least-confident first",0.5,0.6253047294002925
+39,"Confidence, least-confident first",0.6,0.6116528522671867
+39,"Confidence, least-confident first",0.73,0.6303429221517958
+39,"Confidence, least-confident first",0.8,0.6252234682268811
+39,"Confidence, least-confident first",0.9,0.6218104989436047
+39,"Confidence, least-confident first",1.0,0.6422070534698521
+39,"Learned R1, logistic",0.05,0.5862993661628473
+39,"Learned R1, logistic",0.1,0.6066959206890947
+39,"Learned R1, logistic",0.15,0.6202665366487892
+39,"Learned R1, logistic",0.2,0.611734113440598
+39,"Learned R1, logistic",0.3,0.6253047294002925
+39,"Learned R1, logistic",0.4,0.6201852754753778
+39,"Learned R1, logistic",0.5,0.664391353811149
+39,"Learned R1, logistic",0.6,0.6609783845278725
+39,"Learned R1, logistic",0.73,0.6558589306029579
+39,"Learned R1, logistic",0.8,0.6473265073947667
+39,"Learned R1, logistic",0.9,0.6439135381114903
+39,"Learned R1, logistic",1.0,0.6422070534698521
+39,"Learned R2, logistic",0.05,0.633918413781895
+39,"Learned R2, logistic",0.1,0.6101088899723711
+39,"Learned R2, logistic",0.15,0.6032829514058182
+39,"Learned R2, logistic",0.2,0.6168535673655127
+39,"Learned R2, logistic",0.3,0.6014952055907686
+39,"Learned R2, logistic",0.4,0.596375751665854
+39,"Learned R2, logistic",0.5,0.6439947992849016
+39,"Learned R2, logistic",0.6,0.6405818300016252
+39,"Learned R2, logistic",0.73,0.6371688607183488
+39,"Learned R2, logistic",0.8,0.632049406793434
+39,"Learned R2, logistic",0.9,0.6252234682268811
+39,"Learned R2, logistic",1.0,0.6422070534698521
+39,"Learned R3, logistic",0.05,0.5659028116366
+39,"Learned R3, logistic",0.1,0.5862993661628473
+39,"Learned R3, logistic",0.15,0.5777669429546562
+39,"Learned R3, logistic",0.2,0.5998699821225418
+39,"Learned R3, logistic",0.3,0.6253859905737038
+39,"Learned R3, logistic",0.4,0.6236795059320656
+39,"Learned R3, logistic",0.5,0.6219730212904274
+39,"Learned R3, logistic",0.6,0.6185600520071509
+39,"Learned R3, logistic",0.73,0.6066146595156834
+39,"Learned R3, logistic",0.8,0.6014952055907686
+39,"Learned R3, logistic",0.9,0.6133593369088249
+39,"Learned R3, logistic",1.0,0.6422070534698521
+39,"Learned R3, boosting",0.05,0.5982447586543149
+39,"Learned R3, boosting",0.1,0.6067771818625061
+39,"Learned R3, boosting",0.15,0.6101901511457825
+39,"Learned R3, boosting",0.2,0.6101901511457825
+39,"Learned R3, boosting",0.3,0.6084836665041442
+39,"Learned R3, boosting",0.4,0.6067771818625061
+39,"Learned R3, boosting",0.5,0.6067771818625061
+39,"Learned R3, boosting",0.6,0.6033642125792296
+39,"Learned R3, boosting",0.73,0.6407443523484478
+39,"Learned R3, boosting",0.8,0.6305054444986186
+39,"Learned R3, boosting",0.9,0.6542337071347311
+39,"Learned R3, boosting",1.0,0.6422070534698521
+39,Oracle,0.05,0.7496343247196489
+39,Oracle,0.1,0.7547537786445635
+39,Oracle,0.15,0.7547537786445635
+39,Oracle,0.2,0.7547537786445635
+39,Oracle,0.3,0.7547537786445635
+39,Oracle,0.4,0.7547537786445635
+39,Oracle,0.5,0.7547537786445635
+39,Oracle,0.6,0.7547537786445635
+39,Oracle,0.73,0.7547537786445635
+39,Oracle,0.8,0.7547537786445635
+39,Oracle,0.9,0.7172111165285227
+39,Oracle,1.0,0.6422070534698521
+39,"Random, expected",0.05,0.5923370713473102
+39,"Random, expected",0.1,0.5949618072484966
+39,"Random, expected",0.15,0.5975865431496831
+39,"Random, expected",0.2,0.6002112790508695
+39,"Random, expected",0.3,0.6054607508532422
+39,"Random, expected",0.4,0.6107102226556151
+39,"Random, expected",0.5,0.6159596944579879
+39,"Random, expected",0.6,0.6212091662603607
+39,"Random, expected",0.73,0.6280334796034455
+39,"Random, expected",0.8,0.6317081098651064
+39,"Random, expected",0.9,0.6369575816674792
+39,"Random, expected",1.0,0.6422070534698521
+49,"Confidence, least-confident first",0.05,0.5636274987810824
+49,"Confidence, least-confident first",0.1,0.5347797822200553
+49,"Confidence, least-confident first",0.15,0.5484316593531611
+49,"Confidence, least-confident first",0.2,0.5654965057695434
+49,"Confidence, least-confident first",0.3,0.5945067446773932
+49,"Confidence, least-confident first",0.4,0.6252234682268812
+49,"Confidence, least-confident first",0.5,0.6218917601170161
+49,"Confidence, least-confident first",0.6,0.6695920689094751
+49,"Confidence, least-confident first",0.73,0.6577279375914188
+49,"Confidence, least-confident first",0.8,0.6611409068746953
+49,"Confidence, least-confident first",0.9,0.6696733300828863
+49,"Confidence, least-confident first",1.0,0.649276775556639
+49,"Learned R1, logistic",0.05,0.517714935803673
+49,"Learned R1, logistic",0.1,0.5347797822200553
+49,"Learned R1, logistic",0.15,0.5586705672029904
+49,"Learned R1, logistic",0.2,0.5774418982610109
+49,"Learned R1, logistic",0.3,0.5894685519258898
+49,"Learned R1, logistic",0.4,0.6253047294002926
+49,"Learned R1, logistic",0.5,0.6474890297415895
+49,"Learned R1, logistic",0.6,0.6491955143832276
+49,"Learned R1, logistic",0.73,0.6270924752153421
+49,"Learned R1, logistic",0.8,0.6543149683081424
+49,"Learned R1, logistic",0.9,0.6662603607996099
+49,"Learned R1, logistic",1.0,0.649276775556639
+49,"Learned R2, logistic",0.05,0.618072484966683
+49,"Learned R2, logistic",0.1,0.6130342922151797
+49,"Learned R2, logistic",0.15,0.630099138631562
+49,"Learned R2, logistic",0.2,0.6233544612384203
+49,"Learned R2, logistic",0.3,0.5724037055095076
+49,"Learned R2, logistic",0.4,0.582642613359337
+49,"Learned R2, logistic",0.5,0.582642613359337
+49,"Learned R2, logistic",0.6,0.5911750365675281
+49,"Learned R2, logistic",0.73,0.6082398829839104
+49,"Learned R2, logistic",0.8,0.6253047294002926
+49,"Learned R2, logistic",0.9,0.6270924752153422
+49,"Learned R2, logistic",1.0,0.6492767755566391
+49,"Learned R3, logistic",0.05,0.6197789696083212
+49,"Learned R3, logistic",0.1,0.6164472614984561
+49,"Learned R3, logistic",0.15,0.6369250771981148
+49,"Learned R3, logistic",0.2,0.6318868844466115
+49,"Learned R3, logistic",0.3,0.5860555826426134
+49,"Learned R3, logistic",0.4,0.5606208353648626
+49,"Learned R3, logistic",0.5,0.5895498130993011
+49,"Learned R3, logistic",0.6,0.5912562977409394
+49,"Learned R3, logistic",0.73,0.5895498130993011
+49,"Learned R3, logistic",0.8,0.5963757516658541
+49,"Learned R3, logistic",0.9,0.6270924752153422
+49,"Learned R3, logistic",1.0,0.649276775556639
+49,"Learned R3, boosting",0.05,0.5976759304404357
+49,"Learned R3, boosting",0.1,0.5926377376889324
+49,"Learned R3, boosting",0.15,0.6182350073135057
+49,"Learned R3, boosting",0.2,0.6455387615797172
+49,"Learned R3, boosting",0.3,0.6678043230944255
+49,"Learned R3, boosting",0.4,0.6543149683081423
+49,"Learned R3, boosting",0.5,0.6305867056720298
+49,"Learned R3, boosting",0.6,0.6305867056720298
+49,"Learned R3, boosting",0.73,0.6305867056720298
+49,"Learned R3, boosting",0.8,0.6543962294815536
+49,"Learned R3, boosting",0.9,0.6509832601982772
+49,"Learned R3, boosting",1.0,0.649276775556639
+49,Oracle,0.05,0.6452949780594832
+49,Oracle,0.1,0.6708922476840565
+49,Oracle,0.15,0.6981960019502681
+49,Oracle,0.2,0.7254997562164798
+49,Oracle,0.3,0.7784007801072647
+49,Oracle,0.4,0.8244758654314966
+49,Oracle,0.5,0.8244758654314966
+49,Oracle,0.6,0.8244758654314966
+49,Oracle,0.73,0.8244758654314966
+49,Oracle,0.8,0.8244758654314966
+49,Oracle,0.9,0.8244758654314966
+49,Oracle,1.0,0.6492767755566389
+49,"Random, expected",0.05,0.5985576141719487
+49,"Random, expected",0.1,0.6012270437185113
+49,"Random, expected",0.15,0.603896473265074
+49,"Random, expected",0.2,0.6065659028116367
+49,"Random, expected",0.3,0.611904761904762
+49,"Random, expected",0.4,0.6172436209978873
+49,"Random, expected",0.5,0.6225824800910126
+49,"Random, expected",0.6,0.627921339184138
+49,"Random, expected",0.73,0.6348618560052008
+49,"Random, expected",0.8,0.6385990573703885
+49,"Random, expected",0.9,0.6439379164635138
+49,"Random, expected",1.0,0.6492767755566391
+59,"Confidence, least-confident first",0.05,0.6215667154233707
+59,"Confidence, least-confident first",0.1,0.6420445311230294
+59,"Confidence, least-confident first",0.15,0.6777994474240208
+59,"Confidence, least-confident first",0.2,0.6676418007476027
+59,"Confidence, least-confident first",0.3,0.6966520396554525
+59,"Confidence, least-confident first",0.4,0.6882008776206727
+59,"Confidence, least-confident first",0.5,0.6593531610596456
+59,"Confidence, least-confident first",0.6,0.6287989598569802
+59,"Confidence, least-confident first",0.73,0.6441573216317242
+59,"Confidence, least-confident first",0.8,0.6458638062733624
+59,"Confidence, least-confident first",0.9,0.6322931903136679
+59,"Confidence, least-confident first",1.0,0.6357061595969444
+59,"Learned R1, logistic",0.05,0.616447261498456
+59,"Learned R1, logistic",0.1,0.6624410856492767
+59,"Learned R1, logistic",0.15,0.6709735088574679
+59,"Learned R1, logistic",0.2,0.6659353161059645
+59,"Learned R1, logistic",0.3,0.6881196164472614
+59,"Learned R1, logistic",0.4,0.6745490004875669
+59,"Learned R1, logistic",0.5,0.6592718998862342
+59,"Learned R1, logistic",0.6,0.6643913538111489
+59,"Learned R1, logistic",0.73,0.647407768568178
+59,"Learned R1, logistic",0.8,0.6406630911750364
+59,"Learned R1, logistic",0.9,0.6373313830651713
+59,"Learned R1, logistic",1.0,0.6357061595969444
+59,"Learned R2, logistic",0.05,0.641963269949618
+59,"Learned R2, logistic",0.1,0.664147570290915
+59,"Learned R2, logistic",0.15,0.6829189013489354
+59,"Learned R2, logistic",0.2,0.669348285389241
+59,"Learned R2, logistic",0.3,0.6643100926377375
+59,"Learned R2, logistic",0.4,0.6371688607183487
+59,"Learned R2, logistic",0.5,0.6474077685681779
+59,"Learned R2, logistic",0.6,0.6474077685681779
+59,"Learned R2, logistic",0.73,0.6525272224930927
+59,"Learned R2, logistic",0.8,0.6117341134405979
+59,"Learned R2, logistic",0.9,0.6339184137818948
+59,"Learned R2, logistic",1.0,0.6357061595969444
+59,"Learned R3, logistic",0.05,0.6198602307817325
+59,"Learned R3, logistic",0.1,0.5875995449374289
+59,"Learned R3, logistic",0.15,0.585974321469202
+59,"Learned R3, logistic",0.2,0.6064521371688607
+59,"Learned R3, logistic",0.3,0.587843328457663
+59,"Learned R3, logistic",0.4,0.586218104989436
+59,"Learned R3, logistic",0.5,0.6168535673655128
+59,"Learned R3, logistic",0.6,0.6202665366487892
+59,"Learned R3, logistic",0.73,0.6236795059320657
+59,"Learned R3, logistic",0.8,0.6219730212904274
+59,"Learned R3, logistic",0.9,0.6390378677068097
+59,"Learned R3, logistic",1.0,0.6357061595969445
+59,"Learned R3, boosting",0.05,0.5994636762554851
+59,"Learned R3, boosting",0.1,0.6233544612384203
+59,"Learned R3, boosting",0.15,0.6251422070534698
+59,"Learned R3, boosting",0.2,0.5997074597757192
+59,"Learned R3, boosting",0.3,0.6270924752153421
+59,"Learned R3, boosting",0.4,0.6305867056720299
+59,"Learned R3, boosting",0.5,0.6374126442385828
+59,"Learned R3, boosting",0.6,0.639119128880221
+59,"Learned R3, boosting",0.73,0.639119128880221
+59,"Learned R3, boosting",0.8,0.6374126442385828
+59,"Learned R3, boosting",0.9,0.6322931903136682
+59,"Learned R3, boosting",1.0,0.6357061595969445
+59,Oracle,0.05,0.6470827238745327
+59,Oracle,0.1,0.672679993499106
+59,Oracle,0.15,0.6999837477653176
+59,Oracle,0.2,0.7272875020315293
+59,Oracle,0.3,0.7801885259223141
+59,Oracle,0.4,0.809198764830164
+59,Oracle,0.5,0.809198764830164
+59,Oracle,0.6,0.809198764830164
+59,Oracle,0.73,0.809198764830164
+59,Oracle,0.8,0.809198764830164
+59,Oracle,0.9,0.809198764830164
+59,Oracle,1.0,0.6357061595969443
+59,"Random, expected",0.05,0.599577441898261
+59,"Random, expected",0.1,0.6014789533560865
+59,"Random, expected",0.15,0.6033804648139119
+59,"Random, expected",0.2,0.6052819762717373
+59,"Random, expected",0.3,0.6090849991873882
+59,"Random, expected",0.4,0.6128880221030392
+59,"Random, expected",0.5,0.6166910450186901
+59,"Random, expected",0.6,0.6204940679343409
+59,"Random, expected",0.73,0.6254379977246871
+59,"Random, expected",0.8,0.6281001137656428
+59,"Random, expected",0.9,0.6319031366812937
+59,"Random, expected",1.0,0.6357061595969445
+69,"Confidence, least-confident first",0.05,0.6017389891110027
+69,"Confidence, least-confident first",0.1,0.6425320981634973
+69,"Confidence, least-confident first",0.15,0.6629286526897448
+69,"Confidence, least-confident first",0.2,0.6561027141231919
+69,"Confidence, least-confident first",0.3,0.6934828538924102
+69,"Confidence, least-confident first",0.4,0.6798309767593044
+69,"Confidence, least-confident first",0.5,0.6610596457012838
+69,"Confidence, least-confident first",0.6,0.6422883146432634
+69,"Confidence, least-confident first",0.73,0.6252234682268811
+69,"Confidence, least-confident first",0.8,0.6201040143019665
+69,"Confidence, least-confident first",0.9,0.626848691695108
+69,"Confidence, least-confident first",1.0,0.6183162684869169
+69,"Learned R1, logistic",0.05,0.62213554363725
+69,"Learned R1, logistic",0.1,0.632293190313668
+69,"Learned R1, logistic",0.15,0.65780919876483
+69,"Learned R1, logistic",0.2,0.6730862993661627
+69,"Learned R1, logistic",0.3,0.6594344222330569
+69,"Learned R1, logistic",0.4,0.6373313830651713
+69,"Learned R1, logistic",0.5,0.6661790996261985
+69,"Learned R1, logistic",0.6,0.654233707134731
+69,"Learned R1, logistic",0.73,0.6252234682268811
+69,"Learned R1, logistic",0.8,0.61669104501869
+69,"Learned R1, logistic",0.9,0.6319681456200227
+69,"Learned R1, logistic",1.0,0.6183162684869169
+69,"Learned R2, logistic",0.05,0.6170160897123353
+69,"Learned R2, logistic",0.1,0.606777181862506
+69,"Learned R2, logistic",0.15,0.6288802210303915
+69,"Learned R2, logistic",0.2,0.6203477978222004
+69,"Learned R2, logistic",0.3,0.5965382740126767
+69,"Learned R2, logistic",0.4,0.6220542824638386
+69,"Learned R2, logistic",0.5,0.6084024053307329
+69,"Learned R2, logistic",0.6,0.6338371526084836
+69,"Learned R2, logistic",0.73,0.6626848691695107
+69,"Learned R2, logistic",0.8,0.657565415244596
+69,"Learned R2, logistic",0.9,0.6422070534698521
+69,"Learned R2, logistic",1.0,0.6183162684869169
+69,"Learned R3, logistic",0.05,0.6068584430359173
+69,"Learned R3, logistic",0.1,0.6238420282788882
+69,"Learned R3, logistic",0.15,0.5983260198277262
+69,"Learned R3, logistic",0.2,0.6000325044693644
+69,"Learned R3, logistic",0.3,0.5949130505444498
+69,"Learned R3, logistic",0.4,0.6101901511457825
+69,"Learned R3, logistic",0.5,0.6203477978222004
+69,"Learned R3, logistic",0.6,0.6236795059320656
+69,"Learned R3, logistic",0.73,0.6304241833252071
+69,"Learned R3, logistic",0.8,0.6116528522671866
+69,"Learned R3, logistic",0.9,0.6201040143019664
+69,"Learned R3, logistic",1.0,0.6183162684869168
+69,"Learned R3, boosting",0.05,0.6153908662441084
+69,"Learned R3, boosting",0.1,0.5932878270762229
+69,"Learned R3, boosting",0.15,0.5984072810011375
+69,"Learned R3, boosting",0.2,0.6222168048106613
+69,"Learned R3, boosting",0.3,0.611977896960832
+69,"Learned R3, boosting",0.4,0.6068584430359173
+69,"Learned R3, boosting",0.5,0.5949130505444498
+69,"Learned R3, boosting",0.6,0.581261173411344
+69,"Learned R3, boosting",0.73,0.5811799122379326
+69,"Learned R3, boosting",0.8,0.5862181049894359
+69,"Learned R3, boosting",0.9,0.5844303591743863
+69,"Learned R3, boosting",1.0,0.6183162684869168
+69,Oracle,0.05,0.7905899561189662
+69,Oracle,0.1,0.7922964407606045
+69,Oracle,0.15,0.7922964407606045
+69,Oracle,0.2,0.7922964407606045
+69,Oracle,0.3,0.7922964407606045
+69,Oracle,0.4,0.7922964407606045
+69,Oracle,0.5,0.7922964407606045
+69,Oracle,0.6,0.7922964407606045
+69,Oracle,0.73,0.7854705021940516
+69,Oracle,0.8,0.7479278400780106
+69,Oracle,0.9,0.6933203315455875
+69,Oracle,1.0,0.618316268486917
+69,"Random, expected",0.05,0.6090524947180236
+69,"Random, expected",0.1,0.6095400617584916
+69,"Random, expected",0.15,0.6100276287989598
+69,"Random, expected",0.2,0.6105151958394278
+69,"Random, expected",0.3,0.6114903299203639
+69,"Random, expected",0.4,0.6124654640013001
+69,"Random, expected",0.5,0.6134405980822362
+69,"Random, expected",0.6,0.6144157321631724
+69,"Random, expected",0.73,0.6156834064683893
+69,"Random, expected",0.8,0.6163660003250445
+69,"Random, expected",0.9,0.6173411344059807
+69,"Random, expected",1.0,0.6183162684869168
+79,"Confidence, least-confident first",0.05,0.6674792784007801
+79,"Confidence, least-confident first",0.1,0.6811311555338859
+79,"Confidence, least-confident first",0.15,0.6658540549325532
+79,"Confidence, least-confident first",0.2,0.6930765480253535
+79,"Confidence, least-confident first",0.3,0.7033154558751828
+79,"Confidence, least-confident first",0.4,0.6829189013489355
+79,"Confidence, least-confident first",0.5,0.6846253859905738
+79,"Confidence, least-confident first",0.6,0.679505932065659
+79,"Confidence, least-confident first",0.73,0.670973508857468
+79,"Confidence, least-confident first",0.8,0.6930765480253536
+79,"Confidence, least-confident first",0.9,0.670973508857468
+79,"Confidence, least-confident first",1.0,0.670973508857468
+79,"Learned R1, logistic",0.05,0.6725987323256948
+79,"Learned R1, logistic",0.1,0.6845441248171624
+79,"Learned R1, logistic",0.15,0.6675605395741915
+79,"Learned R1, logistic",0.2,0.6777994474240209
+79,"Learned R1, logistic",0.3,0.6965707784820413
+79,"Learned R1, logistic",0.4,0.7051032016902324
+79,"Learned R1, logistic",0.5,0.7016902324069559
+79,"Learned R1, logistic",0.6,0.6931578091987648
+79,"Learned R1, logistic",0.73,0.6574028928977734
+79,"Learned R1, logistic",0.8,0.6556964082561353
+79,"Learned R1, logistic",0.9,0.6726799934991061
+79,"Learned R1, logistic",1.0,0.6709735088574679
+79,"Learned R2, logistic",0.05,0.6623598244758655
+79,"Learned R2, logistic",0.1,0.641963269949618
+79,"Learned R2, logistic",0.15,0.6266861693482854
+79,"Learned R2, logistic",0.2,0.6335121079148383
+79,"Learned R2, logistic",0.3,0.6386315618397529
+79,"Learned R2, logistic",0.4,0.6539899236144969
+79,"Learned R2, logistic",0.5,0.6625223468226881
+79,"Learned R2, logistic",0.6,0.6727612546725175
+79,"Learned R2, logistic",0.73,0.6455387615797172
+79,"Learned R2, logistic",0.8,0.6591093775394117
+79,"Learned R2, logistic",0.9,0.6522834389728588
+79,"Learned R2, logistic",1.0,0.6709735088574679
+79,"Learned R3, logistic",0.05,0.6929952868519421
+79,"Learned R3, logistic",0.1,0.6794246708922477
+79,"Learned R3, logistic",0.15,0.6862506094588006
+79,"Learned R3, logistic",0.2,0.6522834389728588
+79,"Learned R3, logistic",0.3,0.6489517308629936
+79,"Learned R3, logistic",0.4,0.659190638712823
+79,"Learned R3, logistic",0.5,0.6864131318056232
+79,"Learned R3, logistic",0.6,0.6795871932390704
+79,"Learned R3, logistic",0.73,0.6744677393141557
+79,"Learned R3, logistic",0.8,0.676174223955794
+79,"Learned R3, logistic",0.9,0.6608158621810499
+79,"Learned R3, logistic",1.0,0.6709735088574679
+79,"Learned R3, boosting",0.05,0.6947017714935804
+79,"Learned R3, boosting",0.1,0.6879570941004388
+79,"Learned R3, boosting",0.15,0.7067284251584594
+79,"Learned R3, boosting",0.2,0.7169673330082886
+79,"Learned R3, boosting",0.3,0.6847066471639851
+79,"Learned R3, boosting",0.4,0.7000650089387291
+79,"Learned R3, boosting",0.5,0.6813749390541199
+79,"Learned R3, boosting",0.6,0.6813749390541199
+79,"Learned R3, boosting",0.73,0.7000650089387291
+79,"Learned R3, boosting",0.8,0.691532585730538
+79,"Learned R3, boosting",0.9,0.6693482853892411
+79,"Learned R3, boosting",1.0,0.6709735088574679
+79,Oracle,0.05,0.7525597269624573
+79,Oracle,0.1,0.7781569965870306
+79,Oracle,0.15,0.8054607508532422
+79,Oracle,0.2,0.8259385665529009
+79,Oracle,0.3,0.8259385665529009
+79,Oracle,0.4,0.8259385665529009
+79,Oracle,0.5,0.8259385665529009
+79,Oracle,0.6,0.8259385665529009
+79,Oracle,0.73,0.8259385665529009
+79,Oracle,0.8,0.8259385665529009
+79,Oracle,0.9,0.8122866894197951
+79,Oracle,1.0,0.6709735088574679
+79,"Random, expected",0.05,0.6805460750853243
+79,"Random, expected",0.1,0.680042255810174
+79,"Random, expected",0.15,0.6795384365350235
+79,"Random, expected",0.2,0.6790346172598732
+79,"Random, expected",0.3,0.6780269787095726
+79,"Random, expected",0.4,0.6770193401592719
+79,"Random, expected",0.5,0.6760117016089713
+79,"Random, expected",0.6,0.6750040630586706
+79,"Random, expected",0.73,0.6736941329432797
+79,"Random, expected",0.8,0.6729887859580692
+79,"Random, expected",0.9,0.6719811474077686
+79,"Random, expected",1.0,0.670973508857468
+89,"Confidence, least-confident first",0.05,0.5913375589143506
+89,"Confidence, least-confident first",0.1,0.6219730212904273
+89,"Confidence, least-confident first",0.15,0.6202665366487891
+89,"Confidence, least-confident first",0.2,0.5947505281976271
+89,"Confidence, least-confident first",0.3,0.6032829514058181
+89,"Confidence, least-confident first",0.4,0.6049894360474564
+89,"Confidence, least-confident first",0.5,0.6049894360474564
+89,"Confidence, least-confident first",0.6,0.5811799122379325
+89,"Confidence, least-confident first",0.73,0.5828863968795708
+89,"Confidence, least-confident first",0.8,0.584592881521209
+89,"Confidence, least-confident first",0.9,0.5880058508044855
+89,"Confidence, least-confident first",1.0,0.5693157809198763
+89,"Learned R1, logistic",0.05,0.6389566065333983
+89,"Learned R1, logistic",0.1,0.6185600520071508
+89,"Learned R1, logistic",0.15,0.5930440435559888
+89,"Learned R1, logistic",0.2,0.5981634974809035
+89,"Learned R1, logistic",0.3,0.6032829514058181
+89,"Learned R1, logistic",0.4,0.5964570128392652
+89,"Learned R1, logistic",0.5,0.60157646676418
+89,"Learned R1, logistic",0.6,0.5794734275962944
+89,"Learned R1, logistic",0.73,0.6049894360474564
+89,"Learned R1, logistic",0.8,0.6066959206890946
+89,"Learned R1, logistic",0.9,0.5828863968795708
+89,"Learned R1, logistic",1.0,0.5693157809198763
+89,"Learned R2, logistic",0.05,0.5964570128392652
+89,"Learned R2, logistic",0.1,0.5964570128392652
+89,"Learned R2, logistic",0.15,0.5743539736713796
+89,"Learned R2, logistic",0.2,0.5760604583130179
+89,"Learned R2, logistic",0.3,0.5862993661628473
+89,"Learned R2, logistic",0.4,0.559076873070047
+89,"Learned R2, logistic",0.5,0.5573703884284088
+89,"Learned R2, logistic",0.6,0.5607833577116852
+89,"Learned R2, logistic",0.73,0.5659028116365998
+89,"Learned R2, logistic",0.8,0.5676092962782381
+89,"Learned R2, logistic",0.9,0.5472127417519907
+89,"Learned R2, logistic",1.0,0.5693157809198763
+89,"Learned R3, logistic",0.05,0.6134405980822362
+89,"Learned R3, logistic",0.1,0.6168535673655127
+89,"Learned R3, logistic",0.15,0.6219730212904273
+89,"Learned R3, logistic",0.2,0.5777669429546561
+89,"Learned R3, logistic",0.3,0.5828863968795708
+89,"Learned R3, logistic",0.4,0.5897123354461237
+89,"Learned R3, logistic",0.5,0.616934828538924
+89,"Learned R3, logistic",0.6,0.6186413131805621
+89,"Learned R3, logistic",0.73,0.5948317893710384
+89,"Learned R3, logistic",0.8,0.5948317893710384
+89,"Learned R3, logistic",0.9,0.5931253047294002
+89,"Learned R3, logistic",1.0,0.5693157809198763
+89,"Learned R3, boosting",0.05,0.610108889972371
+89,"Learned R3, boosting",0.1,0.6050706972208677
+89,"Learned R3, boosting",0.15,0.6136031204290588
+89,"Learned R3, boosting",0.2,0.5932065659028115
+89,"Learned R3, boosting",0.3,0.5949130505444498
+89,"Learned R3, boosting",0.4,0.5728100113765642
+89,"Learned R3, boosting",0.5,0.5711035267349259
+89,"Learned R3, boosting",0.6,0.5711035267349259
+89,"Learned R3, boosting",0.73,0.5625711035267348
+89,"Learned R3, boosting",0.8,0.564277588168373
+89,"Learned R3, boosting",0.9,0.5557451649601819
+89,"Learned R3, boosting",1.0,0.5693157809198763
+89,Oracle,0.05,0.6849504306842189
+89,Oracle,0.1,0.7105477003087922
+89,Oracle,0.15,0.7190801235169834
+89,Oracle,0.2,0.7190801235169834
+89,Oracle,0.3,0.7190801235169834
+89,Oracle,0.4,0.7190801235169834
+89,Oracle,0.5,0.7190801235169834
+89,Oracle,0.6,0.7190801235169834
+89,Oracle,0.73,0.7190801235169834
+89,Oracle,0.8,0.7190801235169834
+89,Oracle,0.9,0.7190801235169834
+89,Oracle,1.0,0.5693157809198763
+89,"Random, expected",0.05,0.6112343572241182
+89,"Random, expected",0.1,0.6090281163660002
+89,"Random, expected",0.15,0.6068218755078822
+89,"Random, expected",0.2,0.6046156346497642
+89,"Random, expected",0.3,0.6002031529335282
+89,"Random, expected",0.4,0.5957906712172922
+89,"Random, expected",0.5,0.5913781895010563
+89,"Random, expected",0.6,0.5869657077848203
+89,"Random, expected",0.73,0.5812294815537136
+89,"Random, expected",0.8,0.5781407443523483
+89,"Random, expected",0.9,0.5737282626361123
+89,"Random, expected",1.0,0.5693157809198763
+99,"Confidence, least-confident first",0.05,0.6658540549325532
+99,"Confidence, least-confident first",0.1,0.653989923614497
+99,"Confidence, least-confident first",0.15,0.6710547700308792
+99,"Confidence, least-confident first",0.2,0.6795871932390704
+99,"Confidence, least-confident first",0.3,0.6371688607183488
+99,"Confidence, least-confident first",0.4,0.6338371526084836
+99,"Confidence, least-confident first",0.5,0.6730050381927515
+99,"Confidence, least-confident first",0.6,0.6883633999674955
+99,"Confidence, least-confident first",0.73,0.6561027141231919
+99,"Confidence, least-confident first",0.8,0.6374126442385828
+99,"Confidence, least-confident first",0.9,0.613603120429059
+99,"Confidence, least-confident first",1.0,0.6187225743539737
+99,"Learned R1, logistic",0.05,0.6437510157646676
+99,"Learned R1, logistic",0.1,0.6352998537298878
+99,"Learned R1, logistic",0.15,0.6064521371688607
+99,"Learned R1, logistic",0.2,0.6201040143019665
+99,"Learned R1, logistic",0.3,0.6525272224930928
+99,"Learned R1, logistic",0.4,0.6866569153258573
+99,"Learned R1, logistic",0.5,0.6543962294815537
+99,"Learned R1, logistic",0.6,0.6509832601982772
+99,"Learned R1, logistic",0.73,0.6782057532910775
+99,"Learned R1, logistic",0.8,0.6782057532910775
+99,"Learned R1, logistic",0.9,0.6782057532910775
+99,"Learned R1, logistic",1.0,0.6187225743539737
+99,"Learned R2, logistic",0.05,0.6437510157646676
+99,"Learned R2, logistic",0.1,0.611490329920364
+99,"Learned R2, logistic",0.15,0.6319681456200228
+99,"Learned R2, logistic",0.2,0.6286364375101576
+99,"Learned R2, logistic",0.3,0.6457825450999513
+99,"Learned R2, logistic",0.4,0.659434422233057
+99,"Learned R2, logistic",0.5,0.6458638062733626
+99,"Learned R2, logistic",0.6,0.6305867056720299
+99,"Learned R2, logistic",0.73,0.6526897448399155
+99,"Learned R2, logistic",0.8,0.6543962294815537
+99,"Learned R2, logistic",0.9,0.6305867056720299
+99,"Learned R2, logistic",1.0,0.6187225743539737
+99,"Learned R3, logistic",0.05,0.6216479765967821
+99,"Learned R3, logistic",0.1,0.643832276938079
+99,"Learned R3, logistic",0.15,0.6626036079960995
+99,"Learned R3, logistic",0.2,0.606533398342272
+99,"Learned R3, logistic",0.3,0.6151470827238745
+99,"Learned R3, logistic",0.4,0.6118153746140094
+99,"Learned R3, logistic",0.5,0.6016577279375914
+99,"Learned R3, logistic",0.6,0.6033642125792296
+99,"Learned R3, logistic",0.73,0.6475702909150007
+99,"Learned R3, logistic",0.8,0.649276775556639
+99,"Learned R3, logistic",0.9,0.649276775556639
+99,"Learned R3, logistic",1.0,0.6187225743539736
+99,"Learned R3, boosting",0.05,0.6012514220705347
+99,"Learned R3, boosting",0.1,0.6013326832439461
+99,"Learned R3, boosting",0.15,0.6269299528685194
+99,"Learned R3, boosting",0.2,0.654233707134731
+99,"Learned R3, boosting",0.3,0.649276775556639
+99,"Learned R3, boosting",0.4,0.6221355436372501
+99,"Learned R3, boosting",0.5,0.5983260198277263
+99,"Learned R3, boosting",0.6,0.6017389891110028
+99,"Learned R3, boosting",0.73,0.6034454737526409
+99,"Learned R3, boosting",0.8,0.6034454737526409
+99,"Learned R3, boosting",0.9,0.6000325044693645
+99,"Learned R3, boosting",1.0,0.6187225743539736
+99,Oracle,0.05,0.7220055257597919
+99,Oracle,0.1,0.7476027953843652
+99,Oracle,0.15,0.7749065496505768
+99,Oracle,0.2,0.8022103039167884
+99,Oracle,0.3,0.8551113278075733
+99,Oracle,0.4,0.868763204940679
+99,Oracle,0.5,0.868763204940679
+99,Oracle,0.6,0.868763204940679
+99,Oracle,0.73,0.868763204940679
+99,Oracle,0.8,0.868763204940679
+99,Oracle,0.9,0.868763204940679
+99,Oracle,1.0,0.6187225743539735
+99,"Random, expected",0.05,0.6489070372176174
+99,"Random, expected",0.1,0.6473183812774257
+99,"Random, expected",0.15,0.6457297253372338
+99,"Random, expected",0.2,0.6441410693970421
+99,"Random, expected",0.3,0.6409637575166586
+99,"Random, expected",0.4,0.637786445636275
+99,"Random, expected",0.5,0.6346091337558915
+99,"Random, expected",0.6,0.6314318218755078
+99,"Random, expected",0.73,0.6273013164310093
+99,"Random, expected",0.8,0.6250771981147408
+99,"Random, expected",0.9,0.6218998862343572
+99,"Random, expected",1.0,0.6187225743539737
+109,"Confidence, least-confident first",0.05,0.5965382740126767
+109,"Confidence, least-confident first",0.1,0.5710222655615147
+109,"Confidence, least-confident first",0.15,0.5948317893710385
+109,"Confidence, least-confident first",0.2,0.5676092962782382
+109,"Confidence, least-confident first",0.3,0.5931253047294003
+109,"Confidence, least-confident first",0.4,0.5880058508044856
+109,"Confidence, least-confident first",0.5,0.5828863968795709
+109,"Confidence, least-confident first",0.6,0.5845928815212091
+109,"Confidence, least-confident first",0.73,0.5828863968795709
+109,"Confidence, least-confident first",0.8,0.5828863968795709
+109,"Confidence, least-confident first",0.9,0.5828863968795709
+109,"Confidence, least-confident first",1.0,0.5828863968795709
+109,"Learned R1, logistic",0.05,0.5472127417519909
+109,"Learned R1, logistic",0.1,0.5455062571103526
+109,"Learned R1, logistic",0.15,0.5437997724687145
+109,"Learned R1, logistic",0.2,0.5420932878270762
+109,"Learned R1, logistic",0.3,0.5369738339021616
+109,"Learned R1, logistic",0.4,0.5794734275962945
+109,"Learned R1, logistic",0.5,0.5777669429546562
+109,"Learned R1, logistic",0.6,0.5726474890297416
+109,"Learned R1, logistic",0.73,0.6032829514058183
+109,"Learned R1, logistic",0.8,0.6049894360474565
+109,"Learned R1, logistic",0.9,0.5828863968795709
+109,"Learned R1, logistic",1.0,0.5828863968795709
+109,"Learned R2, logistic",0.05,0.6254672517471151
+109,"Learned R2, logistic",0.1,0.6186413131805624
+109,"Learned R2, logistic",0.15,0.640744352348448
+109,"Learned R2, logistic",0.2,0.640744352348448
+109,"Learned R2, logistic",0.3,0.640744352348448
+109,"Learned R2, logistic",0.4,0.6373313830651715
+109,"Learned R2, logistic",0.5,0.6373313830651715
+109,"Learned R2, logistic",0.6,0.633918413781895
+109,"Learned R2, logistic",0.73,0.6356248984235332
+109,"Learned R2, logistic",0.8,0.6322119291402568
+109,"Learned R2, logistic",0.9,0.5811799122379327
+109,"Learned R2, logistic",1.0,0.5828863968795709
+109,"Learned R3, logistic",0.05,0.6033642125792297
+109,"Learned R3, logistic",0.1,0.6050706972208678
+109,"Learned R3, logistic",0.15,0.5795546887697058
+109,"Learned R3, logistic",0.2,0.5744352348447911
+109,"Learned R3, logistic",0.3,0.5948317893710385
+109,"Learned R3, logistic",0.4,0.5931253047294003
+109,"Learned R3, logistic",0.5,0.5897123354461238
+109,"Learned R3, logistic",0.6,0.5880058508044856
+109,"Learned R3, logistic",0.73,0.5880058508044856
+109,"Learned R3, logistic",0.8,0.6101088899723712
+109,"Learned R3, logistic",0.9,0.6101088899723712
+109,"Learned R3, logistic",1.0,0.5828863968795709
+109,"Learned R3, boosting",0.05,0.5438810336421258
+109,"Learned R3, boosting",0.1,0.5541199414919551
+109,"Learned R3, boosting",0.15,0.5779294653014789
+109,"Learned R3, boosting",0.2,0.5779294653014789
+109,"Learned R3, boosting",0.3,0.5779294653014789
+109,"Learned R3, boosting",0.4,0.5779294653014789
+109,"Learned R3, boosting",0.5,0.5796359499431172
+109,"Learned R3, boosting",0.6,0.5762229806598407
+109,"Learned R3, boosting",0.73,0.5693970420932878
+109,"Learned R3, boosting",0.8,0.588087111977897
+109,"Learned R3, boosting",0.9,0.6050706972208678
+109,"Learned R3, boosting",1.0,0.5828863968795709
+109,Oracle,0.05,0.6714610758979359
+109,Oracle,0.1,0.6748740451812123
+109,Oracle,0.15,0.6748740451812123
+109,Oracle,0.2,0.6748740451812123
+109,Oracle,0.3,0.6748740451812123
+109,Oracle,0.4,0.6748740451812123
+109,Oracle,0.5,0.6748740451812123
+109,Oracle,0.6,0.6748740451812123
+109,Oracle,0.73,0.6748740451812123
+109,Oracle,0.8,0.6748740451812123
+109,Oracle,0.9,0.6748740451812123
+109,Oracle,1.0,0.582886396879571
+109,"Random, expected",0.05,0.5781001137656427
+109,"Random, expected",0.1,0.5783520234032179
+109,"Random, expected",0.15,0.578603933040793
+109,"Random, expected",0.2,0.5788558426783682
+109,"Random, expected",0.3,0.5793596619535186
+109,"Random, expected",0.4,0.5798634812286689
+109,"Random, expected",0.5,0.5803673005038192
+109,"Random, expected",0.6,0.5808711197789695
+109,"Random, expected",0.73,0.581526084836665
+109,"Random, expected",0.8,0.5818787583292703
+109,"Random, expected",0.9,0.5823825776044206
+109,"Random, expected",1.0,0.5828863968795709
+119,"Confidence, least-confident first",0.05,0.523647001462701
+119,"Confidence, least-confident first",0.1,0.5099951243295953
+119,"Confidence, least-confident first",0.15,0.5201527710060133
+119,"Confidence, least-confident first",0.2,0.560945880058508
+119,"Confidence, least-confident first",0.3,0.588087111977897
+119,"Confidence, least-confident first",0.4,0.5641963269949618
+119,"Confidence, least-confident first",0.5,0.5420120266536649
+119,"Confidence, least-confident first",0.6,0.5487567040468064
+119,"Confidence, least-confident first",0.73,0.5827238745327482
+119,"Confidence, least-confident first",0.8,0.5793109052494718
+119,"Confidence, least-confident first",0.9,0.5793109052494718
+119,"Confidence, least-confident first",1.0,0.5793109052494718
+119,"Learned R1, logistic",0.05,0.49983747765317726
+119,"Learned R1, logistic",0.1,0.4861856005200715
+119,"Learned R1, logistic",0.15,0.4997562164797659
+119,"Learned R1, logistic",0.2,0.5150333170810986
+119,"Learned R1, logistic",0.3,0.5387615797172111
+119,"Learned R1, logistic",0.4,0.5420932878270761
+119,"Learned R1, logistic",0.5,0.5318543799772468
+119,"Learned R1, logistic",0.6,0.5488379652202177
+119,"Learned R1, logistic",0.73,0.5896310742727124
+119,"Learned R1, logistic",0.8,0.5862181049894359
+119,"Learned R1, logistic",0.9,0.5691532585730538
+119,"Learned R1, logistic",1.0,0.5793109052494718
+119,"Learned R2, logistic",0.05,0.5440435559889484
+119,"Learned R2, logistic",0.1,0.5559076873070047
+119,"Learned R2, logistic",0.15,0.5711847879083374
+119,"Learned R2, logistic",0.2,0.560945880058508
+119,"Learned R2, logistic",0.3,0.5693970420932878
+119,"Learned R2, logistic",0.4,0.555745164960182
+119,"Learned R2, logistic",0.5,0.5489192263936291
+119,"Learned R2, logistic",0.6,0.6118153746140094
+119,"Learned R2, logistic",0.73,0.6015764667641801
+119,"Learned R2, logistic",0.8,0.5930440435559889
+119,"Learned R2, logistic",0.9,0.5776856817812449
+119,"Learned R2, logistic",1.0,0.5793109052494718
+119,"Learned R3, logistic",0.05,0.5644401105151958
+119,"Learned R3, logistic",0.1,0.5627336258735576
+119,"Learned R3, logistic",0.15,0.5780107264748903
+119,"Learned R3, logistic",0.2,0.6001137656427759
+119,"Learned R3, logistic",0.3,0.5915813424345847
+119,"Learned R3, logistic",0.4,0.5813424345847553
+119,"Learned R3, logistic",0.5,0.571103526734926
+119,"Learned R3, logistic",0.6,0.5574516496018203
+119,"Learned R3, logistic",0.73,0.5369738339021616
+119,"Learned R3, logistic",0.8,0.5488379652202178
+119,"Learned R3, logistic",0.9,0.5572891272549976
+119,"Learned R3, logistic",1.0,0.5793109052494718
+119,"Learned R3, boosting",0.05,0.5083699008613684
+119,"Learned R3, boosting",0.1,0.5083699008613684
+119,"Learned R3, boosting",0.15,0.5066634162197301
+119,"Learned R3, boosting",0.2,0.5066634162197301
+119,"Learned R3, boosting",0.3,0.49983747765317726
+119,"Learned R3, boosting",0.4,0.5423370713473102
+119,"Learned R3, boosting",0.5,0.5320981634974808
+119,"Learned R3, boosting",0.6,0.5388428408906224
+119,"Learned R3, boosting",0.73,0.5370550950755728
+119,"Learned R3, boosting",0.8,0.5148707947342759
+119,"Learned R3, boosting",0.9,0.5896310742727124
+119,"Learned R3, boosting",1.0,0.5793109052494718
+119,Oracle,0.05,0.7481716235982447
+119,Oracle,0.1,0.7481716235982447
+119,Oracle,0.15,0.7481716235982447
+119,Oracle,0.2,0.7481716235982447
+119,Oracle,0.3,0.7481716235982447
+119,Oracle,0.4,0.7481716235982447
+119,Oracle,0.5,0.7481716235982447
+119,Oracle,0.6,0.7481716235982447
+119,Oracle,0.73,0.7464651389566065
+119,Oracle,0.8,0.7089224768405655
+119,Oracle,0.9,0.6543149683081424
+119,Oracle,1.0,0.5793109052494719
+119,"Random, expected",0.05,0.5345359986998212
+119,"Random, expected",0.1,0.5368925727287501
+119,"Random, expected",0.15,0.5392491467576791
+119,"Random, expected",0.2,0.5416057207866081
+119,"Random, expected",0.3,0.546318868844466
+119,"Random, expected",0.4,0.551032016902324
+119,"Random, expected",0.5,0.555745164960182
+119,"Random, expected",0.6,0.5604583130180399
+119,"Random, expected",0.73,0.5665854054932552
+119,"Random, expected",0.8,0.5698846091337558
+119,"Random, expected",0.9,0.5745977571916138
+119,"Random, expected",1.0,0.5793109052494717
+129,"Confidence, least-confident first",0.05,0.5741914513245572
+129,"Confidence, least-confident first",0.1,0.5673655127580043
+129,"Confidence, least-confident first",0.15,0.565659028116366
+129,"Confidence, least-confident first",0.2,0.5639525434747278
+129,"Confidence, least-confident first",0.3,0.5588330895498131
+129,"Confidence, least-confident first",0.4,0.5792296440760605
+129,"Confidence, least-confident first",0.5,0.5928002600357549
+129,"Confidence, least-confident first",0.6,0.6080773606370876
+129,"Confidence, least-confident first",0.73,0.5757354136193726
+129,"Confidence, least-confident first",0.8,0.5927189988623436
+129,"Confidence, least-confident first",0.9,0.5893060295790671
+129,"Confidence, least-confident first",1.0,0.6335121079148383
+129,"Learned R1, logistic",0.05,0.5861368438160247
+129,"Learned R1, logistic",0.1,0.5912562977409394
+129,"Learned R1, logistic",0.15,0.5963757516658541
+129,"Learned R1, logistic",0.2,0.5980822363074922
+129,"Learned R1, logistic",0.3,0.6082398829839103
+129,"Learned R1, logistic",0.4,0.6183975296603283
+129,"Learned R1, logistic",0.5,0.5877620672842516
+129,"Learned R1, logistic",0.6,0.5758166747927841
+129,"Learned R1, logistic",0.73,0.5621647976596782
+129,"Learned R1, logistic",0.8,0.5774418982610109
+129,"Learned R1, logistic",0.9,0.5961319681456201
+129,"Learned R1, logistic",1.0,0.6335121079148384
+129,"Learned R2, logistic",0.05,0.5776044206078336
+129,"Learned R2, logistic",0.1,0.5758979359661953
+129,"Learned R2, logistic",0.15,0.5776044206078336
+129,"Learned R2, logistic",0.2,0.5776044206078336
+129,"Learned R2, logistic",0.3,0.5980009751340809
+129,"Learned R2, logistic",0.4,0.5758979359661953
+129,"Learned R2, logistic",0.5,0.623516983585243
+129,"Learned R2, logistic",0.6,0.6387940841865757
+129,"Learned R2, logistic",0.73,0.6200227531285553
+129,"Learned R2, logistic",0.8,0.6114903299203641
+129,"Learned R2, logistic",0.9,0.6199414919551439
+129,"Learned R2, logistic",1.0,0.6335121079148384
+129,"Learned R3, logistic",0.05,0.5997074597757192
+129,"Learned R3, logistic",0.1,0.5945880058508045
+129,"Learned R3, logistic",0.15,0.6218104989436047
+129,"Learned R3, logistic",0.2,0.6014139444173574
+129,"Learned R3, logistic",0.3,0.6031204290589957
+129,"Learned R3, logistic",0.4,0.6541524459613197
+129,"Learned R3, logistic",0.5,0.6439135381114903
+129,"Learned R3, logistic",0.6,0.6387940841865757
+129,"Learned R3, logistic",0.73,0.6438322769380791
+129,"Learned R3, logistic",0.8,0.6301803998049733
+129,"Learned R3, logistic",0.9,0.6233544612384203
+129,"Learned R3, logistic",1.0,0.6335121079148384
+129,"Learned R3, boosting",0.05,0.5912562977409394
+129,"Learned R3, boosting",0.1,0.5980822363074922
+129,"Learned R3, boosting",0.15,0.6049081748740452
+129,"Learned R3, boosting",0.2,0.5913375589143507
+129,"Learned R3, boosting",0.3,0.5913375589143507
+129,"Learned R3, boosting",0.4,0.5913375589143507
+129,"Learned R3, boosting",0.5,0.5896310742727126
+129,"Learned R3, boosting",0.6,0.6049081748740452
+129,"Learned R3, boosting",0.73,0.5895498130993012
+129,"Learned R3, boosting",0.8,0.5962944904924428
+129,"Learned R3, boosting",0.9,0.6455387615797172
+129,"Learned R3, boosting",1.0,0.6335121079148384
+129,Oracle,0.05,0.7392328945229969
+129,Oracle,0.1,0.7580042255810173
+129,Oracle,0.15,0.7580042255810173
+129,Oracle,0.2,0.7580042255810173
+129,Oracle,0.3,0.7580042255810173
+129,Oracle,0.4,0.7580042255810173
+129,Oracle,0.5,0.7580042255810173
+129,Oracle,0.6,0.7580042255810173
+129,Oracle,0.73,0.7580042255810173
+129,Oracle,0.8,0.7580042255810173
+129,Oracle,0.9,0.7085161709735088
+129,Oracle,1.0,0.6335121079148384
+129,"Random, expected",0.05,0.5820209653827402
+129,"Random, expected",0.1,0.5847310255160084
+129,"Random, expected",0.15,0.5874410856492768
+129,"Random, expected",0.2,0.5901511457825451
+129,"Random, expected",0.3,0.5955712660490817
+129,"Random, expected",0.4,0.6009913863156184
+129,"Random, expected",0.5,0.606411506582155
+129,"Random, expected",0.6,0.6118316268486917
+129,"Random, expected",0.73,0.6188777831951894
+129,"Random, expected",0.8,0.622671867381765
+129,"Random, expected",0.9,0.6280919876483017
+129,"Random, expected",1.0,0.6335121079148383
+139,"Confidence, least-confident first",0.05,0.6827563790021128
+139,"Confidence, least-confident first",0.1,0.6895823175686657
+139,"Confidence, least-confident first",0.15,0.699821225418495
+139,"Confidence, least-confident first",0.2,0.6845441248171624
+139,"Confidence, least-confident first",0.3,0.6760929627823826
+139,"Confidence, least-confident first",0.4,0.6897448399154884
+139,"Confidence, least-confident first",0.5,0.6830001625223469
+139,"Confidence, least-confident first",0.6,0.6932390703721762
+139,"Confidence, least-confident first",0.73,0.691532585730538
+139,"Confidence, least-confident first",0.8,0.691532585730538
+139,"Confidence, least-confident first",0.9,0.7153421095400618
+139,"Confidence, least-confident first",1.0,0.6932390703721762
+139,"Learned R1, logistic",0.05,0.6742239557939217
+139,"Learned R1, logistic",0.1,0.6793434097188363
+139,"Learned R1, logistic",0.15,0.6861693482853892
+139,"Learned R1, logistic",0.2,0.6964082561352186
+139,"Learned R1, logistic",0.3,0.6879570941004388
+139,"Learned R1, logistic",0.4,0.6930765480253535
+139,"Learned R1, logistic",0.5,0.6999024865919063
+139,"Learned R1, logistic",0.6,0.6965707784820413
+139,"Learned R1, logistic",0.73,0.7033967170485942
+139,"Learned R1, logistic",0.8,0.7085161709735088
+139,"Learned R1, logistic",0.9,0.684706647163985
+139,"Learned R1, logistic",1.0,0.6932390703721761
+139,"Learned R2, logistic",0.05,0.6793434097188363
+139,"Learned R2, logistic",0.1,0.6878758329270275
+139,"Learned R2, logistic",0.15,0.6760117016089713
+139,"Learned R2, logistic",0.2,0.6556151470827238
+139,"Learned R2, logistic",0.3,0.6692670242158297
+139,"Learned R2, logistic",0.4,0.6726799934991061
+139,"Learned R2, logistic",0.5,0.6556964082561352
+139,"Learned R2, logistic",0.6,0.6880383552738502
+139,"Learned R2, logistic",0.73,0.6693482853892411
+139,"Learned R2, logistic",0.8,0.6693482853892411
+139,"Learned R2, logistic",0.9,0.6830001625223469
+139,"Learned R2, logistic",1.0,0.6932390703721762
+139,"Learned R3, logistic",0.05,0.6810498943604746
+139,"Learned R3, logistic",0.1,0.6964082561352186
+139,"Learned R3, logistic",0.15,0.6607346010076386
+139,"Learned R3, logistic",0.2,0.6454575004063059
+139,"Learned R3, logistic",0.3,0.653989923614497
+139,"Learned R3, logistic",0.4,0.6608158621810499
+139,"Learned R3, logistic",0.5,0.6625223468226882
+139,"Learned R3, logistic",0.6,0.6642288314643263
+139,"Learned R3, logistic",0.73,0.6676418007476028
+139,"Learned R3, logistic",0.8,0.676174223955794
+139,"Learned R3, logistic",0.9,0.6812936778807086
+139,"Learned R3, logistic",1.0,0.6932390703721762
+139,"Learned R3, boosting",0.05,0.691288802210304
+139,"Learned R3, boosting",0.1,0.6607346010076386
+139,"Learned R3, boosting",0.15,0.6846253859905738
+139,"Learned R3, boosting",0.2,0.6744677393141557
+139,"Learned R3, boosting",0.3,0.706890947505282
+139,"Learned R3, boosting",0.4,0.722249309280026
+139,"Learned R3, boosting",0.5,0.7001462701121404
+139,"Learned R3, boosting",0.6,0.7001462701121404
+139,"Learned R3, boosting",0.73,0.7188363399967496
+139,"Learned R3, boosting",0.8,0.7120104014301967
+139,"Learned R3, boosting",0.9,0.706890947505282
+139,"Learned R3, boosting",1.0,0.6932390703721762
+139,Oracle,0.05,0.7150983260198277
+139,Oracle,0.1,0.740695595644401
+139,Oracle,0.15,0.7679993499106126
+139,Oracle,0.2,0.7953031041768241
+139,Oracle,0.3,0.8226068584430357
+139,Oracle,0.4,0.8226068584430357
+139,Oracle,0.5,0.8226068584430357
+139,Oracle,0.6,0.8226068584430357
+139,Oracle,0.73,0.8226068584430357
+139,Oracle,0.8,0.8226068584430357
+139,Oracle,0.9,0.8226068584430357
+139,Oracle,1.0,0.693239070372176
+139,"Random, expected",0.05,0.6670689094750528
+139,"Random, expected",0.1,0.6684462863643751
+139,"Random, expected",0.15,0.6698236632536974
+139,"Random, expected",0.2,0.6712010401430197
+139,"Random, expected",0.3,0.6739557939216643
+139,"Random, expected",0.4,0.6767105477003088
+139,"Random, expected",0.5,0.6794653014789533
+139,"Random, expected",0.6,0.682220055257598
+139,"Random, expected",0.73,0.6858012351698358
+139,"Random, expected",0.8,0.6877295628148871
+139,"Random, expected",0.9,0.6904843165935316
+139,"Random, expected",1.0,0.6932390703721762
+149,"Confidence, least-confident first",0.05,0.5668779457175361
+149,"Confidence, least-confident first",0.1,0.5601332683243946
+149,"Confidence, least-confident first",0.15,0.5771981147407769
+149,"Confidence, least-confident first",0.2,0.5908499918738827
+149,"Confidence, least-confident first",0.3,0.6453762392328944
+149,"Confidence, least-confident first",0.4,0.6964895173086298
+149,"Confidence, least-confident first",0.5,0.7237932715748414
+149,"Confidence, least-confident first",0.6,0.7136356248984234
+149,"Confidence, least-confident first",0.73,0.6847879083373962
+149,"Confidence, least-confident first",0.8,0.6882008776206726
+149,"Confidence, least-confident first",0.9,0.6643913538111488
+149,"Confidence, least-confident first",1.0,0.6643913538111488
+149,"Learned R1, logistic",0.05,0.5702909150008125
+149,"Learned R1, logistic",0.1,0.5890622460588331
+149,"Learned R1, logistic",0.15,0.5874370225906062
+149,"Learned R1, logistic",0.2,0.6079148382902648
+149,"Learned R1, logistic",0.3,0.6437510157646675
+149,"Learned R1, logistic",0.4,0.6761742239557937
+149,"Learned R1, logistic",0.5,0.6745490004875668
+149,"Learned R1, logistic",0.6,0.666097838452787
+149,"Learned R1, logistic",0.73,0.6695108077360635
+149,"Learned R1, logistic",0.8,0.6695108077360635
+149,"Learned R1, logistic",0.9,0.666097838452787
+149,"Learned R1, logistic",1.0,0.6643913538111488
+149,"Learned R2, logistic",0.05,0.5754103689257273
+149,"Learned R2, logistic",0.1,0.5669592068909475
+149,"Learned R2, logistic",0.15,0.5823175686656915
+149,"Learned R2, logistic",0.2,0.6062083536486267
+149,"Learned R2, logistic",0.3,0.5910125142207052
+149,"Learned R2, logistic",0.4,0.5910937753941166
+149,"Learned R2, logistic",0.5,0.6081586218104988
+149,"Learned R2, logistic",0.6,0.5980009751340808
+149,"Learned R2, logistic",0.73,0.6014139444173573
+149,"Learned R2, logistic",0.8,0.6048269137006337
+149,"Learned R2, logistic",0.9,0.6337558914350722
+149,"Learned R2, logistic",1.0,0.6643913538111489
+149,"Learned R3, logistic",0.05,0.5941004388103364
+149,"Learned R3, logistic",0.1,0.6111652852267186
+149,"Learned R3, logistic",0.15,0.6299366162847391
+149,"Learned R3, logistic",0.2,0.652120916626036
+149,"Learned R3, logistic",0.3,0.6386315618397528
+149,"Learned R3, logistic",0.4,0.6217292377701932
+149,"Learned R3, logistic",0.5,0.6370875995449372
+149,"Learned R3, logistic",0.6,0.6473265073947665
+149,"Learned R3, logistic",0.73,0.6524459613196812
+149,"Learned R3, logistic",0.8,0.650739476678043
+149,"Learned R3, logistic",0.9,0.6354623760767103
+149,"Learned R3, logistic",1.0,0.6643913538111488
+149,"Learned R3, boosting",0.05,0.5788233382090037
+149,"Learned R3, boosting",0.1,0.6027141231919388
+149,"Learned R3, boosting",0.15,0.6283113928165122
+149,"Learned R3, boosting",0.2,0.6487892085161708
+149,"Learned R3, boosting",0.3,0.6863318706322118
+149,"Learned R3, boosting",0.4,0.6473265073947666
+149,"Learned R3, boosting",0.5,0.6439947992849014
+149,"Learned R3, boosting",0.6,0.6474077685681778
+149,"Learned R3, boosting",0.73,0.6474077685681778
+149,"Learned R3, boosting",0.8,0.6474077685681778
+149,"Learned R3, boosting",0.9,0.6474077685681778
+149,"Learned R3, boosting",1.0,0.6643913538111488
+149,Oracle,0.05,0.6230294165447748
+149,Oracle,0.1,0.6486266861693482
+149,Oracle,0.15,0.6759304404355597
+149,Oracle,0.2,0.7032341947017713
+149,Oracle,0.3,0.7561352185925563
+149,Oracle,0.4,0.7936778807085971
+149,Oracle,0.5,0.7936778807085971
+149,Oracle,0.6,0.7936778807085971
+149,Oracle,0.73,0.7936778807085971
+149,Oracle,0.8,0.7936778807085971
+149,Oracle,0.9,0.7936778807085971
+149,Oracle,1.0,0.6643913538111488
+149,"Random, expected",0.05,0.5571631724362099
+149,"Random, expected",0.1,0.5628067609296278
+149,"Random, expected",0.15,0.5684503494230456
+149,"Random, expected",0.2,0.5740939379164635
+149,"Random, expected",0.3,0.5853811149032991
+149,"Random, expected",0.4,0.5966682918901348
+149,"Random, expected",0.5,0.6079554688769706
+149,"Random, expected",0.6,0.6192426458638063
+149,"Random, expected",0.73,0.6339159759466926
+149,"Random, expected",0.8,0.6418169998374776
+149,"Random, expected",0.9,0.6531041768243133
+149,"Random, expected",1.0,0.664391353811149
+159,"Confidence, least-confident first",0.05,0.6366000325044693
+159,"Confidence, least-confident first",0.1,0.6502519096375752
+159,"Confidence, least-confident first",0.15,0.6656102714123191
+159,"Confidence, least-confident first",0.2,0.64692020152771
+159,"Confidence, least-confident first",0.3,0.6759304404355598
+159,"Confidence, least-confident first",0.4,0.7015277100601331
+159,"Confidence, least-confident first",0.5,0.7373638875345359
+159,"Confidence, least-confident first",0.6,0.7272062408581178
+159,"Confidence, least-confident first",0.73,0.7545099951243294
+159,"Confidence, least-confident first",0.8,0.7579229644076059
+159,"Confidence, least-confident first",0.9,0.7698683568990734
+159,"Confidence, least-confident first",1.0,0.7715748415407117
+159,"Learned R1, logistic",0.05,0.6400130017877458
+159,"Learned R1, logistic",0.1,0.6570778482041281
+159,"Learned R1, logistic",0.15,0.6741426946205102
+159,"Learned R1, logistic",0.2,0.6895010563952543
+159,"Learned R1, logistic",0.3,0.7202177799447422
+159,"Learned R1, logistic",0.4,0.7202990411181536
+159,"Learned R1, logistic",0.5,0.7424833414594505
+159,"Learned R1, logistic",0.6,0.7612546725174709
+159,"Learned R1, logistic",0.73,0.776613034292215
+159,"Learned R1, logistic",0.8,0.751097025841053
+159,"Learned R1, logistic",0.9,0.7562164797659676
+159,"Learned R1, logistic",1.0,0.7715748415407115
+159,"Learned R2, logistic",0.05,0.6451324557126604
+159,"Learned R2, logistic",0.1,0.6621973021290427
+159,"Learned R2, logistic",0.15,0.6792621485454249
+159,"Learned R2, logistic",0.2,0.6963269949618072
+159,"Learned R2, logistic",0.3,0.7219242645863805
+159,"Learned R2, logistic",0.4,0.7134731025516007
+159,"Learned R2, logistic",0.5,0.7101413944417356
+159,"Learned R2, logistic",0.6,0.7254997562164796
+159,"Learned R2, logistic",0.73,0.7391516333495853
+159,"Learned R2, logistic",0.8,0.7391516333495853
+159,"Learned R2, logistic",0.9,0.7442710872745
+159,"Learned R2, logistic",1.0,0.7715748415407115
+159,"Learned R3, logistic",0.05,0.6485454249959369
+159,"Learned R3, logistic",0.1,0.6604908174874045
+159,"Learned R3, logistic",0.15,0.6792621485454249
+159,"Learned R3, logistic",0.2,0.6708109865106451
+159,"Learned R3, logistic",0.3,0.708353648626686
+159,"Learned R3, logistic",0.4,0.7373638875345359
+159,"Learned R3, logistic",0.5,0.7254997562164796
+159,"Learned R3, logistic",0.6,0.7374451487079472
+159,"Learned R3, logistic",0.73,0.7408581179912236
+159,"Learned R3, logistic",0.8,0.7459775719161382
+159,"Learned R3, logistic",0.9,0.7528035104826911
+159,"Learned R3, logistic",1.0,0.7715748415407115
+159,"Learned R3, boosting",0.05,0.6247359011864131
+159,"Learned R3, boosting",0.1,0.6435072322444335
+159,"Learned R3, boosting",0.15,0.6639850479440923
+159,"Learned R3, boosting",0.2,0.6878758329270274
+159,"Learned R3, boosting",0.3,0.7271249796847066
+159,"Learned R3, boosting",0.4,0.7680806110840239
+159,"Learned R3, boosting",0.5,0.7784007801072645
+159,"Learned R3, boosting",0.6,0.7835202340321792
+159,"Learned R3, boosting",0.73,0.7869332033154557
+159,"Learned R3, boosting",0.8,0.7852267186738174
+159,"Learned R3, boosting",0.9,0.7801072647489027
+159,"Learned R3, boosting",1.0,0.7715748415407117
+159,Oracle,0.05,0.6519583942792133
+159,Oracle,0.1,0.6775556639037867
+159,Oracle,0.15,0.7048594181699983
+159,Oracle,0.2,0.7321631724362099
+159,Oracle,0.3,0.7850641963269948
+159,Oracle,0.4,0.8345522509345032
+159,Oracle,0.5,0.8345522509345032
+159,Oracle,0.6,0.8345522509345032
+159,Oracle,0.73,0.8345522509345032
+159,Oracle,0.8,0.8345522509345032
+159,Oracle,0.9,0.8345522509345032
+159,Oracle,1.0,0.7715748415407115
+159,"Random, expected",0.05,0.6320006500893872
+159,"Random, expected",0.1,0.6393466601657728
+159,"Random, expected",0.15,0.6466926702421583
+159,"Random, expected",0.2,0.6540386803185437
+159,"Random, expected",0.3,0.6687307004713148
+159,"Random, expected",0.4,0.6834227206240858
+159,"Random, expected",0.5,0.6981147407768568
+159,"Random, expected",0.6,0.7128067609296278
+159,"Random, expected",0.73,0.7319063871282301
+159,"Random, expected",0.8,0.7421908012351698
+159,"Random, expected",0.9,0.7568828213879408
+159,"Random, expected",1.0,0.7715748415407118
+169,"Confidence, least-confident first",0.05,0.6065333983422719
+169,"Confidence, least-confident first",0.1,0.5878433284576629
+169,"Confidence, least-confident first",0.15,0.6049081748740451
+169,"Confidence, least-confident first",0.2,0.611734113440598
+169,"Confidence, least-confident first",0.3,0.6253859905737038
+169,"Confidence, least-confident first",0.4,0.6441573216317242
+169,"Confidence, least-confident first",0.5,0.6271737363887533
+169,"Confidence, least-confident first",0.6,0.6357061595969444
+169,"Confidence, least-confident first",0.73,0.6459450674467738
+169,"Confidence, least-confident first",0.8,0.6255485129205265
+169,"Confidence, least-confident first",0.9,0.6306679668454411
+169,"Confidence, least-confident first",1.0,0.6323744514870794
+169,"Learned R1, logistic",0.05,0.6031204290589955
+169,"Learned R1, logistic",0.1,0.6116528522671867
+169,"Learned R1, logistic",0.15,0.6184787908337396
+169,"Learned R1, logistic",0.2,0.6184787908337396
+169,"Learned R1, logistic",0.3,0.6201852754753778
+169,"Learned R1, logistic",0.4,0.6100276287989598
+169,"Learned R1, logistic",0.5,0.6219730212904273
+169,"Learned R1, logistic",0.6,0.6491955143832276
+169,"Learned R1, logistic",0.73,0.6543149683081423
+169,"Learned R1, logistic",0.8,0.6645538761579717
+169,"Learned R1, logistic",0.9,0.6408256135218591
+169,"Learned R1, logistic",1.0,0.6323744514870793
+169,"Learned R2, logistic",0.05,0.5793109052494717
+169,"Learned R2, logistic",0.1,0.564033804648139
+169,"Learned R2, logistic",0.15,0.5742727124979684
+169,"Learned R2, logistic",0.2,0.5879245896310742
+169,"Learned R2, logistic",0.3,0.5964570128392653
+169,"Learned R2, logistic",0.4,0.576060458313018
+169,"Learned R2, logistic",0.5,0.5828863968795709
+169,"Learned R2, logistic",0.6,0.6049894360474565
+169,"Learned R2, logistic",0.73,0.6118153746140094
+169,"Learned R2, logistic",0.8,0.591418820087762
+169,"Learned R2, logistic",0.9,0.613603120429059
+169,"Learned R2, logistic",1.0,0.6323744514870794
+169,"Learned R3, logistic",0.05,0.6150658215504631
+169,"Learned R3, logistic",0.1,0.5828051357061595
+169,"Learned R3, logistic",0.15,0.5743539736713797
+169,"Learned R3, logistic",0.2,0.5828863968795709
+169,"Learned R3, logistic",0.3,0.5727287502031528
+169,"Learned R3, logistic",0.4,0.5795546887697057
+169,"Learned R3, logistic",0.5,0.5829676580529822
+169,"Learned R3, logistic",0.6,0.581261173411344
+169,"Learned R3, logistic",0.73,0.581261173411344
+169,"Learned R3, logistic",0.8,0.581261173411344
+169,"Learned R3, logistic",0.9,0.6170160897123353
+169,"Learned R3, logistic",1.0,0.6323744514870794
+169,"Learned R3, boosting",0.05,0.621891760117016
+169,"Learned R3, boosting",0.1,0.6457825450999511
+169,"Learned R3, boosting",0.15,0.6220542824638386
+169,"Learned R3, boosting",0.2,0.6391191288802209
+169,"Learned R3, boosting",0.3,0.6119778969608319
+169,"Learned R3, boosting",0.4,0.6170973508857467
+169,"Learned R3, boosting",0.5,0.6170973508857467
+169,"Learned R3, boosting",0.6,0.6170973508857467
+169,"Learned R3, boosting",0.73,0.6170973508857467
+169,"Learned R3, boosting",0.8,0.6153908662441084
+169,"Learned R3, boosting",0.9,0.6392003900536323
+169,"Learned R3, boosting",1.0,0.6323744514870794
+169,Oracle,0.05,0.6439947992849016
+169,Oracle,0.1,0.6695920689094749
+169,Oracle,0.15,0.6968958231756864
+169,Oracle,0.2,0.7241995774418981
+169,Oracle,0.3,0.7446773931415567
+169,Oracle,0.4,0.7446773931415567
+169,Oracle,0.5,0.7446773931415567
+169,Oracle,0.6,0.7446773931415567
+169,Oracle,0.73,0.7446773931415567
+169,Oracle,0.8,0.7446773931415567
+169,Oracle,0.9,0.7446773931415567
+169,Oracle,1.0,0.6323744514870793
+169,"Random, expected",0.05,0.5964773281326181
+169,"Random, expected",0.1,0.5983666504144319
+169,"Random, expected",0.15,0.6002559726962456
+169,"Random, expected",0.2,0.6021452949780594
+169,"Random, expected",0.3,0.6059239395416869
+169,"Random, expected",0.4,0.6097025841053144
+169,"Random, expected",0.5,0.613481228668942
+169,"Random, expected",0.6,0.6172598732325694
+169,"Random, expected",0.73,0.6221721111652851
+169,"Random, expected",0.8,0.6248171623598244
+169,"Random, expected",0.9,0.6285958069234518
+169,"Random, expected",1.0,0.6323744514870794
+179,"Confidence, least-confident first",0.05,0.6680481066146595
+179,"Confidence, least-confident first",0.1,0.6748740451812124
+179,"Confidence, least-confident first",0.15,0.6986835689907362
+179,"Confidence, least-confident first",0.2,0.6816999837477653
+179,"Confidence, least-confident first",0.3,0.6816999837477653
+179,"Confidence, least-confident first",0.4,0.6885259223143182
+179,"Confidence, least-confident first",0.5,0.6460263286201853
+179,"Confidence, least-confident first",0.6,0.6273362587355761
+179,"Confidence, least-confident first",0.73,0.6290427433772143
+179,"Confidence, least-confident first",0.8,0.6069397042093287
+179,"Confidence, least-confident first",0.9,0.6120591581342434
+179,"Confidence, least-confident first",1.0,0.591662603607996
+179,"Learned R1, logistic",0.05,0.6527710060133268
+179,"Learned R1, logistic",0.1,0.6561839752966032
+179,"Learned R1, logistic",0.15,0.6578904599382415
+179,"Learned R1, logistic",0.2,0.661303429221518
+179,"Learned R1, logistic",0.3,0.661303429221518
+179,"Learned R1, logistic",0.4,0.6374939054119941
+179,"Learned R1, logistic",0.5,0.6392003900536324
+179,"Learned R1, logistic",0.6,0.6374939054119941
+179,"Learned R1, logistic",0.73,0.6647163985047944
+179,"Learned R1, logistic",0.8,0.6698358524297091
+179,"Learned R1, logistic",0.9,0.6256297740939379
+179,"Learned R1, logistic",1.0,0.591662603607996
+179,"Learned R2, logistic",0.05,0.6527710060133268
+179,"Learned R2, logistic",0.1,0.6561839752966032
+179,"Learned R2, logistic",0.15,0.6323744514870795
+179,"Learned R2, logistic",0.2,0.6323744514870795
+179,"Learned R2, logistic",0.3,0.6323744514870795
+179,"Learned R2, logistic",0.4,0.6340809361287176
+179,"Learned R2, logistic",0.5,0.6340809361287176
+179,"Learned R2, logistic",0.6,0.6340809361287176
+179,"Learned R2, logistic",0.73,0.6392003900536324
+179,"Learned R2, logistic",0.8,0.6205103201690232
+179,"Learned R2, logistic",0.9,0.6239232894522997
+179,"Learned R2, logistic",1.0,0.591662603607996
+179,"Learned R3, logistic",0.05,0.6306679668454412
+179,"Learned R3, logistic",0.1,0.6136843816024703
+179,"Learned R3, logistic",0.15,0.6188038355273849
+179,"Learned R3, logistic",0.2,0.6222168048106614
+179,"Learned R3, logistic",0.3,0.6188038355273849
+179,"Learned R3, logistic",0.4,0.6188038355273849
+179,"Learned R3, logistic",0.5,0.6188038355273849
+179,"Learned R3, logistic",0.6,0.6188038355273849
+179,"Learned R3, logistic",0.73,0.6222168048106614
+179,"Learned R3, logistic",0.8,0.6273362587355761
+179,"Learned R3, logistic",0.9,0.6324557126604908
+179,"Learned R3, logistic",1.0,0.591662603607996
+179,"Learned R3, boosting",0.05,0.6374939054119941
+179,"Learned R3, boosting",0.1,0.6324557126604908
+179,"Learned R3, boosting",0.15,0.5950755728912726
+179,"Learned R3, boosting",0.2,0.6001950268161872
+179,"Learned R3, boosting",0.3,0.6001950268161872
+179,"Learned R3, boosting",0.4,0.6001950268161872
+179,"Learned R3, boosting",0.5,0.6001950268161872
+179,"Learned R3, boosting",0.6,0.6001950268161872
+179,"Learned R3, boosting",0.73,0.6001950268161872
+179,"Learned R3, boosting",0.8,0.6001950268161872
+179,"Learned R3, boosting",0.9,0.6222980659840728
+179,"Learned R3, boosting",1.0,0.591662603607996
+179,Oracle,0.05,0.7157484154071184
+179,Oracle,0.1,0.7413456850316917
+179,Oracle,0.15,0.7464651389566065
+179,Oracle,0.2,0.7464651389566065
+179,Oracle,0.3,0.7464651389566065
+179,Oracle,0.4,0.7464651389566065
+179,Oracle,0.5,0.7464651389566065
+179,Oracle,0.6,0.7464651389566065
+179,Oracle,0.73,0.7464651389566065
+179,Oracle,0.8,0.7464651389566065
+179,Oracle,0.9,0.7464651389566065
+179,Oracle,1.0,0.591662603607996
+179,"Random, expected",0.05,0.66260767105477
+179,"Random, expected",0.1,0.6588737201365188
+179,"Random, expected",0.15,0.6551397692182674
+179,"Random, expected",0.2,0.6514058183000162
+179,"Random, expected",0.3,0.6439379164635137
+179,"Random, expected",0.4,0.6364700146270112
+179,"Random, expected",0.5,0.6290021127905087
+179,"Random, expected",0.6,0.6215342109540062
+179,"Random, expected",0.73,0.6118259385665529
+179,"Random, expected",0.8,0.6065984072810011
+179,"Random, expected",0.9,0.5991305054444986
+179,"Random, expected",1.0,0.591662603607996
+189,"Confidence, least-confident first",0.05,0.6069397042093286
+189,"Confidence, least-confident first",0.1,0.6426133593369087
+189,"Confidence, least-confident first",0.15,0.6799934991061269
+189,"Confidence, least-confident first",0.2,0.6969770843490979
+189,"Confidence, least-confident first",0.3,0.7224118316268486
+189,"Confidence, least-confident first",0.4,0.7121729237770192
+189,"Confidence, least-confident first",0.5,0.7257435397367137
+189,"Confidence, least-confident first",0.6,0.7137981472452462
+189,"Confidence, least-confident first",0.73,0.7001462701121404
+189,"Confidence, least-confident first",0.8,0.6899073622623111
+189,"Confidence, least-confident first",0.9,0.6813749390541199
+189,"Confidence, least-confident first",1.0,0.6711360312042906
+189,"Learned R1, logistic",0.05,0.6052332195676904
+189,"Learned R1, logistic",0.1,0.6085649276775555
+189,"Learned R1, logistic",0.15,0.6000325044693644
+189,"Learned R1, logistic",0.2,0.6425320981634973
+189,"Learned R1, logistic",0.3,0.6679668454412481
+189,"Learned R1, logistic",0.4,0.6849504306842189
+189,"Learned R1, logistic",0.5,0.6916951080773606
+189,"Learned R1, logistic",0.6,0.6814562002275312
+189,"Learned R1, logistic",0.73,0.6916138469039492
+189,"Learned R1, logistic",0.8,0.6830814236957581
+189,"Learned R1, logistic",0.9,0.6762554851292052
+189,"Learned R1, logistic",1.0,0.6711360312042906
+189,"Learned R2, logistic",0.05,0.6103526734926051
+189,"Learned R2, logistic",0.1,0.6443198439785469
+189,"Learned R2, logistic",0.15,0.6561839752966031
+189,"Learned R2, logistic",0.2,0.673167560539574
+189,"Learned R2, logistic",0.3,0.6595156834064683
+189,"Learned R2, logistic",0.4,0.6458638062733625
+189,"Learned R2, logistic",0.5,0.6305054444986185
+189,"Learned R2, logistic",0.6,0.6440760604583129
+189,"Learned R2, logistic",0.73,0.6661790996261985
+189,"Learned R2, logistic",0.8,0.6593531610596456
+189,"Learned R2, logistic",0.9,0.6950268161872256
+189,"Learned R2, logistic",1.0,0.6711360312042906
+189,"Learned R3, logistic",0.05,0.6154721274175198
+189,"Learned R3, logistic",0.1,0.6052332195676904
+189,"Learned R3, logistic",0.15,0.601820250284414
+189,"Learned R3, logistic",0.2,0.6205103201690231
+189,"Learned R3, logistic",0.3,0.6034454737526408
+189,"Learned R3, logistic",0.4,0.6238420282788882
+189,"Learned R3, logistic",0.5,0.6442385828051356
+189,"Learned R3, logistic",0.6,0.6408256135218591
+189,"Learned R3, logistic",0.73,0.6203477978222004
+189,"Learned R3, logistic",0.8,0.6322119291402566
+189,"Learned R3, logistic",0.9,0.6542337071347308
+189,"Learned R3, logistic",1.0,0.6711360312042904
+189,"Learned R3, boosting",0.05,0.6205915813424344
+189,"Learned R3, boosting",0.1,0.6222980659840727
+189,"Learned R3, boosting",0.15,0.6222980659840727
+189,"Learned R3, boosting",0.2,0.6188850967007962
+189,"Learned R3, boosting",0.3,0.6409881358686818
+189,"Learned R3, boosting",0.4,0.6409881358686818
+189,"Learned R3, boosting",0.5,0.6239232894522996
+189,"Learned R3, boosting",0.6,0.6527710060133267
+189,"Learned R3, boosting",0.73,0.625467251747115
+189,"Learned R3, boosting",0.8,0.6118153746140093
+189,"Learned R3, boosting",0.9,0.6304241833252071
+189,"Learned R3, boosting",1.0,0.6711360312042904
+189,Oracle,0.05,0.8161872257435396
+189,Oracle,0.1,0.8161872257435396
+189,Oracle,0.15,0.8161872257435396
+189,Oracle,0.2,0.8161872257435396
+189,Oracle,0.3,0.8161872257435396
+189,Oracle,0.4,0.8161872257435396
+189,Oracle,0.5,0.8161872257435396
+189,Oracle,0.6,0.8161872257435396
+189,Oracle,0.73,0.8161872257435396
+189,Oracle,0.8,0.7786445636274987
+189,Oracle,0.9,0.7240370550950755
+189,Oracle,1.0,0.6711360312042907
+189,"Random, expected",0.05,0.6247399642450836
+189,"Random, expected",0.1,0.6271818625060944
+189,"Random, expected",0.15,0.6296237607671054
+189,"Random, expected",0.2,0.6320656590281162
+189,"Random, expected",0.3,0.636949455550138
+189,"Random, expected",0.4,0.6418332520721598
+189,"Random, expected",0.5,0.6467170485941816
+189,"Random, expected",0.6,0.6516008451162033
+189,"Random, expected",0.73,0.6579497805948317
+189,"Random, expected",0.8,0.6613684381602469
+189,"Random, expected",0.9,0.6662522346822687
+189,"Random, expected",1.0,0.6711360312042904
+199,"Confidence, least-confident first",0.05,0.6779619697708434
+199,"Confidence, least-confident first",0.1,0.6949455550138144
+199,"Confidence, least-confident first",0.15,0.6932390703721761
+199,"Confidence, least-confident first",0.2,0.684706647163985
+199,"Confidence, least-confident first",0.3,0.6761742239557939
+199,"Confidence, least-confident first",0.4,0.6608158621810498
+199,"Confidence, least-confident first",0.5,0.6675605395741914
+199,"Confidence, least-confident first",0.6,0.6760117016089712
+199,"Confidence, least-confident first",0.73,0.6572403705509507
+199,"Confidence, least-confident first",0.8,0.6401755241345685
+199,"Confidence, least-confident first",0.9,0.6282301316431009
+199,"Confidence, least-confident first",1.0,0.6282301316431009
+199,"Learned R1, logistic",0.05,0.6608971233544612
+199,"Learned R1, logistic",0.1,0.6795871932390704
+199,"Learned R1, logistic",0.15,0.6744677393141556
+199,"Learned R1, logistic",0.2,0.6727612546725175
+199,"Learned R1, logistic",0.3,0.669348285389241
+199,"Learned R1, logistic",0.4,0.6880383552738502
+199,"Learned R1, logistic",0.5,0.6812124167072972
+199,"Learned R1, logistic",0.6,0.6675605395741914
+199,"Learned R1, logistic",0.73,0.6777181862506094
+199,"Learned R1, logistic",0.8,0.6572403705509507
+199,"Learned R1, logistic",0.9,0.6418820087762067
+199,"Learned R1, logistic",1.0,0.6282301316431009
+199,"Learned R2, logistic",0.05,0.6728425158459288
+199,"Learned R2, logistic",0.1,0.6660165772793759
+199,"Learned R2, logistic",0.15,0.659190638712823
+199,"Learned R2, logistic",0.2,0.6455387615797171
+199,"Learned R2, logistic",0.3,0.6574028928977734
+199,"Learned R2, logistic",0.4,0.6522834389728587
+199,"Learned R2, logistic",0.5,0.6488704696895823
+199,"Learned R2, logistic",0.6,0.6386315618397529
+199,"Learned R2, logistic",0.73,0.6504956931578092
+199,"Learned R2, logistic",0.8,0.6385503006663416
+199,"Learned R2, logistic",0.9,0.6487079473427596
+199,"Learned R2, logistic",1.0,0.6282301316431009
+199,"Learned R3, logistic",0.05,0.6694295465626523
+199,"Learned R3, logistic",0.1,0.6694295465626523
+199,"Learned R3, logistic",0.15,0.6608971233544612
+199,"Learned R3, logistic",0.2,0.6540711847879083
+199,"Learned R3, logistic",0.3,0.65236470014627
+199,"Learned R3, logistic",0.4,0.65236470014627
+199,"Learned R3, logistic",0.5,0.6421257922964407
+199,"Learned R3, logistic",0.6,0.6370063383715261
+199,"Learned R3, logistic",0.73,0.6420445311230294
+199,"Learned R3, logistic",0.8,0.6573216317243621
+199,"Learned R3, logistic",0.9,0.6385503006663416
+199,"Learned R3, logistic",1.0,0.6282301316431009
+199,"Learned R3, boosting",0.05,0.6796684544124817
+199,"Learned R3, boosting",0.1,0.6830814236957581
+199,"Learned R3, boosting",0.15,0.6847879083373963
+199,"Learned R3, boosting",0.2,0.6916138469039492
+199,"Learned R3, boosting",0.3,0.6933203315455875
+199,"Learned R3, boosting",0.4,0.7001462701121404
+199,"Learned R3, boosting",0.5,0.6967333008288639
+199,"Learned R3, boosting",0.6,0.6847879083373963
+199,"Learned R3, boosting",0.73,0.659190638712823
+199,"Learned R3, boosting",0.8,0.6556964082561352
+199,"Learned R3, boosting",0.9,0.6640663091175036
+199,"Learned R3, boosting",1.0,0.6282301316431009
+199,Oracle,0.05,0.7715748415407118
+199,Oracle,0.1,0.77328132618235
+199,Oracle,0.15,0.77328132618235
+199,Oracle,0.2,0.77328132618235
+199,Oracle,0.3,0.77328132618235
+199,Oracle,0.4,0.77328132618235
+199,Oracle,0.5,0.77328132618235
+199,Oracle,0.6,0.77328132618235
+199,Oracle,0.73,0.77328132618235
+199,Oracle,0.8,0.7357386640663091
+199,Oracle,0.9,0.6811311555338859
+199,Oracle,1.0,0.6282301316431009
+199,"Random, expected",0.05,0.6754753778644563
+199,"Random, expected",0.1,0.6729887859580692
+199,"Random, expected",0.15,0.6705021940516821
+199,"Random, expected",0.2,0.6680156021452949
+199,"Random, expected",0.3,0.6630424183325206
+199,"Random, expected",0.4,0.6580692345197464
+199,"Random, expected",0.5,0.6530960507069722
+199,"Random, expected",0.6,0.6481228668941978
+199,"Random, expected",0.73,0.6416577279375913
+199,"Random, expected",0.8,0.6381764992686494
+199,"Random, expected",0.9,0.6332033154558752
+199,"Random, expected",1.0,0.6282301316431008
+209,"Confidence, least-confident first",0.05,0.5906062083536485
+209,"Confidence, least-confident first",0.1,0.6093775394116691
+209,"Confidence, least-confident first",0.15,0.6281488704696895
+209,"Confidence, least-confident first",0.2,0.6452137168860718
+209,"Confidence, least-confident first",0.3,0.6844628636437509
+209,"Confidence, least-confident first",0.4,0.7066471639850478
+209,"Confidence, least-confident first",0.5,0.7050219405168209
+209,"Confidence, least-confident first",0.6,0.6761742239557937
+209,"Confidence, least-confident first",0.73,0.7034779782220053
+209,"Confidence, least-confident first",0.8,0.70859743214692
+209,"Confidence, least-confident first",0.9,0.7222493092800257
+209,"Confidence, least-confident first",1.0,0.7290752478465786
+209,"Learned R1, logistic",0.05,0.5906062083536485
+209,"Learned R1, logistic",0.1,0.6093775394116691
+209,"Learned R1, logistic",0.15,0.6264423858280512
+209,"Learned R1, logistic",0.2,0.6435072322444335
+209,"Learned R1, logistic",0.3,0.6555338859093124
+209,"Learned R1, logistic",0.4,0.6318056232731999
+209,"Learned R1, logistic",0.5,0.6829189013489353
+209,"Learned R1, logistic",0.6,0.7085161709735086
+209,"Learned R1, logistic",0.73,0.7221680481066144
+209,"Learned R1, logistic",0.8,0.7255810173898909
+209,"Learned R1, logistic",0.9,0.7375264098813584
+209,"Learned R1, logistic",1.0,0.7290752478465786
+209,"Learned R2, logistic",0.05,0.6144157321631724
+209,"Learned R2, logistic",0.1,0.634893547862831
+209,"Learned R2, logistic",0.15,0.6519583942792133
+209,"Learned R2, logistic",0.2,0.6214041930765479
+209,"Learned R2, logistic",0.3,0.6691045018690068
+209,"Learned R2, logistic",0.4,0.6419632699496179
+209,"Learned R2, logistic",0.5,0.6590281163660001
+209,"Learned R2, logistic",0.6,0.6760929627823824
+209,"Learned R2, logistic",0.73,0.6897448399154882
+209,"Learned R2, logistic",0.8,0.7016902324069557
+209,"Learned R2, logistic",0.9,0.7017714935803671
+209,"Learned R2, logistic",1.0,0.7290752478465786
+209,"Learned R3, logistic",0.05,0.6144157321631724
+209,"Learned R3, logistic",0.1,0.6297740939379164
+209,"Learned R3, logistic",0.15,0.5754103689257272
+209,"Learned R3, logistic",0.2,0.6128717698683568
+209,"Learned R3, logistic",0.3,0.6248984235332358
+209,"Learned R3, logistic",0.4,0.6487892085161708
+209,"Learned R3, logistic",0.5,0.6795059320656589
+209,"Learned R3, logistic",0.6,0.6931578091987647
+209,"Learned R3, logistic",0.73,0.6982772631236793
+209,"Learned R3, logistic",0.8,0.7016902324069558
+209,"Learned R3, logistic",0.9,0.7153421095400616
+209,"Learned R3, logistic",1.0,0.7290752478465787
+209,"Learned R3, boosting",0.05,0.5923126929952868
+209,"Learned R3, boosting",0.1,0.5923939541686981
+209,"Learned R3, boosting",0.15,0.614578254509995
+209,"Learned R3, boosting",0.2,0.6418820087762066
+209,"Learned R3, boosting",0.3,0.6675605395741913
+209,"Learned R3, boosting",0.4,0.6812936778807084
+209,"Learned R3, boosting",0.5,0.7324069559564438
+209,"Learned R3, boosting",0.6,0.7290752478465786
+209,"Learned R3, boosting",0.73,0.7290752478465786
+209,"Learned R3, boosting",0.8,0.7290752478465786
+209,"Learned R3, boosting",0.9,0.7290752478465786
+209,"Learned R3, boosting",1.0,0.7290752478465786
+209,Oracle,0.05,0.6416382252559726
+209,Oracle,0.1,0.6672354948805459
+209,Oracle,0.15,0.6945392491467575
+209,Oracle,0.2,0.721843003412969
+209,Oracle,0.3,0.774744027303754
+209,Oracle,0.4,0.8293515358361772
+209,Oracle,0.5,0.8515358361774742
+209,Oracle,0.6,0.8515358361774742
+209,Oracle,0.73,0.8515358361774742
+209,Oracle,0.8,0.8515358361774742
+209,Oracle,0.9,0.8515358361774742
+209,Oracle,1.0,0.7290752478465786
+209,"Random, expected",0.05,0.5990736226231106
+209,"Random, expected",0.1,0.6059158134243458
+209,"Random, expected",0.15,0.6127580042255809
+209,"Random, expected",0.2,0.6196001950268161
+209,"Random, expected",0.3,0.6332845766292865
+209,"Random, expected",0.4,0.6469689582317568
+209,"Random, expected",0.5,0.6606533398342271
+209,"Random, expected",0.6,0.6743377214366975
+209,"Random, expected",0.73,0.6921274175199089
+209,"Random, expected",0.8,0.7017064846416382
+209,"Random, expected",0.9,0.7153908662441085
+209,"Random, expected",1.0,0.7290752478465788

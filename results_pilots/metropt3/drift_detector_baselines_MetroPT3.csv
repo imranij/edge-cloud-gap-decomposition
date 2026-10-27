@@ -1,0 +1,8 @@
+trigger,flagged,rate,recall,precision,false_ep,false_ep_per_day,event_detected
+"Percentile rule, d* = Q95 (this paper)",1304,0.06188,0.6,0.0253,466,6.37,True
+"ADWIN (delta=0.002), H=0",35,0.00166,0.018,0.0286,34,0.46,True
+"KSWIN (alpha=0.005, w=100), H=0",107,0.00508,0.0,0.0,107,1.46,False
+"Page-Hinkley (delta=0.005), H=0",33,0.00157,0.0,0.0,33,0.45,False
+"ADWIN (delta=0.002), H=12",455,0.02159,0.109,0.0132,34,0.46,True
+"KSWIN (alpha=0.005, w=100), H=12",1391,0.06601,0.182,0.0072,106,1.45,True
+"Page-Hinkley (delta=0.005), H=12",429,0.02036,0.0,0.0,33,0.45,False

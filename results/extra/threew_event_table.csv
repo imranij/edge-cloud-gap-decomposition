@@ -1,0 +1,10 @@
+instance_event_name,instances,episodes,wells,windows,fault_windows,instances_without_fault,instances_with_both_classes,well_list
+normal,254,20,3,13420,0,254,0,"WELL-00001, WELL-00005, WELL-00006"
+scaling_in_pck,31,30,5,4561,3722,0,31,"WELL-00001, WELL-00006, WELL-00021, WELL-00022, WELL-00024"
+flow_instability,95,14,3,2197,2197,0,0,"WELL-00001, WELL-00005, WELL-00014"
+hydrate_in_service_line,19,16,5,2092,495,11,8,"WELL-00014, WELL-00016, WELL-00020, WELL-00041, WELL-00042"
+severe_slugging,32,7,2,1875,1875,0,0,"WELL-00001, WELL-00014"
+rapid_productivity_loss,10,6,2,871,717,0,10,"WELL-00016, WELL-00020"
+abrupt_increase_of_bsw,2,2,1,300,92,0,2,WELL-00006
+hydrate_in_production_line,1,1,1,150,120,0,1,WELL-00030
+spurious_closure_of_dhsv,1,1,1,22,10,0,1,WELL-00009

@@ -1,0 +1,14 @@
+dataset,pair,n_train,n_test,J,role
+hydraulic,A,1764.0,441.0,20,confirmatory
+hydraulic,B,1764.0,441.0,20,confirmatory
+hydraulic,C,1764.0,441.0,10,confirmatory
+seu,A,6000.0,2000.0,20,confirmatory
+seu,B,6000.0,2000.0,20,confirmatory
+seu,C,6000.0,2000.0,12,confirmatory
+skab,A,3626.4,906.6,20,confirmatory
+skab,B,3626.4,906.6,20,confirmatory
+skab,C,3626.4,906.6,10,confirmatory
+threew,A,20390.4,5097.6,20,confirmatory
+threew,B,20390.4,5097.6,20,confirmatory
+threew,C,20390.4,5097.6,10,confirmatory
+threew__by_well,A,20390.4,5097.6,20,sensitivity

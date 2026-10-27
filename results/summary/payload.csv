@@ -1,0 +1,6 @@
+dataset,role,raw_edge,raw_cloud,features_edge,features_cloud,explanation_token
+hydraulic,confirmatory,24240,174000,136,952,96
+seu,confirmatory,8192,32768,136,544,96
+skab,confirmatory,1200,1920,340,544,96
+threew,confirmatory,2400,6000,136,340,96
+threew__by_well,sensitivity,2400,6000,136,340,96

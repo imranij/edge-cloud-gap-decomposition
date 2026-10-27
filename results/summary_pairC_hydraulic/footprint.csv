@@ -1,0 +1,46 @@
+dataset,role,pair,model,family,view,input_shape,params,bytes,macs,unit
+hydraulic,confirmatory,A,ef_ev,logistic regression,edge,[34],103,2098,68.0,MAC
+hydraulic,confirmatory,A,cf_ev,balanced random forest,edge,[34],31958,11077731,1903.3513513513512,nodes visited
+hydraulic,confirmatory,A,ef_cv,logistic regression,cloud,[238],715,7813,476.0,MAC
+hydraulic,confirmatory,A,cf_cv,balanced random forest,cloud,[238],9186,7433434,1193.9442567567569,nodes visited
+hydraulic,confirmatory,A,twin,balanced random forest,cloud,[238],9852,7540033,1246.1064189189196,nodes visited
+hydraulic,confirmatory,B,ef_ev,small HGB,edge,[34],688,113345,149.48716012084594,nodes visited
+hydraulic,confirmatory,B,cf_ev,large HGB,edge,[34],15336,981000,1969.3398791540797,nodes visited
+hydraulic,confirmatory,B,ef_cv,small HGB,cloud,[238],568,471778,147.57552870090637,nodes visited
+hydraulic,confirmatory,B,cf_cv,large HGB,cloud,[238],3420,678767,855.6080060422955,nodes visited
+hydraulic,confirmatory,C,ef_ev,tiny 1D-CNN,edge,"[2, 600]",1066,7061,170432.0,MAC
+hydraulic,confirmatory,C,cf_ev,large 1D-CNN,edge,"[2, 600]",51138,214229,3398496.0,MAC
+hydraulic,confirmatory,C,ef_cv,tiny 1D-CNN,cloud,"[14, 600]",1738,9749,386432.0,MAC
+hydraulic,confirmatory,C,cf_cv,large 1D-CNN,cloud,"[14, 600]",53826,224981,4219296.0,MAC
+seu,confirmatory,A,ef_ev,logistic regression,edge,[34],103,2098,68.0,MAC
+seu,confirmatory,A,cf_ev,balanced random forest,edge,[34],6056,8929287,1085.1218749999996,nodes visited
+seu,confirmatory,A,ef_cv,logistic regression,cloud,[136],409,4957,272.0,MAC
+seu,confirmatory,A,cf_cv,balanced random forest,cloud,[136],6152,8944677,1135.1043750000003,nodes visited
+seu,confirmatory,A,twin,balanced random forest,cloud,[136],6020,8923548,1125.333125,nodes visited
+seu,confirmatory,B,ef_ev,small HGB,edge,[34],674,117063,149.33175000000006,nodes visited
+seu,confirmatory,B,cf_ev,large HGB,edge,[34],6114,469007,1300.4732500000016,nodes visited
+seu,confirmatory,B,ef_cv,small HGB,cloud,[136],648,322593,149.2575000000001,nodes visited
+seu,confirmatory,B,cf_cv,large HGB,cloud,[136],4734,598704,1147.0467500000022,nodes visited
+skab,confirmatory,A,ef_ev,logistic regression,edge,[85],256,3529,170.0,MAC
+skab,confirmatory,A,cf_ev,balanced random forest,edge,[85],86272,22171052,2866.415083135395,nodes visited
+skab,confirmatory,A,ef_cv,logistic regression,cloud,[136],409,4957,272.0,MAC
+skab,confirmatory,A,cf_cv,balanced random forest,cloud,[136],51042,16531864,2537.777315914487,nodes visited
+skab,confirmatory,A,twin,balanced random forest,cloud,[136],51486,16602913,2522.6175771971493,nodes visited
+skab,confirmatory,B,ef_ev,small HGB,edge,[85],684,214699,149.699481865285,nodes visited
+skab,confirmatory,B,cf_ev,large HGB,edge,[85],24400,1590225,2649.4496669133987,nodes visited
+skab,confirmatory,B,ef_cv,small HGB,cloud,[136],690,309384,149.79052553663954,nodes visited
+skab,confirmatory,B,cf_cv,large HGB,cloud,[136],24208,1673822,2787.7927461139893,nodes visited
+threew,confirmatory,A,ef_ev,logistic regression,edge,[34],103,2098,68.0,MAC
+threew,confirmatory,A,cf_ev,balanced random forest,edge,[34],288152,99974133,3408.2941229170406,nodes visited
+threew,confirmatory,A,ef_cv,logistic regression,cloud,[85],256,3529,170.0,MAC
+threew,confirmatory,A,cf_cv,balanced random forest,cloud,[85],183270,83189242,2902.2975273248544,nodes visited
+threew,confirmatory,A,twin,balanced random forest,cloud,[85],183242,83184744,2897.416323239562,nodes visited
+threew,confirmatory,B,ef_ev,small HGB,edge,[34],746,108863,149.9968643846355,nodes visited
+threew,confirmatory,B,cf_ev,large HGB,edge,[34],24400,1480917,2640.287170107134,nodes visited
+threew,confirmatory,B,ef_cv,small HGB,cloud,[85],742,196871,149.9924222628691,nodes visited
+threew,confirmatory,B,cf_cv,large HGB,cloud,[85],24400,1569158,2728.5259341520787,nodes visited
+threew__by_well,sensitivity,A,ef_ev,logistic regression,edge,[34],103,2098,68.0,MAC
+threew__by_well,sensitivity,A,cf_ev,balanced random forest,edge,[34],257846,92916273,3189.3779667351887,nodes visited
+threew__by_well,sensitivity,A,ef_cv,logistic regression,cloud,[85],256,3529,170.0,MAC
+threew__by_well,sensitivity,A,cf_cv,balanced random forest,cloud,[85],157620,76877170,2614.491964118854,nodes visited
+threew__by_well,sensitivity,A,twin,balanced random forest,cloud,[85],156378,76678450,2622.3891795925997,nodes visited

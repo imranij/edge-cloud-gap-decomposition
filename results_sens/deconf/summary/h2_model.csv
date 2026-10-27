@@ -1,0 +1,2 @@
+n,n_groups,model,slope,se,ci_lo,ci_hi,z,note,p_one_sided
+279,4,MixedLM,0.03687025047840489,0.008153076639533102,0.02089051390172516,0.052849987055084625,4.522249956492047,The MLE may be on the boundary of the parameter space.,3.0592872454404333e-06

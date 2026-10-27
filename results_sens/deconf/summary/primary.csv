@@ -1,0 +1,6 @@
+hypothesis,p_raw,p_holm,verdict,p_raw_missing_set_to_1
+H1,0.08875894089415169,0.26627682268245506,INCONCLUSIVE (neither the support nor the falsification rule is met),False
+H2,3.0592872454404333e-06,1.5296436227202165e-05,SUPPORTED (slope > 0 after Holm; falsification rule not met),False
+H3,0.056202796995460776,0.2248111879818431,INCONCLUSIVE (equivalence not shown; falsification rule not met),False
+H4,0.21121088849447567,0.42242177698895134,FALSIFIED (slope CI includes 0),False
+H5,0.3521647835216478,0.42242177698895134,NOT SUPPORTED (support rule not met),False

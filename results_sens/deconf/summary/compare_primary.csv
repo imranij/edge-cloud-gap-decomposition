@@ -1,0 +1,6 @@
+hypothesis,p_raw_main,p_holm_main,verdict_main,p_raw_missing_set_to_1_main,p_raw_deconf,p_holm_deconf,verdict_deconf,p_raw_missing_set_to_1_deconf
+H1,0.0574232179994437,0.1148464359988874,INCONCLUSIVE (neither the support nor the falsification rule is met),False,0.0887589408941516,0.266276822682455,INCONCLUSIVE (neither the support nor the falsification rule is met),False
+H2,8.054496949282106e-06,4.027248474641053e-05,SUPPORTED (slope > 0 after Holm; falsification rule not met),False,3.0592872454404333e-06,1.5296436227202165e-05,SUPPORTED (slope > 0 after Holm; falsification rule not met),False
+H3,0.0733589190433115,0.1148464359988874,INCONCLUSIVE (equivalence not shown; falsification rule not met),False,0.0562027969954607,0.2248111879818431,INCONCLUSIVE (equivalence not shown; falsification rule not met),False
+H4,0.0007368494697466,0.0029473978789866,SUPPORTED (slope < 0 after Holm),False,0.2112108884944756,0.4224217769889513,FALSIFIED (slope CI includes 0),False
+H5,0.0026997300269973,0.0080991900809919,SUPPORTED,False,0.3521647835216478,0.4224217769889513,NOT SUPPORTED (support rule not met),False

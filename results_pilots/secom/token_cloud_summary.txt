@@ -1,0 +1,55 @@
+seed 19 done
+seed 29 done
+seed 39 done
+seed 49 done
+seed 59 done
+seed 69 done
+seed 79 done
+seed 89 done
+seed 99 done
+seed 109 done
+seed 119 done
+seed 129 done
+seed 139 done
+seed 149 done
+seed 159 done
+seed 169 done
+seed 179 done
+seed 189 done
+seed 199 done
+seed 209 done
+
+SECOM, 20 seeds. Standalone reviewers: balanced accuracy, recall  [uplink bytes per reviewed window]
+   Edge only                  BA 0.610 ± 0.041   recall 0.602   [0 B]
+   Cloud, full vector         BA 0.644 ± 0.049   recall 0.617   [2,364 B]
+   Cloud BRF, 32 edge feats   BA 0.642 ± 0.046   recall 0.660   [132 B]
+   Cloud HGB, 32 edge feats   BA 0.597 ± 0.050   recall 0.583   [132 B]
+   Cloud HGB, token only      BA 0.594 ± 0.066   recall 0.538   [96 B]
+
+Paired comparisons (equivalence margin ±0.02 BA)
+   Cloud HGB, token only                    vs Cloud, full vector           d=-0.0496 CI[-0.079,-0.020] p=0.002 p_eq=0.975
+   Cloud HGB, 32 edge feats                 vs Cloud, full vector           d=-0.0465 CI[-0.075,-0.018] p=0.003 p_eq=0.968
+   Cloud BRF, 32 edge feats                 vs Cloud, full vector           d=-0.0017 CI[-0.022,+0.019] p=0.865 p_eq=0.039
+   Cloud HGB, token only                    vs Cloud HGB, 32 edge feats     d=-0.0031 CI[-0.043,+0.037] p=0.873 p_eq=0.193
+   Cloud HGB, token only                    vs Edge only                    d=-0.0161 CI[-0.048,+0.016] p=0.306 p_eq=0.401
+   Cloud BRF, 32 edge feats                 vs Edge only                    d=+0.0318 CI[+0.008,+0.055] p=0.011 p_eq=0.847
+
+Cascade, confidence-ranked escalation: BA [mean uplink bytes per window]
+   f=0.3   Cloud, full vector         BA 0.645   [709 B/window]
+   f=0.3   Cloud BRF, 32 edge feats   BA 0.636   [40 B/window]
+   f=0.3   Cloud HGB, 32 edge feats   BA 0.614   [40 B/window]
+   f=0.3   Cloud HGB, token only      BA 0.618   [29 B/window]
+   cascade f=0.3 | Cloud HGB, token only    vs cascade f=0.3 | Cloud, full vector d=-0.0274 CI[-0.047,-0.008] p=0.010 p_eq=0.777
+   cascade f=0.3 | Cloud HGB, token only    vs Cloud, full vector           d=-0.0260 CI[-0.053,+0.001] p=0.060 p_eq=0.676
+   f=0.5   Cloud, full vector         BA 0.654   [1,182 B/window]
+   f=0.5   Cloud BRF, 32 edge feats   BA 0.643   [66 B/window]
+   f=0.5   Cloud HGB, 32 edge feats   BA 0.612   [66 B/window]
+   f=0.5   Cloud HGB, token only      BA 0.616   [48 B/window]
+   cascade f=0.5 | Cloud HGB, token only    vs cascade f=0.5 | Cloud, full vector d=-0.0373 CI[-0.061,-0.014] p=0.003 p_eq=0.932
+   cascade f=0.5 | Cloud HGB, token only    vs Cloud, full vector           d=-0.0274 CI[-0.054,-0.001] p=0.042 p_eq=0.718
+   f=0.73  Cloud, full vector         BA 0.649   [1,726 B/window]
+   f=0.73  Cloud BRF, 32 edge feats   BA 0.645   [96 B/window]
+   f=0.73  Cloud HGB, 32 edge feats   BA 0.611   [96 B/window]
+   f=0.73  Cloud HGB, token only      BA 0.601   [70 B/window]
+   cascade f=0.73 | Cloud HGB, token only   vs cascade f=0.73 | Cloud, full vector d=-0.0476 CI[-0.070,-0.025] p=0.000 p_eq=0.991
+   cascade f=0.73 | Cloud HGB, token only   vs Cloud, full vector           d=-0.0424 CI[-0.067,-0.017] p=0.002 p_eq=0.962

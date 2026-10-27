@@ -1,0 +1,7 @@
+seed,model,pickle_MB,one_window_ms
+19,"BRF 400 trees, 32 features",3.857692,24.647387749996597
+19,"Cloud BRF 400 trees, 590 features",3.303013,25.364401000001635
+29,"BRF 400 trees, 32 features",3.756563,30.517128999997567
+29,"Cloud BRF 400 trees, 590 features",3.247653,28.380708700001378
+39,"BRF 400 trees, 32 features",3.805852,22.711822650001068
+39,"Cloud BRF 400 trees, 590 features",3.292773,23.64155039999787

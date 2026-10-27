@@ -1,0 +1,43 @@
+seed 19 done
+seed 29 done
+seed 39 done
+seed 49 done
+seed 59 done
+seed 69 done
+seed 79 done
+seed 89 done
+seed 99 done
+seed 109 done
+seed 119 done
+seed 129 done
+seed 139 done
+seed 149 done
+seed 159 done
+seed 169 done
+seed 179 done
+seed 189 done
+seed 199 done
+seed 209 done
+
+SECOM, 20 seeds, BA and recall
+   Edge only                  BA 0.610 ± 0.041   recall 0.602
+   Cloud, full vector         BA 0.644 ± 0.049   recall 0.617
+   Cloud BRF, 32 edge feats   BA 0.642 ± 0.046   recall 0.660
+   Cloud BRF, token           BA 0.637 ± 0.042   recall 0.640
+   Cloud BRF, token                   vs Cloud, full vector           d=-0.0071 CI[-0.035,+0.020] p=0.596 p_eq=0.171
+   Cloud BRF, token                   vs Cloud BRF, 32 edge feats     d=-0.0054 CI[-0.031,+0.021] p=0.667 p_eq=0.127
+   Cloud BRF, token                   vs Edge only                    d=+0.0264 CI[+0.007,+0.046] p=0.011 p_eq=0.750
+   Cloud BRF, 32 edge feats           vs Cloud, full vector           d=-0.0017 CI[-0.022,+0.019] p=0.865 p_eq=0.039
+   Cloud BRF, 32 edge feats           vs Edge only                    d=+0.0318 CI[+0.008,+0.055] p=0.011 p_eq=0.847
+   cascade f=0.3 Cloud, full vector         BA 0.645
+   cascade f=0.3 Cloud BRF, 32 edge feats   BA 0.636
+   cascade f=0.3 Cloud BRF, token           BA 0.623
+   cascade f=0.3 | Cloud BRF, token   vs Cloud, full vector           d=-0.0207 CI[-0.051,+0.009] p=0.164 p_eq=0.520
+   cascade f=0.5 Cloud, full vector         BA 0.654
+   cascade f=0.5 Cloud BRF, 32 edge feats   BA 0.643
+   cascade f=0.5 Cloud BRF, token           BA 0.630
+   cascade f=0.5 | Cloud BRF, token   vs Cloud, full vector           d=-0.0137 CI[-0.041,+0.013] p=0.296 p_eq=0.315
+                                   pickle_MB  one_window_ms
+model                                                      
+BRF 400 trees, 32 features          3.806702      25.958780
+Cloud BRF 400 trees, 590 features   3.281146      25.795553

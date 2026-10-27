@@ -1,0 +1,5 @@
+dataset,role,raw_edge,raw_cloud,features_edge,features_cloud,explanation_token
+hyd_blocks,confirmatory,24240,174000,136,952,96
+seu_dm,confirmatory,8192,32768,128,512,96
+skab_filez,confirmatory,1200,1920,340,544,96
+threew_dm,confirmatory,2400,6000,128,320,96

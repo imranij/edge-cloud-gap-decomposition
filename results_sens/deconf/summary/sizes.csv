@@ -1,0 +1,9 @@
+dataset,pair,n_train,n_test,J,role
+hyd_blocks,A,1764.0,441.0,20,confirmatory
+hyd_blocks,B,1764.0,441.0,20,confirmatory
+seu_dm,A,6000.0,2000.0,20,confirmatory
+seu_dm,B,6000.0,2000.0,20,confirmatory
+skab_filez,A,3626.4,906.6,20,confirmatory
+skab_filez,B,3626.4,906.6,20,confirmatory
+threew_dm,A,20390.4,5097.6,10,confirmatory
+threew_dm,B,20390.4,5097.6,10,confirmatory

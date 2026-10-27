@@ -1,0 +1,9 @@
+session,exp_fault_type,windows,fault_windows,files
+2020-02-08,cavitation,195,62,2
+2020-02-08,normal,952,0,1
+2020-02-08,rotor_imbalance,543,208,5
+2020-02-08,warm_water_supply,87,32,1
+2020-02-08,water_increase,244,110,2
+2020-03-01,fluid_leak_or_addition,364,136,4
+2020-03-09,valve1_inlet_closure,1731,664,16
+2020-03-09,valve2_outlet_closure,417,159,4

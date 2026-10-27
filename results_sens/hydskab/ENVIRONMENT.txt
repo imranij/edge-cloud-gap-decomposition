@@ -1,0 +1,10 @@
+python 3.13.16
+platform Linux-6.18.44-fc-v114-x86_64-with-glibc2.39
+numpy 2.5.3
+pandas 3.0.5
+scipy 1.18.1
+scikit-learn 1.9.1
+imbalanced-learn 0.14.2
+statsmodels 0.15.0
+torch 2.14.1+cu130
+torch threads 2
