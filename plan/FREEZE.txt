@@ -1,0 +1,4 @@
+ANALYSIS_PLAN.md sha256 161fa127cba893643f30d217d859073e935fcf4a4f0da850719a4c1bc8ca4197
+frozen_utc 2026-10-11T19:34:48Z
+models_fitted_on_confirmatory_data_before_freeze none
+ADDENDUM_A.md sha256 8f5df19823d233c533079db7a0288efe511956ae10e9d4e46f7d637280a17c4d recorded_utc 2026-10-11T23:24:13Z models_fitted_before none

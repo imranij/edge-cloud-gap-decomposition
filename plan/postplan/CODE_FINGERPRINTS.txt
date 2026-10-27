@@ -1,0 +1,35 @@
+# Code fingerprints of the files hashed in plan/postplan/HASHES.txt
+#
+# The comments and docstrings of these files were edited for the public copy, so their SHA-256 sums no longer
+# match HASHES.txt. The fingerprint below is the SHA-256 sum of the abstract syntax tree without docstrings
+# (tools/code_fingerprint.py). It was computed on the hashed versions, whose SHA-256 sums from HASHES.txt are
+# repeated in the block below, and the files in this repository have the same fingerprint, so they run the same
+# code.
+#
+#   python tools/code_fingerprint.py --check plan/postplan/CODE_FINGERPRINTS.txt
+#
+# SHA-256 sums of the hashed versions
+#   src/sens/simulation_full/gen_full.py  fa1b3eda8bd520bbbcde07e4ebc01b4e6ef33d6053aad92b507b6962c74f63a2
+#   src/sens/simulation_full/pipe_full.py  a91b226826997ce4cdc7d23d4fb2050572046c9a925f9b8edeeb60a4124da2c9
+#   src/sens/simulation_full/truth_full.py  6fbd6dc12897ec5ece81fe11333a82908bce3f7d1e019c93ba084a71c287af7d
+#   src/sens/simulation_full/worker.py  2a302fe7187e8df2eb8a084d74e9919f8f254e1cf8a0383c26acc9ce06fc5344
+#   src/sens/simulation_full/torch_stub.py  5c53ff7596653fc0b3af2edf107d4a0eccf090855aec0f7dfe61e78051c81fb5
+#   src/sens/simulation_full/verify_ref.py  621271ed794f5bbb8bd771c135603c59c4678b59136caf99b0b2b3aca6351b14
+#   src/sens/simulation_full/summarize_full.py  c2ed36bf660b8062e3c49bd77183e4d29564a554fd14501e828ee87a4d907375
+#   src/sens/simulation/generator.py  a7cc08736d905815028be736fdc75b696149302ac74c10421408e93533f6641b
+#   src/sens/simulation/pipeline.py  006c0a13293caceeba4181114f6331a9482d10e75a4851da4dc878ae4d34ce5d
+#   src/sens/simulation/truth.py  d0ac29f463d7a9027f47e588d64c92fa243e86e16423a00f8b733e67f614cce0
+#   src/sens/simulation/summarize.py  ac90bb418f7ac3a9c67bb5910ac68c8db840545008ce3619fbdfd1626b247cce
+
+# fingerprint                                                       file
+152a023ca519159fc7efdbaee620de6eda4f0adbfbca5f74a90ef7725b9058c6  src/sens/simulation_full/gen_full.py
+63908d2789a2d03a64e3a9f86e03bc15b272868bd1e599c469214703c6f0e268  src/sens/simulation_full/pipe_full.py
+c80b04438abb90f92be1fc58d6a08b639d5659d541ea3eb5bb799f55ef160625  src/sens/simulation_full/truth_full.py
+36513af354e0e52150143416fa18344e0b8cf12f2e67b0a67cdf6f7afe6490b1  src/sens/simulation_full/worker.py
+8e6353f7c50561fa86600f4a827580b9a713ceb09ae8f09c4bd0ad95a6036df0  src/sens/simulation_full/torch_stub.py
+8124627897bbf0f14781de905b6f13c5212c1a7f4e761d37fca36af0844cc8d8  src/sens/simulation_full/verify_ref.py
+92f7dff8e92c65602ac5055e0377f2f39884464459654092e4ec61013aace53e  src/sens/simulation_full/summarize_full.py
+6e84944eea609d697bff2943bebf8a6ced34f50091781aeb8c3bf0f605502c29  src/sens/simulation/generator.py
+895ff5678e0bdf154915a37720b9e55e944042303da02171109b6836c307834f  src/sens/simulation/pipeline.py
+726a1b5dec860804e02dad00dfb171fb6fd97e8602b7594052e5597c0a950781  src/sens/simulation/truth.py
+5716b11c4eb127f89c06da6c75b0325d9ea443bcde1bca57c7cac5f0c9a811fd  src/sens/simulation/summarize.py

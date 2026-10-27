@@ -1,0 +1,25 @@
+\begin{tabular}{@{}>{\raggedright\arraybackslash}p{2.6cm} r *{7}{>{\raggedleft\arraybackslash}p{1.1cm}}@{}}
+\toprule
+\multicolumn{9}{@{}l}{(a) Temporal dependence: hydraulic labels and 20 blocks, AR(1) block effects} \\
+\midrule
+Information, $\phi$ & $R$ & Step, new series & Step, CV & NB coverage & Naive coverage & Rejected & Positive splits & Survives \\
+\midrule
+None, $\phi=0$ & 1000 & $-$0.005 & $-$0.005 & 0.996 & 0.814 & 0.001 & 0.387 & 0.000 \\
+None, $\phi=0.3$ & 1000 & $-$0.006 & $-$0.004 & 0.992 & 0.783 & 0.003 & 0.408 & 0.001 \\
+None, $\phi=0.6$ & 1000 & $-$0.004 & $-$0.003 & 0.996 & 0.802 & 0.002 & 0.435 & 0.001 \\
+None, $\phi=0.9$ & 1000 & 0.000 & $-$0.001 & 0.998 & 0.802 & 0.003 & 0.447 & 0.001 \\
+None, $\phi=0.9$, $\tau=1$ & 1000 & $-$0.001 & 0.002 & 0.983 & 0.699 & 0.030 & 0.512 & 0.011 \\
+0.08, $\phi=0$ & 500 & 0.081 & 0.081 & 0.957 & 0.605 & 0.989 & 0.980 & 0.973 \\
+0.08, $\phi=0.3$ & 500 & 0.083 & 0.082 & 0.947 & 0.574 & 0.992 & 0.983 & 0.981 \\
+0.08, $\phi=0.6$ & 500 & 0.081 & 0.084 & 0.932 & 0.563 & 0.996 & 0.990 & 0.991 \\
+0.08, $\phi=0.9$ & 500 & 0.085 & 0.084 & 0.942 & 0.570 & 1.000 & 0.998 & 1.000 \\
+\midrule
+\multicolumn{9}{@{}l}{(b) Confounded files: cloud-only clock or offset without fault information} \\
+\midrule
+Scenario & $R$ & Step, plain & H1 rule, plain & Beats shortcut & H1 rule, z & H1 rule, aug & (iii) met & Survives \\
+\midrule
+Real step, no confound & 500 & 0.080 & 1.000 & 0.172 & 1.000 & 0.900 & 0.482 & 0.000 \\
+Clock, no information & 1000 & 0.036 & 0.873 & 0.003 & 1.000 & 0.000 & 0.000 & 0.000 \\
+Offset, no information & 1000 & 0.043 & 0.899 & 0.015 & 0.000 & 0.000 & 0.000 & 0.000 \\
+\bottomrule
+\end{tabular}

@@ -1,0 +1,25 @@
+1388db897c0859e388fbfed58e832ddb00936432b2983e1c168ae99fc8a631fb  plan/postplan/DECONF_DECLARATION.md
+# 2026-10-12T20:45Z full validation: generator, pipeline, truth, runner (R_FIXED inside worker.py), kit, declaration; hashed before the full run
+fa1b3eda8bd520bbbcde07e4ebc01b4e6ef33d6053aad92b507b6962c74f63a2  src/sens/simulation_full/gen_full.py
+a91b226826997ce4cdc7d23d4fb2050572046c9a925f9b8edeeb60a4124da2c9  src/sens/simulation_full/pipe_full.py
+6fbd6dc12897ec5ece81fe11333a82908bce3f7d1e019c93ba084a71c287af7d  src/sens/simulation_full/truth_full.py
+13b12edf171b6eb295367870ee9416f8806bc8e327e51f592a211aa93b08e77b  src/sens/simulation_full/worker.py
+5c53ff7596653fc0b3af2edf107d4a0eccf090855aec0f7dfe61e78051c81fb5  src/sens/simulation_full/torch_stub.py
+621271ed794f5bbb8bd771c135603c59c4678b59136caf99b0b2b3aca6351b14  src/sens/simulation_full/verify_ref.py
+c2ed36bf660b8062e3c49bd77183e4d29564a554fd14501e828ee87a4d907375  src/sens/simulation_full/summarize_full.py
+a7cc08736d905815028be736fdc75b696149302ac74c10421408e93533f6641b  src/sens/simulation/generator.py
+006c0a13293caceeba4181114f6331a9482d10e75a4851da4dc878ae4d34ce5d  src/sens/simulation/pipeline.py
+d0ac29f463d7a9027f47e588d64c92fa243e86e16423a00f8b733e67f614cce0  src/sens/simulation/truth.py
+ac90bb418f7ac3a9c67bb5910ac68c8db840545008ce3619fbdfd1626b247cce  src/sens/simulation/summarize.py
+cad3eec395d5310470569bd65932753ca1fbd2a3318b8009e417c9e110327b41  tools/hpc_kit/run_hpc.py
+b8e6ff5fcf4da118816dba6a8797d6ead026d1d97d78d1a249f691297d4433aa  tools/hpc_kit/code.tar.gz
+faac526124f4c26ca7c8c7df800957d2c8bf2dd8947a8812941f84e5f786ee09  plan/postplan/simulation_full.md
+# 2026-10-12T20:55Z run_hpc.py revised before the run after an end-to-end test against a local SSH server with Slurm stand-ins (SSH port option, merged stderr, uv native TLS, safe tar extraction); simulation code unchanged
+56e154a1a5aab30f256e8eb7f21df4e2ccdb8e8c5ddc1e18e38f4a7a5e9e28c8  tools/hpc_kit/run_hpc.py
+# 2026-10-13T00:10Z worker.py: execution-only options added before any full-run unit was used (--reverse order; spawn start method on Windows); generator, pipeline, truth and R unchanged
+781c4000bb89afeceef55565ba3f30491d1bc10a3adf3f603e9338025a2244e5  src/sens/simulation_full/worker.py
+7f105a376432b45ec67d63a00bde5c7ac092e52b626bc5e9026795986d059ff7  tools/hpc_kit/code.tar.gz
+fe55334401b0aed13048b7d5238edc1ada47040ebc1938c0d28466827234ce1a  tools/hpc_kit/run_local.py
+# 2026-10-13T05:35Z bundle rebuilt with the execution-only worker fix (no pre-fork import under a real PyTorch)
+2a302fe7187e8df2eb8a084d74e9919f8f254e1cf8a0383c26acc9ce06fc5344  src/sens/simulation_full/worker.py
+a30ac79f24d217da345483db4fd42e52e4426a4d759aa03bce48d145da04fe73  tools/hpc_kit/code.tar.gz
