@@ -1,0 +1,23 @@
+pair,architecture,backhaul_bit_s,local_bit_s,node_up_bit_s,node_up_msg_h,node_down_msg_h,escalation_fraction,note
+A,"escalation 10%, nominal",12.693333333333333,12.693333333333333,0.9066666666666666,6.0,6.0,0.1,
+A,"escalation, provisioned at hourly q95",42.31111111111111,42.31111111111111,3.022222222222222,20.0,20.0,0.3333333333333333,
+A,"escalation, provisioned for q95 delay <= 10 min",60.12631578947312,60.12631578947312,4.294736842105222,28.42105263157868,28.42105263157868,0.4736842105263113,
+A,"escalation, one-window deadline (burst rate)",126.93333333333334,126.93333333333334,9.066666666666666,60.0,60.0,1.0,
+A,"gateway, node features, co-located with edge node",0.0,108.8,9.066666666666666,60.0,0.0,,
+A,"gateway, node features, separate from edge node",0.0,126.93333333333334,9.066666666666666,60.0,0.0,,
+A,full feature stream,126.93333333333334,126.93333333333334,9.066666666666666,60.0,0.0,,
+A,edge and flow features streamed,36.266666666666666,36.266666666666666,9.066666666666666,60.0,0.0,,flow nodes only; the other cloud-only nodes send nothing
+B,"escalation 10%, nominal",12.693333333333333,12.693333333333333,0.9066666666666666,6.0,6.0,0.1,
+B,"escalation, provisioned at hourly q95",44.42666666666667,44.42666666666667,3.1733333333333333,21.0,21.0,0.35,
+B,"escalation, provisioned for q95 delay <= 10 min",63.46666666666666,63.46666666666666,4.533333333333333,29.999999999999996,29.999999999999996,0.49999999999999994,
+B,"escalation, one-window deadline (burst rate)",126.93333333333334,126.93333333333334,9.066666666666666,60.0,60.0,1.0,
+B,"gateway, node features, co-located with edge node",0.0,108.8,9.066666666666666,60.0,0.0,,
+B,"gateway, node features, separate from edge node",0.0,126.93333333333334,9.066666666666666,60.0,0.0,,
+B,full feature stream,126.93333333333334,126.93333333333334,9.066666666666666,60.0,0.0,,
+B,edge and flow features streamed,36.266666666666666,36.266666666666666,9.066666666666666,60.0,0.0,,flow nodes only; the other cloud-only nodes send nothing
+A,edge and FS1 features streamed,27.2,27.2,9.066666666666666,60.0,0.0,,FS1 node only; the other cloud-only nodes send nothing
+A,FS1 wired to edge node (local only),0.0,9.066666666666666,9.066666666666666,60.0,0.0,,FS1 on its own node sending its features to the edge node; 0 if FS1 is cabled to the edge node
+A,"gateway, cloud model, co-located with edge node",0.0,108.8,9.066666666666666,60.0,0.0,,same traffic as the small-model gateway; accuracy B_cC
+B,edge and FS1 features streamed,27.2,27.2,9.066666666666666,60.0,0.0,,FS1 node only; the other cloud-only nodes send nothing
+B,FS1 wired to edge node (local only),0.0,9.066666666666666,9.066666666666666,60.0,0.0,,FS1 on its own node sending its features to the edge node; 0 if FS1 is cabled to the edge node
+B,"gateway, cloud model, co-located with edge node",0.0,108.8,9.066666666666666,60.0,0.0,,same traffic as the small-model gateway; accuracy B_cC

@@ -1,0 +1,21 @@
+excluded,test,estimate,ci_lo,ci_hi,df,p_one_sided,n,note
+none (all four),H1 pooled Shapley information step,0.05778018752263724,-0.025687762499733653,0.14124813754500815,3.0,0.05742321799944347,,
+none (all four),H2 slope of C(R6) per doubling,0.0350651667485607,0.019130261317830893,0.051000072179290507,,8.054496949282106e-06,319.0,The MLE may be on the boundary of the parameter space.
+none (all four),H4 slope of dcap on rho_pos,-0.47291972156498846,-0.7644165776722474,-0.1814228654577295,,0.0007368494697466663,159.0,
+none (all four),H5 BA of audit calls,0.547280523583841,,,,0.0037996200379962005,400.0,"within-dataset permutation p (10,000)"
+hydraulic,H1 pooled Shapley information step,0.03858269875294188,-0.18429847941468916,0.26146387692057294,2.0,0.26700327526478096,,
+hydraulic,H2 slope of C(R6) per doubling,0.022723467100889978,0.0023716056206107804,0.04307532858116918,,0.014321734947356833,239.0,The MLE may be on the boundary of the parameter space.
+hydraulic,H4 slope of dcap on rho_pos,-0.393542567133923,-0.7589028108431453,-0.028182323424700673,,0.01737983046527503,119.0,"Gradient optimization failed, |grad| = 0.581402; Maximum Likelihood optimization failed to converge. Check ml; MixedLM optimization failed, trying a different optimizer ma; Retrying MixedLM optimization with cg; Retrying MixedLM optimization with lbfgs; The MLE may be on the boundary of the parameter space."
+hydraulic,H5 BA of audit calls,0.5295790924041068,,,,0.0456954304569543,300.0,"within-dataset permutation p (10,000)"
+skab,H1 pooled Shapley information step,0.03183573838045093,-0.09669744778135309,0.16036892454225493,2.0,0.19908959695804734,,
+skab,H2 slope of C(R6) per doubling,0.03929928443112723,0.019410102494044523,0.05918846636820993,,5.3814286589525166e-05,240.0,
+skab,H4 slope of dcap on rho_pos,-0.41010800304323586,-0.8070609922147425,-0.013155013871729293,,0.021437936106549794,119.0,"Gradient optimization failed, |grad| = 1.342897; Maximum Likelihood optimization failed to converge. Check ml; MixedLM optimization failed, trying a different optimizer ma; Retrying MixedLM optimization with cg; Retrying MixedLM optimization with lbfgs"
+skab,H5 BA of audit calls,0.532314137992512,,,,0.0978902109789021,300.0,"within-dataset permutation p (10,000)"
+seu,H1 pooled Shapley information step,0.060972239417550055,-0.07085075865855114,0.19279523749365127,2.0,0.0924279241893808,,
+seu,H2 slope of C(R6) per doubling,0.04091029981615591,0.027264900727186323,0.0545556989051255,,2.099308393480233e-09,239.0,The MLE may be on the boundary of the parameter space.
+seu,H4 slope of dcap on rho_pos,-0.732299491128346,-1.0083970947559753,-0.45620188750071683,,1.0047654357175247e-07,120.0,
+seu,H5 BA of audit calls,0.5582230453046659,,,,0.0016998300169983002,300.0,"within-dataset permutation p (10,000)"
+threew,H1 pooled Shapley information step,0.0749616279761532,-0.014077362367065666,0.16400061831937207,2.0,0.03423725135470191,,
+threew,H2 slope of C(R6) per doubling,0.03751031283281723,0.018265425216978805,0.05675520044865565,,6.667817834632232e-05,239.0,
+threew,H4 slope of dcap on rho_pos,-0.3254813239916817,-0.6854759732904211,0.03451332530705764,,0.038192401673732924,119.0,"Gradient optimization failed, |grad| = 1.590822; Maximum Likelihood optimization failed to converge. Check ml; MixedLM optimization failed, trying a different optimizer ma; Retrying MixedLM optimization with cg; Retrying MixedLM optimization with lbfgs"
+threew,H5 BA of audit calls,0.5661846496106785,,,,0.000999900009999,300.0,"within-dataset permutation p (10,000)"

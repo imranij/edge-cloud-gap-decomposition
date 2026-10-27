@@ -1,0 +1,31 @@
+key,test,design,quantity,scenario,rate,mcse,n_rep
+h1_ds_cover,H1 information step,per-dataset NB 95% CI,coverage of true step (fit 600),S0,0.9904761904761904,0.0046927208700802,105
+h1_ds_cover,H1 information step,per-dataset NB 95% CI,coverage of true step (fit 600),S1,0.9857142857142858,0.0056901964772549,105
+h1_ds_cover,H1 information step,per-dataset NB 95% CI,coverage of true step (fit 600),S1b,0.971153846153846,0.0085793616362121,104
+h1_ds_cover,H1 information step,per-dataset NB 95% CI,coverage of true step (fit 600),S2,0.9855769230769232,0.0057435012518077,104
+h1_ds_cover,H1 information step,per-dataset NB 95% CI,coverage of true step (fit 600),S3,0.9759615384615384,0.0072619287546534,104
+h2_orig_supported,H2,"original (joint retraining, MixedLM)",SUPPORTED rate,S0,0.019047619047619,0.0134037908157743,105
+h2_orig_supported,H2,"original (joint retraining, MixedLM)",SUPPORTED rate,S1,0.0857142857142857,0.0274505406523006,105
+h2_orig_supported,H2,"original (joint retraining, MixedLM)",SUPPORTED rate,S1b,0.4038461538461538,0.0483468895265401,104
+h2_orig_supported,H2,"original (joint retraining, MixedLM)",SUPPORTED rate,S2,0.8269230769230769,0.0372763625062916,104
+h2_orig_supported,H2,"original (joint retraining, MixedLM)",SUPPORTED rate,S3,0.8076923076923077,0.0388331561600308,104
+h4_cor_2stage_supported,H4,"corrected (val rho, R6 - R0, two-stage HKSJ)",one-sided p < 0.05,S0,0.0,0.0,105
+h4_cor_2stage_supported,H4,"corrected (val rho, R6 - R0, two-stage HKSJ)",one-sided p < 0.05,S1,0.0,0.0,105
+h4_cor_2stage_supported,H4,"corrected (val rho, R6 - R0, two-stage HKSJ)",one-sided p < 0.05,S1b,0.0,0.0,104
+h4_cor_2stage_supported,H4,"corrected (val rho, R6 - R0, two-stage HKSJ)",one-sided p < 0.05,S2,0.0,0.0,104
+h4_cor_2stage_supported,H4,"corrected (val rho, R6 - R0, two-stage HKSJ)",one-sided p < 0.05,S3,0.0,0.0,104
+h4_orig_supported,H4,"original (test rho, R6 - R1, MixedLM)",SUPPORTED rate,S0,0.3619047619047619,0.047121947484836,105
+h4_orig_supported,H4,"original (test rho, R6 - R1, MixedLM)",SUPPORTED rate,S1,0.3428571428571428,0.0465446562297744,105
+h4_orig_supported,H4,"original (test rho, R6 - R1, MixedLM)",SUPPORTED rate,S1b,0.2980769230769231,0.0450702871797508,104
+h4_orig_supported,H4,"original (test rho, R6 - R1, MixedLM)",SUPPORTED rate,S2,0.3173076923076923,0.0458600150214494,104
+h4_orig_supported,H4,"original (test rho, R6 - R1, MixedLM)",SUPPORTED rate,S3,0.5,0.0492664639082146,104
+h4_origR0_supported,H4,original with R0 in place of R6,SUPPORTED rate,S0,0.3714285714285714,0.0473803541479342,105
+h4_origR0_supported,H4,original with R0 in place of R6,SUPPORTED rate,S1,0.5142857142857142,0.0490090178483027,105
+h4_origR0_supported,H4,original with R0 in place of R6,SUPPORTED rate,S1b,0.4519230769230769,0.0490381869693143,104
+h4_origR0_supported,H4,original with R0 in place of R6,SUPPORTED rate,S2,0.4423076923076923,0.04893740777701,104
+h4_origR0_supported,H4,original with R0 in place of R6,SUPPORTED rate,S3,0.5096153846153846,0.0492573531427353,104
+h4_cor_2stage_slope,descriptive,h4_cor_2stage_slope,mean over replicates,S0,-0.0081345018958855,0.0190088485681114,105
+h4_cor_2stage_slope,descriptive,h4_cor_2stage_slope,mean over replicates,S1,0.0271460958636349,0.0180140771913602,105
+h4_cor_2stage_slope,descriptive,h4_cor_2stage_slope,mean over replicates,S1b,0.0981060998157718,0.0217200816345212,104
+h4_cor_2stage_slope,descriptive,h4_cor_2stage_slope,mean over replicates,S2,0.0562938587014652,0.0186667995940196,104
+h4_cor_2stage_slope,descriptive,h4_cor_2stage_slope,mean over replicates,S3,0.05237518741436,0.020326263544304,104

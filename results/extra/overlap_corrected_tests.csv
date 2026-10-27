@@ -1,0 +1,33 @@
+run,hypothesis,estimator,verdict,p_one_sided,p_holm,estimate,ci_lo,ci_hi,J,lhs
+pre-specified,H1,plan (as run),INCONCLUSIVE (neither the support nor the falsification rule is met),0.0574232179994437,0.1148464359988874,,,,,
+pre-specified,H2,plan (as run),SUPPORTED (slope > 0 after Holm; falsification rule not met),8.054496949282106e-06,4.027248474641053e-05,,,,,
+pre-specified,H3,plan (as run),INCONCLUSIVE (equivalence not shown; falsification rule not met),0.0733589190433115,0.1148464359988874,,,,,
+pre-specified,H4,plan (as run),SUPPORTED (slope < 0 after Holm),0.0007368494697466,0.0029473978789864,,,,,
+pre-specified,H5,plan (as run),SUPPORTED,0.0026997300269973,0.0080991900809919,,,,,
+pre-specified,H2,two-stage pooled (HKSJ),,0.0421024359186415,0.168409743674566,0.039102285807782,-0.0097664689583854,0.0879710405739496,4.0,
+pre-specified,H4,two-stage pooled (HKSJ),,0.0931405406878862,0.1722696539983311,-0.7521819881247521,-2.1541654049807573,0.6498014287312531,4.0,Cap(R6)-Cap(R1) on test rho_pos
+pre-specified,H1,"plan, in the two-stage Holm set",,0.0574232179994437,0.1722696539983311,,,,,
+pre-specified,H3,"plan, in the two-stage Holm set",,0.0733589190433115,0.1722696539983311,,,,,
+pre-specified,H5,"plan, in the two-stage Holm set",,0.0026997300269973,0.013498650134986499,,,,,
+deconfounded replication,H1,plan (as run),INCONCLUSIVE (neither the support nor the falsification rule is met),0.0887589408941516,0.2662768226824548,,,,,
+deconfounded replication,H2,plan (as run),SUPPORTED (slope > 0 after Holm; falsification rule not met),3.0592872454404333e-06,1.5296436227202165e-05,,,,,
+deconfounded replication,H3,plan (as run),INCONCLUSIVE (equivalence not shown; falsification rule not met),0.0562027969954607,0.2248111879818428,,,,,
+deconfounded replication,H4,plan (as run),FALSIFIED (slope CI includes 0),0.2112108884944756,0.4224217769889512,,,,,
+deconfounded replication,H5,plan (as run),NOT SUPPORTED (support rule not met),0.3521647835216478,0.4224217769889512,,,,,
+deconfounded replication,H2,two-stage hydraulic (hyd_blocks),,0.06180437301575386,,0.05953601260153352,-0.01780069157834252,0.13687271678140955,20.0,
+deconfounded replication,H2,two-stage skab (skab_filez),,0.03364958900994395,,0.013754581497493968,-0.0010807537019439616,0.028589916696931898,20.0,
+deconfounded replication,H2,two-stage seu (seu_dm),,0.24193820826546247,,0.0494442530217367,-0.09587274366975958,0.194761249713233,19.0,
+deconfounded replication,H2,two-stage threew (threew_dm),,0.0017575997847366258,,0.04821395011611908,0.020384975397347762,0.07604292483489039,10.0,
+deconfounded replication,H4,two-stage hydraulic (hyd_blocks),,0.2902424868987955,,-0.5678561387651552,,,20.0,Cap(R6)-Cap(R1) on test rho_pos
+deconfounded replication,H4,two-stage skab (skab_filez),,0.3305302327946335,,-0.17683006622194997,,,20.0,Cap(R6)-Cap(R1) on test rho_pos
+deconfounded replication,H4,two-stage seu (seu_dm),,0.4489480660247344,,-0.23805909210023685,,,18.0,Cap(R6)-Cap(R1) on test rho_pos
+deconfounded replication,H4,two-stage threew (threew_dm),,0.44209674831481,,-0.18240053068315804,,,10.0,Cap(R6)-Cap(R1) on test rho_pos
+deconfounded replication,H2,two-stage pooled (HKSJ),,0.04771769954259187,0.23858849771295934,0.03319821643421988,-0.010729781449737047,0.0771262143181768,4.0,
+deconfounded replication,H4,two-stage pooled (HKSJ),,0.2809638102176568,0.5619276204353136,-0.2256901068265574,-1.3303824294838436,0.8790022158307288,4.0,Cap(R6)-Cap(R1) on test rho_pos
+deconfounded replication,H1,"plan, in the two-stage Holm set",,0.0887589408941516,0.2662768226824548,,,,,
+deconfounded replication,H3,"plan, in the two-stage Holm set",,0.0562027969954607,0.23858849771295934,,,,,
+deconfounded replication,H5,"plan, in the two-stage Holm set",,0.3521647835216478,0.5619276204353136,,,,,
+pre-specified,H4,two-stage hydraulic,,0.47733312196893923,,-0.08353114503701742,,,20.0,Cap(R6)-Cap(R1) on test rho_pos
+pre-specified,H4,two-stage skab,,0.0517515821717527,,-0.9234847437288115,,,20.0,Cap(R6)-Cap(R1) on test rho_pos
+pre-specified,H4,two-stage seu,,0.47992851363096206,,-0.07315758044059262,,,20.0,Cap(R6)-Cap(R1) on test rho_pos
+pre-specified,H4,two-stage threew,,0.2384370571886035,,-0.8315973270108741,,,20.0,Cap(R6)-Cap(R1) on test rho_pos

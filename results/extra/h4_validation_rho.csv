@@ -1,0 +1,4 @@
+rho,lhs,n,n_groups,model,note,slope,se,ci_lo,ci_hi,z,corr_val_test_rho_spearman,n_cells_val_rho_defined,median_val_pos_windows
+rho_pos_val,dcap_R6,159,4,MixedLM,Maximum Likelihood optimization failed to converge. Check ml; Retrying MixedLM optimization with lbfgs,-0.10640369892890206,0.17226555543139374,-0.4440379833512221,0.23123058549341796,-0.617672515335071,0.6903214225408034,159,953.5
+rho_pos_val,dcap_R0,159,4,MixedLM,,0.07350100833115075,0.18639859767299938,-0.2918335298766996,0.4388355465390011,0.39432168078911295,0.6903214225408034,159,953.5
+rho_pos_val,cap_R6,159,4,MixedLM,"Gradient optimization failed, |grad| = 1.454859; Maximum Likelihood optimization failed to converge. Check ml; MixedLM optimization failed, trying a different optimizer ma; Retrying MixedLM optimization with cg; Retrying MixedLM optimization with lbfgs",-0.127539182387154,0.17562087410504854,-0.47174977056649214,0.21667140579218414,-0.7262188110444422,0.6903214225408034,159,953.5

@@ -1,0 +1,49 @@
+variant,design,pair,split,held_out,family,subset,n_pos,n_neg,recall_edge,recall_cloud,spec_edge,spec_cloud
+skab_lso,plan,A,0,2020-02-08,cavitation,other,62,133,0.0,0.0,1.0,1.0
+skab_lso,plan,A,0,2020-02-08,normal,anomaly-free,0,952,,,1.0,1.0
+skab_lso,plan,A,0,2020-02-08,rotor_imbalance,other,208,335,0.0,0.0,1.0,1.0
+skab_lso,plan,A,0,2020-02-08,warm_water_supply,other,32,55,0.0,0.0,1.0,1.0
+skab_lso,plan,A,0,2020-02-08,water_increase,other,110,134,0.0,0.0,1.0,1.0
+skab_lso,plan,A,1,2020-03-09,valve1_inlet_closure,valve1,664,1067,1.0,1.0,0.002811621368322359,0.0
+skab_lso,plan,A,1,2020-03-09,valve2_outlet_closure,valve2,159,258,1.0,1.0,0.0,0.0
+skab_lso,plan,A,2,2020-03-01,fluid_leak_or_addition,other,136,228,1.0,0.22058823529411764,0.0,0.9473684210526316
+skab_lso,plan,B,0,2020-02-08,cavitation,other,62,133,0.0,0.25806451612903225,1.0,0.887218045112782
+skab_lso,plan,B,0,2020-02-08,normal,anomaly-free,0,952,,,1.0,1.0
+skab_lso,plan,B,0,2020-02-08,rotor_imbalance,other,208,335,0.0,0.0,1.0,1.0
+skab_lso,plan,B,0,2020-02-08,warm_water_supply,other,32,55,0.0,0.0,1.0,1.0
+skab_lso,plan,B,0,2020-02-08,water_increase,other,110,134,0.0,0.0,1.0,1.0
+skab_lso,plan,B,1,2020-03-09,valve1_inlet_closure,valve1,664,1067,1.0,1.0,0.009372071227741308,0.0
+skab_lso,plan,B,1,2020-03-09,valve2_outlet_closure,valve2,159,258,0.9685534591194969,1.0,0.0,0.0
+skab_lso,plan,B,2,2020-03-01,fluid_leak_or_addition,other,136,228,0.18382352941176472,0.14705882352941177,0.9298245614035088,0.9605263157894737
+skab_lso2,redesign (R1),A,0,2020-02-08,cavitation,other,62,133,0.6612903225806451,1.0,0.18045112781954886,0.0
+skab_lso2,redesign (R1),A,0,2020-02-08,normal,anomaly-free,0,952,,,0.01575630252100846,0.0
+skab_lso2,redesign (R1),A,0,2020-02-08,rotor_imbalance,other,208,335,0.6394230769230769,1.0,0.10149253731343288,0.0
+skab_lso2,redesign (R1),A,0,2020-02-08,warm_water_supply,other,32,55,0.875,1.0,0.0,0.0
+skab_lso2,redesign (R1),A,0,2020-02-08,water_increase,other,110,134,0.7545454545454545,1.0,0.05970149253731338,0.0
+skab_lso2,redesign (R1),A,1,2020-03-01,fluid_leak_or_addition,other,136,228,0.0,0.0,1.0,1.0
+skab_lso2,redesign (R1),A,2,2020-03-09,valve1_inlet_closure,valve1,664,1067,1.0,1.0,0.0,0.0
+skab_lso2,redesign (R1),A,2,2020-03-09,valve2_outlet_closure,valve2,159,258,1.0,1.0,0.0,0.0
+skab_lso2,redesign (R1),B,0,2020-02-08,cavitation,other,62,133,0.8870967741935484,1.0,0.15037593984962405,0.03007518796992481
+skab_lso2,redesign (R1),B,0,2020-02-08,normal,anomaly-free,0,952,,,0.134453781512605,0.044117647058823484
+skab_lso2,redesign (R1),B,0,2020-02-08,rotor_imbalance,other,208,335,0.625,0.9711538461538461,0.11044776119402988,0.032835820895522394
+skab_lso2,redesign (R1),B,0,2020-02-08,warm_water_supply,other,32,55,0.90625,1.0,0.018181818181818188,0.018181818181818188
+skab_lso2,redesign (R1),B,0,2020-02-08,water_increase,other,110,134,0.7818181818181819,1.0,0.052238805970149294,0.03731343283582089
+skab_lso2,redesign (R1),B,1,2020-03-01,fluid_leak_or_addition,other,136,228,0.014705882352941176,0.0,0.8377192982456141,1.0
+skab_lso2,redesign (R1),B,2,2020-03-09,valve1_inlet_closure,valve1,664,1067,1.0,1.0,0.002811621368322359,0.0
+skab_lso2,redesign (R1),B,2,2020-03-09,valve2_outlet_closure,valve2,159,258,1.0,1.0,0.0,0.0
+skab_lso2_base,"redesign, causal offset (R1 r4)",A,0,2020-02-08,cavitation,other,62,133,0.7741935483870968,0.6935483870967742,0.3533834586466166,0.631578947368421
+skab_lso2_base,"redesign, causal offset (R1 r4)",A,0,2020-02-08,normal,anomaly-free,0,952,,,0.2647058823529411,0.9800420168067226
+skab_lso2_base,"redesign, causal offset (R1 r4)",A,0,2020-02-08,rotor_imbalance,other,208,335,0.5721153846153846,0.375,0.7402985074626866,0.8925373134328358
+skab_lso2_base,"redesign, causal offset (R1 r4)",A,0,2020-02-08,warm_water_supply,other,32,55,0.375,0.0,0.6,0.9090909090909091
+skab_lso2_base,"redesign, causal offset (R1 r4)",A,0,2020-02-08,water_increase,other,110,134,0.5818181818181818,0.13636363636363635,0.4626865671641791,0.9104477611940298
+skab_lso2_base,"redesign, causal offset (R1 r4)",A,1,2020-03-01,fluid_leak_or_addition,other,136,228,0.3897058823529412,0.9117647058823529,0.48245614035087714,0.8333333333333334
+skab_lso2_base,"redesign, causal offset (R1 r4)",A,2,2020-03-09,valve1_inlet_closure,valve1,664,1067,0.2394578313253012,0.7846385542168675,0.7525773195876289,0.8969072164948454
+skab_lso2_base,"redesign, causal offset (R1 r4)",A,2,2020-03-09,valve2_outlet_closure,valve2,159,258,0.2893081761006289,0.8427672955974843,0.7170542635658914,0.8643410852713178
+skab_lso2_base,"redesign, causal offset (R1 r4)",B,0,2020-02-08,cavitation,other,62,133,0.7580645161290323,0.6935483870967742,0.43609022556390975,0.6541353383458647
+skab_lso2_base,"redesign, causal offset (R1 r4)",B,0,2020-02-08,normal,anomaly-free,0,952,,,0.07352941176470584,0.990546218487395
+skab_lso2_base,"redesign, causal offset (R1 r4)",B,0,2020-02-08,rotor_imbalance,other,208,335,0.7548076923076923,0.4807692307692308,0.34925373134328364,0.8805970149253731
+skab_lso2_base,"redesign, causal offset (R1 r4)",B,0,2020-02-08,warm_water_supply,other,32,55,0.40625,0.0,0.5454545454545454,0.9272727272727272
+skab_lso2_base,"redesign, causal offset (R1 r4)",B,0,2020-02-08,water_increase,other,110,134,0.9,0.08181818181818182,0.19402985074626866,0.9104477611940298
+skab_lso2_base,"redesign, causal offset (R1 r4)",B,1,2020-03-01,fluid_leak_or_addition,other,136,228,0.23529411764705882,0.7573529411764706,0.8552631578947368,0.9342105263157895
+skab_lso2_base,"redesign, causal offset (R1 r4)",B,2,2020-03-09,valve1_inlet_closure,valve1,664,1067,0.14156626506024098,0.5813253012048193,0.8922211808809747,1.0
+skab_lso2_base,"redesign, causal offset (R1 r4)",B,2,2020-03-09,valve2_outlet_closure,valve2,159,258,0.27044025157232704,0.5345911949685535,0.8643410852713178,1.0

@@ -1,0 +1,33 @@
+key,scenario,design,quantity,rate_R200,n_rep_R200,rejections_R200,mcse_R200,rate_snapshot,n_rep_snapshot
+h4_orig_supported,S0,"original (test rho, R6 - R1, MixedLM)",SUPPORTED rate,0.305,200,61.0,0.0326374172542057,0.3619047619047619,105.0
+h4_origR0_supported,S0,original with R0 in place of R6,SUPPORTED rate,0.39,200,78.0,0.0345756762325001,0.3714285714285714,105.0
+h4_cor_2stage_supported,S0,"corrected (val rho, R6 - R0, two-stage HKSJ)",one-sided p < 0.05,0.005,200,1.0,0.005,0.0,105.0
+h4_cor_mixed_p_lt05,S0,"corrected (val rho, R6 - R0, MixedLM)",one-sided p < 0.05,0.06,200,12.0,0.0168349958546812,0.0380952380952381,105.0
+h4_cor_mixed_supported,S0,"corrected (val rho, R6 - R0, MixedLM)",SUPPORTED rate,0.035,200,7.0,0.013027801736688,0.0380952380952381,105.0
+h2_orig_supported,S0,"original (joint retraining, MixedLM)",SUPPORTED rate,0.01,200,2.0,0.0070532789338429,0.019047619047619,105.0
+h2_orig_p_lt05,S0,"original (joint retraining, MixedLM)",one-sided p < 0.05,0.01,200,2.0,0.0070532789338429,0.019047619047619,105.0
+h1_ds_cover,S0,per-dataset NB 95% CI,coverage of true step (fit 600),0.99125,200,,0.003256950434172,,
+h1_ds_cover,S1,per-dataset NB 95% CI,coverage of true step (fit 600),0.98625,200,,0.0040402730764966,,
+h1_ds_cover,S1b,per-dataset NB 95% CI,coverage of true step (fit 600),0.975,200,,0.0056041979957777,,
+h1_ds_cover,S2,per-dataset NB 95% CI,coverage of true step (fit 600),0.97625,200,,0.0051963639684362,,
+h1_ds_cover,S3,per-dataset NB 95% CI,coverage of true step (fit 600),0.98375,200,,0.0043689387301884,,
+h1_ds_cover_fit800,S0,per-dataset NB 95% CI,coverage of true step (fit 800),0.99125,200,,0.003256950434172,,
+h1_ds_cover_fit800,S1,per-dataset NB 95% CI,coverage of true step (fit 800),0.98375,200,,0.0043689387301884,,
+h1_ds_cover_fit800,S1b,per-dataset NB 95% CI,coverage of true step (fit 800),0.9725,200,,0.0058213564531622,,
+h1_ds_cover_fit800,S2,per-dataset NB 95% CI,coverage of true step (fit 800),0.97625,200,,0.0051963639684362,,
+h1_ds_cover_fit800,S3,per-dataset NB 95% CI,coverage of true step (fit 800),0.98375,200,,0.0043689387301884,,
+h1_ds_cover_naive,S0,per-dataset naive t 95% CI,coverage of true step (fit 600),0.91375,200,,0.0094771445511937,,
+h1_ds_cover_naive,S1,per-dataset naive t 95% CI,coverage of true step (fit 600),0.84875,200,,0.01348476480735,,
+h1_ds_cover_naive,S1b,per-dataset naive t 95% CI,coverage of true step (fit 600),0.82375,200,,0.0138183545370117,,
+h1_ds_cover_naive,S2,per-dataset naive t 95% CI,coverage of true step (fit 600),0.82375,200,,0.0128771617202646,,
+h1_ds_cover_naive,S3,per-dataset naive t 95% CI,coverage of true step (fit 600),0.87375,200,,0.0112080457237077,,
+h1_pool_cover,S0,pooled HKSJ 95% CI,coverage of true step (fit 600),0.995,200,,0.005,,
+h1_pool_cover,S1,pooled HKSJ 95% CI,coverage of true step (fit 600),0.995,200,,0.005,,
+h1_pool_cover,S1b,pooled HKSJ 95% CI,coverage of true step (fit 600),0.995,200,,0.005,,
+h1_pool_cover,S2,pooled HKSJ 95% CI,coverage of true step (fit 600),0.995,200,,0.005,,
+h1_pool_cover,S3,pooled HKSJ 95% CI,coverage of true step (fit 600),1.0,200,,0.0,,
+h4_cor_2stage_supported (all scenarios),S0,"corrected (val rho, R6 - R0, two-stage HKSJ)",one-sided p < 0.05,0.005,200,1.0,0.005,,
+h4_cor_2stage_supported (all scenarios),S1,"corrected (val rho, R6 - R0, two-stage HKSJ)",one-sided p < 0.05,0.0,200,0.0,0.0,,
+h4_cor_2stage_supported (all scenarios),S1b,"corrected (val rho, R6 - R0, two-stage HKSJ)",one-sided p < 0.05,0.0,200,0.0,0.0,,
+h4_cor_2stage_supported (all scenarios),S2,"corrected (val rho, R6 - R0, two-stage HKSJ)",one-sided p < 0.05,0.0,200,0.0,0.0,,
+h4_cor_2stage_supported (all scenarios),S3,"corrected (val rho, R6 - R0, two-stage HKSJ)",one-sided p < 0.05,0.0,200,0.0,0.0,,

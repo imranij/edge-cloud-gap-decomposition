@@ -1,0 +1,17 @@
+null,subset,cells,outcome,n,n_undefined,n_go,base_rate,ba,p_within_dataset,p_within_block,undefined_by_dataset
+within-class null,all cells,undefined as NO-GO,routing beats random,400,135,90,0.5275,0.5628150154216505,0.015998400159984,0.20127987201279873,seu 100; skab 20; threew 15
+within-class null,all cells,undefined as NO-GO,escalation beats the edge,400,135,90,0.7075,0.604648002174504,0.061693830616938304,0.2655734426557344,seu 100; skab 20; threew 15
+within-class null,all cells,defined cells only,routing beats random,265,0,90,0.5849056603773585,0.5571847507331378,0.0397960203979602,0.19358064193580643,seu 100; skab 20; threew 15
+within-class null,all cells,defined cells only,escalation beats the edge,265,0,90,0.8641509433962264,0.5518558951965066,0.10638936106389361,0.2555744425557444,seu 100; skab 20; threew 15
+within-class null,"q = 1, pairs A and B",undefined as NO-GO,routing beats random,160,40,47,0.65625,0.5437229437229437,0.6867313268673133,0.7833216678332167,seu 40
+within-class null,"q = 1, pairs A and B",undefined as NO-GO,escalation beats the edge,160,40,47,0.75625,0.6094511549057003,0.7424257574242575,0.9025097490250975,seu 40
+within-class null,"q = 1, pairs A and B",defined cells only,routing beats random,120,0,47,0.7083333333333334,0.5142857142857142,0.6977302269773022,0.78002199780022,seu 40
+within-class null,"q = 1, pairs A and B",defined cells only,escalation beats the edge,120,0,47,0.8833333333333333,0.5195417789757413,0.7505249475052495,0.9001099890010998,seu 40
+across-window null,all cells,undefined as NO-GO,routing beats random,400,135,127,0.5275,0.5752651771609117,0.008899110088991101,0.3651634836516348,seu 100; skab 20; threew 15
+across-window null,all cells,undefined as NO-GO,escalation beats the edge,400,135,127,0.7075,0.6398175832804808,0.038896110388961104,0.38066193380661933,seu 100; skab 20; threew 15
+across-window null,all cells,defined cells only,routing beats random,265,0,127,0.5849056603773585,0.5599706744868036,0.032096790320967905,0.36836316368363164,seu 100; skab 20; threew 15
+across-window null,all cells,defined cells only,escalation beats the edge,265,0,127,0.8641509433962264,0.5522804463852499,0.08739126087391261,0.3828617138286171,seu 100; skab 20; threew 15
+across-window null,"q = 1, pairs A and B",undefined as NO-GO,routing beats random,160,40,69,0.65625,0.5376623376623376,0.7204279572042795,0.936906309369063,seu 40
+across-window null,"q = 1, pairs A and B",undefined as NO-GO,escalation beats the edge,160,40,69,0.75625,0.6325492689129053,0.6362363763623637,0.973002699730027,seu 40
+across-window null,"q = 1, pairs A and B",defined cells only,routing beats random,120,0,69,0.7083333333333334,0.4823529411764706,0.7256274372562743,0.9351064893510649,seu 40
+across-window null,"q = 1, pairs A and B",defined cells only,escalation beats the edge,120,0,69,0.8833333333333333,0.46159029649595684,0.6213378662133786,0.9755024497550245,seu 40

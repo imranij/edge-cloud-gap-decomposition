@@ -1,0 +1,15 @@
+dataset,stat,value,note
+threew,wells,13.0,
+threew,min per-well fault share,0.0,WELL-00041
+threew,max per-well fault share,0.9652479500195236,WELL-00014
+threew,share of normal windows from the three largest wells,0.843788437884379,WELL-00001;WELL-00006;WELL-00005
+threew,wells contributing all-normal instances,6.0,
+skab,"median within-file Spearman(position, label)",0.5417264177064391,34 files with both classes
+skab,sessions,3.0,2020-02-08;2020-03-01;2020-03-09
+skab,session 2020-02-08: windows / positives / groups,2021.0,412 positives; 18 groups
+skab,session 2020-03-01: windows / positives / groups,364.0,136 positives; 4 groups
+skab,session 2020-03-09: windows / positives / groups,2148.0,823 positives; 20 groups
+hydraulic,adjacent group pairs with the same label,178.0,of 202
+hydraulic,cycles flagged stable = 1 (possibly not yet stable),756.0,
+seu,"motor_vib mean feature, per-recording mean, healthy min..max",-0.18041834667325019,max -0.133
+seu,"motor_vib mean feature, per-recording mean, faulty min..max",-0.18109263490885497,max -0.123

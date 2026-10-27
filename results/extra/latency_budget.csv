@@ -1,0 +1,5 @@
+dataset,window_s,stride_s,escalations_per_h_at_10,mean_s_between_escalations_at_10,features_cloud_B,raw_cloud_window_B,link_Bps_features_within_stride,link_bitps_features_within_stride,link_Bps_raw_within_stride,link_bitps_raw_within_stride
+hydraulic,60.0,60.0,6.0,600.0,952.0,174000.0,15.866666666666667,126.93333333333334,2900.0,23200.0
+skab,60.0,10.0,36.0,100.0,544.0,1920.0,54.4,435.2,192.0,1536.0
+seu,0.2,0.2,1800.0,2.0,544.0,32768.0,2720.0,21760.0,163840.0,1310720.0
+threew,300.0,300.0,1.2000000000000002,2999.9999999999995,340.0,6000.0,1.1333333333333333,9.066666666666666,20.0,160.0

@@ -1,0 +1,11 @@
+run,hypothesis,estimator,estimate,ci_lo,ci_hi,J,p_one_sided,lhs,n_cells,p_two_sided
+corrected H4 (post-plan),H4,two-stage hydraulic,-0.4071866541935935,,,20,0.3666975542147551,Cap(R6)-Cap(R0) on validation rho_pos,40,0.7333951084295102
+corrected H4 (post-plan),H4,two-stage skab,-0.25056070305922007,,,20,0.21769355446985178,Cap(R6)-Cap(R0) on validation rho_pos,40,0.43538710893970356
+corrected H4 (post-plan),H4,two-stage seu,-0.290134446460366,,,20,0.40503213438073726,Cap(R6)-Cap(R0) on validation rho_pos,39,0.8100642687614745
+corrected H4 (post-plan),H4,two-stage threew,0.32524447483810665,,,20,0.6827014704415659,Cap(R6)-Cap(R0) on validation rho_pos,40,0.6345970591168681
+corrected H4 (post-plan),H4,two-stage pooled (HKSJ),-0.16841297251053558,-1.0267884030747199,0.6899624580536486,4,0.28831520352820456,Cap(R6)-Cap(R0) on validation rho_pos,159,0.5766304070564091
+"corrected H4, R1-referenced (for comparison)",H4,two-stage hydraulic,0.46013816546972347,,,20,0.6449538313057841,Cap(R6)-Cap(R1) on validation rho_pos,40,0.7100923373884318
+"corrected H4, R1-referenced (for comparison)",H4,two-stage skab,-0.14069874537366023,,,20,0.3757892046807268,Cap(R6)-Cap(R1) on validation rho_pos,40,0.7515784093614536
+"corrected H4, R1-referenced (for comparison)",H4,two-stage seu,-0.023096946428183912,,,20,0.49119158134556407,Cap(R6)-Cap(R1) on validation rho_pos,39,0.9823831626911281
+"corrected H4, R1-referenced (for comparison)",H4,two-stage threew,-0.010667259176436739,,,20,0.4955637820275349,Cap(R6)-Cap(R1) on validation rho_pos,40,0.9911275640550699
+"corrected H4, R1-referenced (for comparison)",H4,two-stage pooled (HKSJ),-0.05761110095866554,-1.187189087152934,1.071966885235603,4,0.44068827796378185,Cap(R6)-Cap(R1) on validation rho_pos,159,0.8813765559275637

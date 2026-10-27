@@ -1,0 +1,31 @@
+key,scenario,rate,mcse,n_rep,what,n_reject,upper95_one_sided
+h2_orig_2stage_reject,S0,0.0,0.0,105,"plan's H2 contrast, two-stage: one-sided p < 0.05",0,0.028127624003676396
+h2_orig_2stage_reject,S1,0.0095238095238095,0.0095238095238095,105,"plan's H2 contrast, two-stage: one-sided p < 0.05",1,0.04438214017260865
+h2_orig_2stage_reject,S1b,0.0673076923076923,0.0246878309836788,104,"plan's H2 contrast, two-stage: one-sided p < 0.05",7,0.12270394234622652
+h2_orig_2stage_reject,S2,0.2596153846153846,0.0431991590944755,104,"plan's H2 contrast, two-stage: one-sided p < 0.05",27,0.33981164883299253
+h2_orig_2stage_reject,S3,0.6730769230769231,0.0462207008952147,104,"plan's H2 contrast, two-stage: one-sided p < 0.05",70,0.7490317788917895
+h2_orig_supported,S0,0.019047619047619,0.0134037908157743,105,plan's H2 (MixedLM): SUPPORTED,2,0.05874508650952865
+h2_orig_supported,S1,0.0857142857142857,0.0274505406523006,105,plan's H2 (MixedLM): SUPPORTED,9,0.14480520676429004
+h2_orig_supported,S1b,0.4038461538461538,0.0483468895265401,104,plan's H2 (MixedLM): SUPPORTED,42,0.4891105048350264
+h2_orig_supported,S2,0.8269230769230769,0.0372763625062916,104,plan's H2 (MixedLM): SUPPORTED,86,0.8850453955506732
+h2_orig_supported,S3,0.8076923076923077,0.0388331561600308,104,plan's H2 (MixedLM): SUPPORTED,84,0.8687592397684831
+h4_cor_mixed_p_lt05,S0,0.0380952380952381,0.0187708834803208,105,"corrected H4, same contrast, MixedLM: one-sided p < 0.05",4,0.0850540447084367
+h4_cor_mixed_p_lt05,S1,0.0380952380952381,0.0187708834803208,105,"corrected H4, same contrast, MixedLM: one-sided p < 0.05",4,0.0850540447084367
+h4_cor_mixed_p_lt05,S1b,0.0288461538461538,0.0164918494886913,104,"corrected H4, same contrast, MixedLM: one-sided p < 0.05",3,0.0728657579109047
+h4_cor_mixed_p_lt05,S2,0.0096153846153846,0.0096153846153846,104,"corrected H4, same contrast, MixedLM: one-sided p < 0.05",1,0.04480122652379555
+h4_cor_mixed_p_lt05,S3,0.048076923076923,0.021079031255807,104,"corrected H4, same contrast, MixedLM: one-sided p < 0.05",5,0.09842622223621103
+h4_cor_2stage_supported,S0,0.0,0.0,105,"corrected H4, two-stage with the factor: one-sided p < 0.05",0,0.028127624003676396
+h4_cor_2stage_supported,S1,0.0,0.0,105,"corrected H4, two-stage with the factor: one-sided p < 0.05",0,0.028127624003676396
+h4_cor_2stage_supported,S1b,0.0,0.0,104,"corrected H4, two-stage with the factor: one-sided p < 0.05",0,0.028394205516576565
+h4_cor_2stage_supported,S2,0.0,0.0,104,"corrected H4, two-stage with the factor: one-sided p < 0.05",0,0.028394205516576565
+h4_cor_2stage_supported,S3,0.0,0.0,104,"corrected H4, two-stage with the factor: one-sided p < 0.05",0,0.028394205516576565
+h4_orig_supported,S0,0.3619047619047619,0.047121947484836,105,plan's H4 (MixedLM): SUPPORTED,38,0.4460553204818566
+h4_orig_supported,S1,0.3428571428571428,0.0465446562297744,105,plan's H4 (MixedLM): SUPPORTED,36,0.42649630263076543
+h4_orig_supported,S1b,0.2980769230769231,0.0450702871797508,104,plan's H4 (MixedLM): SUPPORTED,31,0.38041407764215646
+h4_orig_supported,S2,0.3173076923076923,0.0458600150214494,104,plan's H4 (MixedLM): SUPPORTED,33,0.4004850088313031
+h4_orig_supported,S3,0.5,0.0492664639082146,104,plan's H4 (MixedLM): SUPPORTED,52,0.5846400418239945
+h4_origR0_supported,S0,0.3714285714285714,0.0473803541479342,105,plan's H4 with R0 in place of R6: SUPPORTED,39,0.4557867134175654
+h4_origR0_supported,S1,0.5142857142857142,0.0490090178483027,105,plan's H4 with R0 in place of R6: SUPPORTED,54,0.5981661031912915
+h4_origR0_supported,S1b,0.4519230769230769,0.0490381869693143,104,plan's H4 with R0 in place of R6: SUPPORTED,47,0.5372460900560723
+h4_origR0_supported,S2,0.4423076923076923,0.04893740777701,104,plan's H4 with R0 in place of R6: SUPPORTED,46,0.5276789335528007
+h4_origR0_supported,S3,0.5096153846153846,0.0492573531427353,104,plan's H4 with R0 in place of R6: SUPPORTED,53,0.5940309233186805

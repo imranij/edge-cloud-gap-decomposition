@@ -1,0 +1,109 @@
+pair,escalation,alternative,hop,escalation_bit_s,alternative_bit_s,band,escalation_down_msg_h_per_node
+A,"escalation, provisioned at hourly q95","gateway, node features, co-located with edge node",backhaul,42.31111111111111,0.0,empty,20.0
+A,"escalation, provisioned at hourly q95","gateway, node features, co-located with edge node",local aggregate,42.31111111111111,108.8,42.3 to 108.8 bit/s,20.0
+A,"escalation, provisioned at hourly q95","gateway, node features, co-located with edge node",per cloud-only node,3.022222222222222,9.066666666666666,3.0 to 9.1 bit/s,20.0
+A,"escalation, provisioned at hourly q95","gateway, node features, separate from edge node",backhaul,42.31111111111111,0.0,empty,20.0
+A,"escalation, provisioned at hourly q95","gateway, node features, separate from edge node",local aggregate,42.31111111111111,126.93333333333334,42.3 to 126.9 bit/s,20.0
+A,"escalation, provisioned at hourly q95","gateway, node features, separate from edge node",per cloud-only node,3.022222222222222,9.066666666666666,3.0 to 9.1 bit/s,20.0
+A,"escalation, provisioned at hourly q95",full feature stream,backhaul,42.31111111111111,126.93333333333334,42.3 to 126.9 bit/s,20.0
+A,"escalation, provisioned at hourly q95",full feature stream,local aggregate,42.31111111111111,126.93333333333334,42.3 to 126.9 bit/s,20.0
+A,"escalation, provisioned at hourly q95",full feature stream,per cloud-only node,3.022222222222222,9.066666666666666,3.0 to 9.1 bit/s,20.0
+A,"escalation, provisioned at hourly q95",edge and flow features streamed,backhaul,42.31111111111111,36.266666666666666,empty,20.0
+A,"escalation, provisioned at hourly q95",edge and flow features streamed,local aggregate,42.31111111111111,36.266666666666666,empty,20.0
+A,"escalation, provisioned for q95 delay <= 10 min","gateway, node features, co-located with edge node",backhaul,60.12631578947312,0.0,empty,28.42105263157868
+A,"escalation, provisioned for q95 delay <= 10 min","gateway, node features, co-located with edge node",local aggregate,60.12631578947312,108.8,60.1 to 108.8 bit/s,28.42105263157868
+A,"escalation, provisioned for q95 delay <= 10 min","gateway, node features, co-located with edge node",per cloud-only node,4.294736842105222,9.066666666666666,4.3 to 9.1 bit/s,28.42105263157868
+A,"escalation, provisioned for q95 delay <= 10 min","gateway, node features, separate from edge node",backhaul,60.12631578947312,0.0,empty,28.42105263157868
+A,"escalation, provisioned for q95 delay <= 10 min","gateway, node features, separate from edge node",local aggregate,60.12631578947312,126.93333333333334,60.1 to 126.9 bit/s,28.42105263157868
+A,"escalation, provisioned for q95 delay <= 10 min","gateway, node features, separate from edge node",per cloud-only node,4.294736842105222,9.066666666666666,4.3 to 9.1 bit/s,28.42105263157868
+A,"escalation, provisioned for q95 delay <= 10 min",full feature stream,backhaul,60.12631578947312,126.93333333333334,60.1 to 126.9 bit/s,28.42105263157868
+A,"escalation, provisioned for q95 delay <= 10 min",full feature stream,local aggregate,60.12631578947312,126.93333333333334,60.1 to 126.9 bit/s,28.42105263157868
+A,"escalation, provisioned for q95 delay <= 10 min",full feature stream,per cloud-only node,4.294736842105222,9.066666666666666,4.3 to 9.1 bit/s,28.42105263157868
+A,"escalation, provisioned for q95 delay <= 10 min",edge and flow features streamed,backhaul,60.12631578947312,36.266666666666666,empty,28.42105263157868
+A,"escalation, provisioned for q95 delay <= 10 min",edge and flow features streamed,local aggregate,60.12631578947312,36.266666666666666,empty,28.42105263157868
+A,"escalation, one-window deadline (burst rate)","gateway, node features, co-located with edge node",backhaul,126.93333333333334,0.0,empty,60.0
+A,"escalation, one-window deadline (burst rate)","gateway, node features, co-located with edge node",local aggregate,126.93333333333334,108.8,empty,60.0
+A,"escalation, one-window deadline (burst rate)","gateway, node features, co-located with edge node",per cloud-only node,9.066666666666666,9.066666666666666,empty,60.0
+A,"escalation, one-window deadline (burst rate)","gateway, node features, separate from edge node",backhaul,126.93333333333334,0.0,empty,60.0
+A,"escalation, one-window deadline (burst rate)","gateway, node features, separate from edge node",local aggregate,126.93333333333334,126.93333333333334,empty,60.0
+A,"escalation, one-window deadline (burst rate)","gateway, node features, separate from edge node",per cloud-only node,9.066666666666666,9.066666666666666,empty,60.0
+A,"escalation, one-window deadline (burst rate)",full feature stream,backhaul,126.93333333333334,126.93333333333334,empty,60.0
+A,"escalation, one-window deadline (burst rate)",full feature stream,local aggregate,126.93333333333334,126.93333333333334,empty,60.0
+A,"escalation, one-window deadline (burst rate)",full feature stream,per cloud-only node,9.066666666666666,9.066666666666666,empty,60.0
+A,"escalation, one-window deadline (burst rate)",edge and flow features streamed,backhaul,126.93333333333334,36.266666666666666,empty,60.0
+A,"escalation, one-window deadline (burst rate)",edge and flow features streamed,local aggregate,126.93333333333334,36.266666666666666,empty,60.0
+B,"escalation, provisioned at hourly q95","gateway, node features, co-located with edge node",backhaul,44.42666666666667,0.0,empty,21.0
+B,"escalation, provisioned at hourly q95","gateway, node features, co-located with edge node",local aggregate,44.42666666666667,108.8,44.4 to 108.8 bit/s,21.0
+B,"escalation, provisioned at hourly q95","gateway, node features, co-located with edge node",per cloud-only node,3.1733333333333333,9.066666666666666,3.2 to 9.1 bit/s,21.0
+B,"escalation, provisioned at hourly q95","gateway, node features, separate from edge node",backhaul,44.42666666666667,0.0,empty,21.0
+B,"escalation, provisioned at hourly q95","gateway, node features, separate from edge node",local aggregate,44.42666666666667,126.93333333333334,44.4 to 126.9 bit/s,21.0
+B,"escalation, provisioned at hourly q95","gateway, node features, separate from edge node",per cloud-only node,3.1733333333333333,9.066666666666666,3.2 to 9.1 bit/s,21.0
+B,"escalation, provisioned at hourly q95",full feature stream,backhaul,44.42666666666667,126.93333333333334,44.4 to 126.9 bit/s,21.0
+B,"escalation, provisioned at hourly q95",full feature stream,local aggregate,44.42666666666667,126.93333333333334,44.4 to 126.9 bit/s,21.0
+B,"escalation, provisioned at hourly q95",full feature stream,per cloud-only node,3.1733333333333333,9.066666666666666,3.2 to 9.1 bit/s,21.0
+B,"escalation, provisioned at hourly q95",edge and flow features streamed,backhaul,44.42666666666667,36.266666666666666,empty,21.0
+B,"escalation, provisioned at hourly q95",edge and flow features streamed,local aggregate,44.42666666666667,36.266666666666666,empty,21.0
+B,"escalation, provisioned for q95 delay <= 10 min","gateway, node features, co-located with edge node",backhaul,63.46666666666666,0.0,empty,29.999999999999996
+B,"escalation, provisioned for q95 delay <= 10 min","gateway, node features, co-located with edge node",local aggregate,63.46666666666666,108.8,63.5 to 108.8 bit/s,29.999999999999996
+B,"escalation, provisioned for q95 delay <= 10 min","gateway, node features, co-located with edge node",per cloud-only node,4.533333333333333,9.066666666666666,4.5 to 9.1 bit/s,29.999999999999996
+B,"escalation, provisioned for q95 delay <= 10 min","gateway, node features, separate from edge node",backhaul,63.46666666666666,0.0,empty,29.999999999999996
+B,"escalation, provisioned for q95 delay <= 10 min","gateway, node features, separate from edge node",local aggregate,63.46666666666666,126.93333333333334,63.5 to 126.9 bit/s,29.999999999999996
+B,"escalation, provisioned for q95 delay <= 10 min","gateway, node features, separate from edge node",per cloud-only node,4.533333333333333,9.066666666666666,4.5 to 9.1 bit/s,29.999999999999996
+B,"escalation, provisioned for q95 delay <= 10 min",full feature stream,backhaul,63.46666666666666,126.93333333333334,63.5 to 126.9 bit/s,29.999999999999996
+B,"escalation, provisioned for q95 delay <= 10 min",full feature stream,local aggregate,63.46666666666666,126.93333333333334,63.5 to 126.9 bit/s,29.999999999999996
+B,"escalation, provisioned for q95 delay <= 10 min",full feature stream,per cloud-only node,4.533333333333333,9.066666666666666,4.5 to 9.1 bit/s,29.999999999999996
+B,"escalation, provisioned for q95 delay <= 10 min",edge and flow features streamed,backhaul,63.46666666666666,36.266666666666666,empty,29.999999999999996
+B,"escalation, provisioned for q95 delay <= 10 min",edge and flow features streamed,local aggregate,63.46666666666666,36.266666666666666,empty,29.999999999999996
+B,"escalation, one-window deadline (burst rate)","gateway, node features, co-located with edge node",backhaul,126.93333333333334,0.0,empty,60.0
+B,"escalation, one-window deadline (burst rate)","gateway, node features, co-located with edge node",local aggregate,126.93333333333334,108.8,empty,60.0
+B,"escalation, one-window deadline (burst rate)","gateway, node features, co-located with edge node",per cloud-only node,9.066666666666666,9.066666666666666,empty,60.0
+B,"escalation, one-window deadline (burst rate)","gateway, node features, separate from edge node",backhaul,126.93333333333334,0.0,empty,60.0
+B,"escalation, one-window deadline (burst rate)","gateway, node features, separate from edge node",local aggregate,126.93333333333334,126.93333333333334,empty,60.0
+B,"escalation, one-window deadline (burst rate)","gateway, node features, separate from edge node",per cloud-only node,9.066666666666666,9.066666666666666,empty,60.0
+B,"escalation, one-window deadline (burst rate)",full feature stream,backhaul,126.93333333333334,126.93333333333334,empty,60.0
+B,"escalation, one-window deadline (burst rate)",full feature stream,local aggregate,126.93333333333334,126.93333333333334,empty,60.0
+B,"escalation, one-window deadline (burst rate)",full feature stream,per cloud-only node,9.066666666666666,9.066666666666666,empty,60.0
+B,"escalation, one-window deadline (burst rate)",edge and flow features streamed,backhaul,126.93333333333334,36.266666666666666,empty,60.0
+B,"escalation, one-window deadline (burst rate)",edge and flow features streamed,local aggregate,126.93333333333334,36.266666666666666,empty,60.0
+A,"escalation, provisioned at hourly q95",edge and FS1 features streamed,backhaul,42.31111111111111,27.2,empty,20.0
+A,"escalation, provisioned at hourly q95",edge and FS1 features streamed,local aggregate,42.31111111111111,27.2,empty,20.0
+A,"escalation, provisioned at hourly q95",FS1 wired to edge node (local only),backhaul,42.31111111111111,0.0,empty,20.0
+A,"escalation, provisioned at hourly q95",FS1 wired to edge node (local only),local aggregate,42.31111111111111,9.066666666666666,empty,20.0
+A,"escalation, provisioned at hourly q95","gateway, cloud model, co-located with edge node",backhaul,42.31111111111111,0.0,empty,20.0
+A,"escalation, provisioned at hourly q95","gateway, cloud model, co-located with edge node",local aggregate,42.31111111111111,108.8,42.3 to 108.8 bit/s,20.0
+A,"escalation, provisioned at hourly q95","gateway, cloud model, co-located with edge node",per cloud-only node,3.022222222222222,9.066666666666666,3.0 to 9.1 bit/s,20.0
+A,"escalation, provisioned for q95 delay <= 10 min",edge and FS1 features streamed,backhaul,60.12631578947312,27.2,empty,28.42105263157868
+A,"escalation, provisioned for q95 delay <= 10 min",edge and FS1 features streamed,local aggregate,60.12631578947312,27.2,empty,28.42105263157868
+A,"escalation, provisioned for q95 delay <= 10 min",FS1 wired to edge node (local only),backhaul,60.12631578947312,0.0,empty,28.42105263157868
+A,"escalation, provisioned for q95 delay <= 10 min",FS1 wired to edge node (local only),local aggregate,60.12631578947312,9.066666666666666,empty,28.42105263157868
+A,"escalation, provisioned for q95 delay <= 10 min","gateway, cloud model, co-located with edge node",backhaul,60.12631578947312,0.0,empty,28.42105263157868
+A,"escalation, provisioned for q95 delay <= 10 min","gateway, cloud model, co-located with edge node",local aggregate,60.12631578947312,108.8,60.1 to 108.8 bit/s,28.42105263157868
+A,"escalation, provisioned for q95 delay <= 10 min","gateway, cloud model, co-located with edge node",per cloud-only node,4.294736842105222,9.066666666666666,4.3 to 9.1 bit/s,28.42105263157868
+A,"escalation, one-window deadline (burst rate)",edge and FS1 features streamed,backhaul,126.93333333333334,27.2,empty,60.0
+A,"escalation, one-window deadline (burst rate)",edge and FS1 features streamed,local aggregate,126.93333333333334,27.2,empty,60.0
+A,"escalation, one-window deadline (burst rate)",FS1 wired to edge node (local only),backhaul,126.93333333333334,0.0,empty,60.0
+A,"escalation, one-window deadline (burst rate)",FS1 wired to edge node (local only),local aggregate,126.93333333333334,9.066666666666666,empty,60.0
+A,"escalation, one-window deadline (burst rate)","gateway, cloud model, co-located with edge node",backhaul,126.93333333333334,0.0,empty,60.0
+A,"escalation, one-window deadline (burst rate)","gateway, cloud model, co-located with edge node",local aggregate,126.93333333333334,108.8,empty,60.0
+A,"escalation, one-window deadline (burst rate)","gateway, cloud model, co-located with edge node",per cloud-only node,9.066666666666666,9.066666666666666,empty,60.0
+B,"escalation, provisioned at hourly q95",edge and FS1 features streamed,backhaul,44.42666666666667,27.2,empty,21.0
+B,"escalation, provisioned at hourly q95",edge and FS1 features streamed,local aggregate,44.42666666666667,27.2,empty,21.0
+B,"escalation, provisioned at hourly q95",FS1 wired to edge node (local only),backhaul,44.42666666666667,0.0,empty,21.0
+B,"escalation, provisioned at hourly q95",FS1 wired to edge node (local only),local aggregate,44.42666666666667,9.066666666666666,empty,21.0
+B,"escalation, provisioned at hourly q95","gateway, cloud model, co-located with edge node",backhaul,44.42666666666667,0.0,empty,21.0
+B,"escalation, provisioned at hourly q95","gateway, cloud model, co-located with edge node",local aggregate,44.42666666666667,108.8,44.4 to 108.8 bit/s,21.0
+B,"escalation, provisioned at hourly q95","gateway, cloud model, co-located with edge node",per cloud-only node,3.1733333333333333,9.066666666666666,3.2 to 9.1 bit/s,21.0
+B,"escalation, provisioned for q95 delay <= 10 min",edge and FS1 features streamed,backhaul,63.46666666666666,27.2,empty,29.999999999999996
+B,"escalation, provisioned for q95 delay <= 10 min",edge and FS1 features streamed,local aggregate,63.46666666666666,27.2,empty,29.999999999999996
+B,"escalation, provisioned for q95 delay <= 10 min",FS1 wired to edge node (local only),backhaul,63.46666666666666,0.0,empty,29.999999999999996
+B,"escalation, provisioned for q95 delay <= 10 min",FS1 wired to edge node (local only),local aggregate,63.46666666666666,9.066666666666666,empty,29.999999999999996
+B,"escalation, provisioned for q95 delay <= 10 min","gateway, cloud model, co-located with edge node",backhaul,63.46666666666666,0.0,empty,29.999999999999996
+B,"escalation, provisioned for q95 delay <= 10 min","gateway, cloud model, co-located with edge node",local aggregate,63.46666666666666,108.8,63.5 to 108.8 bit/s,29.999999999999996
+B,"escalation, provisioned for q95 delay <= 10 min","gateway, cloud model, co-located with edge node",per cloud-only node,4.533333333333333,9.066666666666666,4.5 to 9.1 bit/s,29.999999999999996
+B,"escalation, one-window deadline (burst rate)",edge and FS1 features streamed,backhaul,126.93333333333334,27.2,empty,60.0
+B,"escalation, one-window deadline (burst rate)",edge and FS1 features streamed,local aggregate,126.93333333333334,27.2,empty,60.0
+B,"escalation, one-window deadline (burst rate)",FS1 wired to edge node (local only),backhaul,126.93333333333334,0.0,empty,60.0
+B,"escalation, one-window deadline (burst rate)",FS1 wired to edge node (local only),local aggregate,126.93333333333334,9.066666666666666,empty,60.0
+B,"escalation, one-window deadline (burst rate)","gateway, cloud model, co-located with edge node",backhaul,126.93333333333334,0.0,empty,60.0
+B,"escalation, one-window deadline (burst rate)","gateway, cloud model, co-located with edge node",local aggregate,126.93333333333334,108.8,empty,60.0
+B,"escalation, one-window deadline (burst rate)","gateway, cloud model, co-located with edge node",per cloud-only node,9.066666666666666,9.066666666666666,empty,60.0

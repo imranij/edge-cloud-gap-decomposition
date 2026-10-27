@@ -1,0 +1,5 @@
+dataset,pull_features_B_per_h_at_5,pull_features_B_per_h_at_30,pull_raw_B_per_h_at_5,pull_raw_B_per_h_at_30,cloud_calls_per_h_at_5,cloud_calls_per_h_at_30,full_cloud_features_B_per_h,raw_stream_all_B_per_h,features_expand_raw
+hydraulic,2856.0,17136.0,522000.0,3132000.0,3.0,18.0,57120.0,10440000.0,False
+skab,9792.0,58752.0,34560.0,207360.0,18.0,108.0,195840.0,115200.0,True
+seu,489600.0,2937600.0,29491200.0,176947200.0,900.0,5400.0,9792000.0,589824000.0,False
+threew,204.00000000000003,1223.9999999999998,3600.0000000000005,21600.0,0.6000000000000001,3.6,4080.0,72000.0,False

@@ -1,0 +1,8 @@
+subset,n,n_go,n_outcome,base_rate,go_precision,recall,ba,p_perm_within_dataset,n_deploy,n_paying_without_gain
+all cells: audit vs 'escalation beats edge at 10%',400,39.0,283.0,0.7075,0.8717948717948718,0.12014134275618374,0.5387031500105706,0.7272272772722728,,
+q = 1: audit vs 'escalation beats edge at 10%',160,20.0,121.0,0.75625,0.9,0.1487603305785124,0.5487391396482305,0.7646235376462354,,
+dataset=hydraulic,100,,60.0,0.89,0.85,,0.45914198161389175,,89.0,0.0
+dataset=skab,100,,53.0,0.97,1.0,,0.5721649484536082,,97.0,0.0
+dataset=seu,100,,42.0,0.27,0.0,,0.4931506849315068,,27.0,21.0
+dataset=threew,100,,56.0,0.7,0.75,,0.5047619047619047,,70.0,9.0
+paying cells (capture > 0.10) without BA gain over edge at 10%,211,,,,,,,,,30.0
