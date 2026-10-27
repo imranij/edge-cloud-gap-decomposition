@@ -1,0 +1,436 @@
+test,design,quantity,scenario,rate,mcse,n_rep,key
+H1 information step,per-dataset NB 95% CI,coverage of true step (fit 600),S0,0.99125,0.0032569504341720132,200,h1_ds_cover
+H1 information step,per-dataset NB 95% CI,coverage of true step (fit 600),S1,0.98625,0.004040273076496602,200,h1_ds_cover
+H1 information step,per-dataset NB 95% CI,coverage of true step (fit 600),S1b,0.975,0.005604197995777754,200,h1_ds_cover
+H1 information step,per-dataset NB 95% CI,coverage of true step (fit 600),S2,0.97625,0.005196363968436229,200,h1_ds_cover
+H1 information step,per-dataset NB 95% CI,coverage of true step (fit 600),S3,0.98375,0.004368938730188454,200,h1_ds_cover
+H1 information step,per-dataset NB 95% CI,coverage of true step (fit 800),S0,0.99125,0.0032569504341720132,200,h1_ds_cover_fit800
+H1 information step,per-dataset NB 95% CI,coverage of true step (fit 800),S1,0.98375,0.004368938730188454,200,h1_ds_cover_fit800
+H1 information step,per-dataset NB 95% CI,coverage of true step (fit 800),S1b,0.9725,0.005821356453162258,200,h1_ds_cover_fit800
+H1 information step,per-dataset NB 95% CI,coverage of true step (fit 800),S2,0.97625,0.005196363968436229,200,h1_ds_cover_fit800
+H1 information step,per-dataset NB 95% CI,coverage of true step (fit 800),S3,0.98375,0.004368938730188454,200,h1_ds_cover_fit800
+H1 information step,per-dataset NB one-sided,rejection rate (step > 0),S0,0.00125,0.0012500000000000002,200,h1_ds_reject
+H1 information step,per-dataset NB one-sided,rejection rate (step > 0),S1,0.34875,0.01708108617814235,200,h1_ds_reject
+H1 information step,per-dataset NB one-sided,rejection rate (step > 0),S1b,0.95375,0.007105959527327756,200,h1_ds_reject
+H1 information step,per-dataset NB one-sided,rejection rate (step > 0),S2,0.42125,0.018551292130158818,200,h1_ds_reject
+H1 information step,per-dataset NB one-sided,rejection rate (step > 0),S3,0.96875,0.005861010554812036,200,h1_ds_reject
+H1 information step,per-dataset NB one-sided,"size at truth, lower tail",S0,0.01375,0.004040273076496602,200,h1_ds_size_at_truth_lower
+H1 information step,per-dataset NB one-sided,"size at truth, lower tail",S1,0.02,0.005124088348870965,200,h1_ds_size_at_truth_lower
+H1 information step,per-dataset NB one-sided,"size at truth, lower tail",S1b,0.02625,0.005432748964063466,200,h1_ds_size_at_truth_lower
+H1 information step,per-dataset NB one-sided,"size at truth, lower tail",S2,0.03625,0.006239941655119579,200,h1_ds_size_at_truth_lower
+H1 information step,per-dataset NB one-sided,"size at truth, lower tail",S3,0.02875,0.00565371648124057,200,h1_ds_size_at_truth_lower
+H1 information step,per-dataset NB one-sided,"size at truth, upper tail",S0,0.00375,0.002154156319127324,200,h1_ds_size_at_truth_upper
+H1 information step,per-dataset NB one-sided,"size at truth, upper tail",S1,0.02375,0.006035255507865937,200,h1_ds_size_at_truth_upper
+H1 information step,per-dataset NB one-sided,"size at truth, upper tail",S1b,0.02,0.005124088348870965,200,h1_ds_size_at_truth_upper
+H1 information step,per-dataset NB one-sided,"size at truth, upper tail",S2,0.0125,0.004249593536578605,200,h1_ds_size_at_truth_upper
+H1 information step,per-dataset NB one-sided,"size at truth, upper tail",S3,0.0075,0.0030231518711736766,200,h1_ds_size_at_truth_upper
+H1 information step,per-dataset naive t 95% CI,coverage of true step (fit 600),S0,0.91375,0.009477144551193735,200,h1_ds_cover_naive
+H1 information step,per-dataset naive t 95% CI,coverage of true step (fit 600),S1,0.84875,0.013484764807350098,200,h1_ds_cover_naive
+H1 information step,per-dataset naive t 95% CI,coverage of true step (fit 600),S1b,0.82375,0.013818354537011735,200,h1_ds_cover_naive
+H1 information step,per-dataset naive t 95% CI,coverage of true step (fit 600),S2,0.82375,0.01287716172026465,200,h1_ds_cover_naive
+H1 information step,per-dataset naive t 95% CI,coverage of true step (fit 600),S3,0.87375,0.011208045723707752,200,h1_ds_cover_naive
+H1 information step,plan verdict rule,SUPPORTED rate,S0,0.0,0.0,200,h1_verdict_supported
+H1 information step,plan verdict rule,SUPPORTED rate,S1,0.405,0.03479841445010399,200,h1_verdict_supported
+H1 information step,plan verdict rule,SUPPORTED rate,S1b,1.0,0.0,200,h1_verdict_supported
+H1 information step,plan verdict rule,SUPPORTED rate,S2,0.56,0.03518793763172075,200,h1_verdict_supported
+H1 information step,plan verdict rule,SUPPORTED rate,S3,1.0,0.0,200,h1_verdict_supported
+H1 information step,pooled HKSJ 95% CI,coverage of true step (fit 600),S0,0.995,0.005000000000000001,200,h1_pool_cover
+H1 information step,pooled HKSJ 95% CI,coverage of true step (fit 600),S1,0.995,0.005000000000000001,200,h1_pool_cover
+H1 information step,pooled HKSJ 95% CI,coverage of true step (fit 600),S1b,0.995,0.005000000000000002,200,h1_pool_cover
+H1 information step,pooled HKSJ 95% CI,coverage of true step (fit 600),S2,0.995,0.005000000000000001,200,h1_pool_cover
+H1 information step,pooled HKSJ 95% CI,coverage of true step (fit 600),S3,1.0,0.0,200,h1_pool_cover
+H1 information step,pooled HKSJ one-sided,rejection rate (step > 0),S0,0.0,0.0,200,h1_pool_reject
+H1 information step,pooled HKSJ one-sided,rejection rate (step > 0),S1,0.725,0.03165255790786193,200,h1_pool_reject
+H1 information step,pooled HKSJ one-sided,rejection rate (step > 0),S1b,1.0,0.0,200,h1_pool_reject
+H1 information step,pooled HKSJ one-sided,rejection rate (step > 0),S2,0.83,0.026627903149340413,200,h1_pool_reject
+H1 information step,pooled HKSJ one-sided,rejection rate (step > 0),S3,1.0,0.0,200,h1_pool_reject
+H1 information step,pooled HKSJ one-sided,"size at truth, lower tail",S0,0.015,0.008616625276509296,200,h1_pool_size_at_truth_lower
+H1 information step,pooled HKSJ one-sided,"size at truth, lower tail",S1,0.01,0.007053278933842965,200,h1_pool_size_at_truth_lower
+H1 information step,pooled HKSJ one-sided,"size at truth, lower tail",S1b,0.01,0.007053278933842965,200,h1_pool_size_at_truth_lower
+H1 information step,pooled HKSJ one-sided,"size at truth, lower tail",S2,0.04,0.013891177924157585,200,h1_pool_size_at_truth_lower
+H1 information step,pooled HKSJ one-sided,"size at truth, lower tail",S3,0.005,0.005000000000000001,200,h1_pool_size_at_truth_lower
+H1 information step,pooled HKSJ one-sided,"size at truth, upper tail",S0,0.0,0.0,200,h1_pool_size_at_truth_upper
+H1 information step,pooled HKSJ one-sided,"size at truth, upper tail",S1,0.01,0.007053278933842965,200,h1_pool_size_at_truth_upper
+H1 information step,pooled HKSJ one-sided,"size at truth, upper tail",S1b,0.005,0.005000000000000002,200,h1_pool_size_at_truth_upper
+H1 information step,pooled HKSJ one-sided,"size at truth, upper tail",S2,0.0,0.0,200,h1_pool_size_at_truth_upper
+H1 information step,pooled HKSJ one-sided,"size at truth, upper tail",S3,0.0,0.0,200,h1_pool_size_at_truth_upper
+H2,"corrected (fixed tiers, C(R6) - C(R1), two-stage)",one-sided p < 0.05,S0,0.0,0.0,200,h2_cor_reject
+H2,"corrected (fixed tiers, C(R6) - C(R1), two-stage)",one-sided p < 0.05,S1,0.0,0.0,200,h2_cor_reject
+H2,"corrected (fixed tiers, C(R6) - C(R1), two-stage)",one-sided p < 0.05,S1b,0.04,0.013891177924157585,200,h2_cor_reject
+H2,"corrected (fixed tiers, C(R6) - C(R1), two-stage)",one-sided p < 0.05,S2,0.19,0.027809473820460076,200,h2_cor_reject
+H2,"corrected (fixed tiers, C(R6) - C(R1), two-stage)",one-sided p < 0.05,S3,0.795,0.028617649261360224,200,h2_cor_reject
+H2,"joint retraining, two-stage HKSJ (diagnostic)",one-sided p < 0.05,S0,0.0,0.0,200,h2_orig_2stage_reject
+H2,"joint retraining, two-stage HKSJ (diagnostic)",one-sided p < 0.05,S1,0.01,0.007053278933842965,200,h2_orig_2stage_reject
+H2,"joint retraining, two-stage HKSJ (diagnostic)",one-sided p < 0.05,S1b,0.06,0.016834995854681276,200,h2_orig_2stage_reject
+H2,"joint retraining, two-stage HKSJ (diagnostic)",one-sided p < 0.05,S2,0.26,0.031093957143700307,200,h2_orig_2stage_reject
+H2,"joint retraining, two-stage HKSJ (diagnostic)",one-sided p < 0.05,S3,0.66,0.03358032446172571,200,h2_orig_2stage_reject
+H2,"level C(R6) - C(R1) at q = 1, two-stage (supplementary)",one-sided p < 0.05,S0,0.025,0.011067404265948254,200,h2_level_R6_gt_R1_reject
+H2,"level C(R6) - C(R1) at q = 1, two-stage (supplementary)",one-sided p < 0.05,S1,0.0,0.0,200,h2_level_R6_gt_R1_reject
+H2,"level C(R6) - C(R1) at q = 1, two-stage (supplementary)",one-sided p < 0.05,S1b,0.0,0.0,200,h2_level_R6_gt_R1_reject
+H2,"level C(R6) - C(R1) at q = 1, two-stage (supplementary)",one-sided p < 0.05,S2,0.0,0.0,200,h2_level_R6_gt_R1_reject
+H2,"level C(R6) - C(R1) at q = 1, two-stage (supplementary)",one-sided p < 0.05,S3,0.055,0.016161092305986408,200,h2_level_R6_gt_R1_reject
+H2,"original (joint retraining, MixedLM)",SUPPORTED rate,S0,0.01,0.007053278933842965,200,h2_orig_supported
+H2,"original (joint retraining, MixedLM)",SUPPORTED rate,S1,0.08,0.019231465004808025,200,h2_orig_supported
+H2,"original (joint retraining, MixedLM)",SUPPORTED rate,S1b,0.41,0.034865138597849225,200,h2_orig_supported
+H2,"original (joint retraining, MixedLM)",SUPPORTED rate,S2,0.825,0.02693515384331068,200,h2_orig_supported
+H2,"original (joint retraining, MixedLM)",SUPPORTED rate,S3,0.81,0.027809473820460073,200,h2_orig_supported
+H2,"original (joint retraining, MixedLM)",one-sided p < 0.05,S0,0.01,0.007053278933842965,200,h2_orig_p_lt05
+H2,"original (joint retraining, MixedLM)",one-sided p < 0.05,S1,0.125,0.023444042219248146,200,h2_orig_p_lt05
+H2,"original (joint retraining, MixedLM)",one-sided p < 0.05,S1b,0.54,0.035330457200978174,200,h2_orig_p_lt05
+H2,"original (joint retraining, MixedLM)",one-sided p < 0.05,S2,0.885,0.02261486592496228,200,h2_orig_p_lt05
+H2,"original (joint retraining, MixedLM)",one-sided p < 0.05,S3,1.0,0.0,200,h2_orig_p_lt05
+H3 equivalence,"corrected feasibility rule (realised J, HKSJ)",predicted feasible,S0,0.005,0.005000000000000002,200,h3_feas_cor
+H3 equivalence,"corrected feasibility rule (realised J, HKSJ)",predicted feasible,S1,0.085,0.019769399225283587,200,h3_feas_cor
+H3 equivalence,"corrected feasibility rule (realised J, HKSJ)",predicted feasible,S1b,0.27,0.03147145152843339,200,h3_feas_cor
+H3 equivalence,"corrected feasibility rule (realised J, HKSJ)",predicted feasible,S2,0.17,0.026627903149340416,200,h3_feas_cor
+H3 equivalence,"corrected feasibility rule (realised J, HKSJ)",predicted feasible,S3,0.57,0.03509498954918332,200,h3_feas_cor
+H3 equivalence,feasibility rules,"original feasible, corrected not",S0,0.05,0.015449707678033373,200,h3_orig_not_cor
+H3 equivalence,feasibility rules,"original feasible, corrected not",S1,0.19,0.027809473820460076,200,h3_orig_not_cor
+H3 equivalence,feasibility rules,"original feasible, corrected not",S1b,0.37,0.034225089976793306,200,h3_orig_not_cor
+H3 equivalence,feasibility rules,"original feasible, corrected not",S2,0.345,0.033697963793367335,200,h3_orig_not_cor
+H3 equivalence,feasibility rules,"original feasible, corrected not",S3,0.31,0.0327852767543496,200,h3_orig_not_cor
+H3 equivalence,original feasibility rule (asymptotic floor),predicted feasible,S0,0.055,0.016161092305986408,200,h3_feas_orig
+H3 equivalence,original feasibility rule (asymptotic floor),predicted feasible,S1,0.275,0.031652557907861936,200,h3_feas_orig
+H3 equivalence,original feasibility rule (asymptotic floor),predicted feasible,S1b,0.64,0.03402629784040012,200,h3_feas_orig
+H3 equivalence,original feasibility rule (asymptotic floor),predicted feasible,S2,0.515,0.035428106832977174,200,h3_feas_orig
+H3 equivalence,original feasibility rule (asymptotic floor),predicted feasible,S3,0.88,0.02303591253524935,200,h3_feas_orig
+H3 equivalence,per-dataset TOST +-0.02 (true dC = 0),equivalence declared,S0,0.00125,0.0012500000000000005,200,h3_ds_equiv
+H3 equivalence,per-dataset TOST +-0.02 (true dC = 0),equivalence declared,S1,0.00625,0.0027668510664870635,200,h3_ds_equiv
+H3 equivalence,per-dataset TOST +-0.02 (true dC = 0),equivalence declared,S1b,0.0075,0.0030231518711736766,200,h3_ds_equiv
+H3 equivalence,per-dataset TOST +-0.02 (true dC = 0),equivalence declared,S2,0.0025,0.0017633197334607413,200,h3_ds_equiv
+H3 equivalence,per-dataset TOST +-0.02 (true dC = 0),equivalence declared,S3,0.0225,0.005071721779538505,200,h3_ds_equiv
+H3 equivalence,"per-dataset TOST, true dC = +0.02",equivalence declared (size),S0,0.0,0.0,200,h3_margin_ds_equiv
+H3 equivalence,"per-dataset TOST, true dC = +0.02",equivalence declared (size),S1,0.0,0.0,200,h3_margin_ds_equiv
+H3 equivalence,"per-dataset TOST, true dC = +0.02",equivalence declared (size),S1b,0.0,0.0,200,h3_margin_ds_equiv
+H3 equivalence,"per-dataset TOST, true dC = +0.02",equivalence declared (size),S2,0.0,0.0,200,h3_margin_ds_equiv
+H3 equivalence,"per-dataset TOST, true dC = +0.02",equivalence declared (size),S3,0.0025,0.0017633197334607413,200,h3_margin_ds_equiv
+H3 equivalence,per-dataset corrected rule,predicted feasible,S0,0.00375,0.0021541563191273235,200,h3_ds_feas_cor
+H3 equivalence,per-dataset corrected rule,predicted feasible,S1,0.015,0.004208748963670319,200,h3_ds_feas_cor
+H3 equivalence,per-dataset corrected rule,predicted feasible,S1b,0.03,0.0060254902425708546,200,h3_ds_feas_cor
+H3 equivalence,per-dataset corrected rule,predicted feasible,S2,0.015,0.004898466583980323,200,h3_ds_feas_cor
+H3 equivalence,per-dataset corrected rule,predicted feasible,S3,0.06875,0.008849931862441046,200,h3_ds_feas_cor
+H3 equivalence,per-dataset original rule,predicted feasible,S0,0.00875,0.0032569504341720132,200,h3_ds_feas_orig
+H3 equivalence,per-dataset original rule,predicted feasible,S1,0.0275,0.005545041698417238,200,h3_ds_feas_orig
+H3 equivalence,per-dataset original rule,predicted feasible,S1b,0.0825,0.01079590234939574,200,h3_ds_feas_orig
+H3 equivalence,per-dataset original rule,predicted feasible,S2,0.06125,0.00877150981428571,200,h3_ds_feas_orig
+H3 equivalence,per-dataset original rule,predicted feasible,S3,0.145,0.012450908626607967,200,h3_ds_feas_orig
+H3 equivalence,pooled HKSJ 95% CI,coverage of true dC = 0,S0,1.0,0.0,200,h3_pool_cover0
+H3 equivalence,pooled HKSJ 95% CI,coverage of true dC = 0,S1,1.0,0.0,200,h3_pool_cover0
+H3 equivalence,pooled HKSJ 95% CI,coverage of true dC = 0,S1b,1.0,0.0,200,h3_pool_cover0
+H3 equivalence,pooled HKSJ 95% CI,coverage of true dC = 0,S2,1.0,0.0,200,h3_pool_cover0
+H3 equivalence,pooled HKSJ 95% CI,coverage of true dC = 0,S3,1.0,0.0,200,h3_pool_cover0
+H3 equivalence,pooled TOST,declared AND corrected rule feasible,S0,0.005,0.005000000000000002,200,h3_equiv_and_feas_cor
+H3 equivalence,pooled TOST,declared AND corrected rule feasible,S1,0.03,0.012092607484694706,200,h3_equiv_and_feas_cor
+H3 equivalence,pooled TOST,declared AND corrected rule feasible,S1b,0.065,0.01747575492075382,200,h3_equiv_and_feas_cor
+H3 equivalence,pooled TOST,declared AND corrected rule feasible,S2,0.04,0.013891177924157585,200,h3_equiv_and_feas_cor
+H3 equivalence,pooled TOST,declared AND corrected rule feasible,S3,0.2,0.02835524820033344,200,h3_equiv_and_feas_cor
+H3 equivalence,pooled TOST,declared AND original rule feasible,S0,0.005,0.005000000000000002,200,h3_equiv_and_feas_orig
+H3 equivalence,pooled TOST,declared AND original rule feasible,S1,0.03,0.012092607484694706,200,h3_equiv_and_feas_orig
+H3 equivalence,pooled TOST,declared AND original rule feasible,S1b,0.065,0.01747575492075382,200,h3_equiv_and_feas_orig
+H3 equivalence,pooled TOST,declared AND original rule feasible,S2,0.04,0.013891177924157585,200,h3_equiv_and_feas_orig
+H3 equivalence,pooled TOST,declared AND original rule feasible,S3,0.2,0.02835524820033344,200,h3_equiv_and_feas_orig
+H3 equivalence,pooled TOST +-0.02 (true dC = 0),equivalence declared,S0,0.005,0.005000000000000002,200,h3_pool_equiv
+H3 equivalence,pooled TOST +-0.02 (true dC = 0),equivalence declared,S1,0.03,0.012092607484694706,200,h3_pool_equiv
+H3 equivalence,pooled TOST +-0.02 (true dC = 0),equivalence declared,S1b,0.065,0.01747575492075382,200,h3_pool_equiv
+H3 equivalence,pooled TOST +-0.02 (true dC = 0),equivalence declared,S2,0.04,0.013891177924157585,200,h3_pool_equiv
+H3 equivalence,pooled TOST +-0.02 (true dC = 0),equivalence declared,S3,0.2,0.02835524820033344,200,h3_pool_equiv
+H3 equivalence,pooled TOST +-0.02 (true dC = 0),equivalence declared | corrected rule feasible,S0,1.0,,1,h3_equiv_given_h3_feas_cor
+H3 equivalence,pooled TOST +-0.02 (true dC = 0),equivalence declared | corrected rule feasible,S1,0.35294117647058826,0.11947115300935235,17,h3_equiv_given_h3_feas_cor
+H3 equivalence,pooled TOST +-0.02 (true dC = 0),equivalence declared | corrected rule feasible,S1b,0.24074074074074073,0.058726201360168866,54,h3_equiv_given_h3_feas_cor
+H3 equivalence,pooled TOST +-0.02 (true dC = 0),equivalence declared | corrected rule feasible,S2,0.23529411764705882,0.07384069581892326,34,h3_equiv_given_h3_feas_cor
+H3 equivalence,pooled TOST +-0.02 (true dC = 0),equivalence declared | corrected rule feasible,S3,0.3508771929824561,0.04489539350270701,114,h3_equiv_given_h3_feas_cor
+H3 equivalence,pooled TOST +-0.02 (true dC = 0),equivalence declared | original rule feasible,S0,0.09090909090909091,0.0909090909090909,11,h3_equiv_given_h3_feas_orig
+H3 equivalence,pooled TOST +-0.02 (true dC = 0),equivalence declared | original rule feasible,S1,0.10909090909090909,0.04242424242424242,55,h3_equiv_given_h3_feas_orig
+H3 equivalence,pooled TOST +-0.02 (true dC = 0),equivalence declared | original rule feasible,S1b,0.1015625,0.02680456515850638,128,h3_equiv_given_h3_feas_orig
+H3 equivalence,pooled TOST +-0.02 (true dC = 0),equivalence declared | original rule feasible,S2,0.07766990291262135,0.02650144078476277,103,h3_equiv_given_h3_feas_orig
+H3 equivalence,pooled TOST +-0.02 (true dC = 0),equivalence declared | original rule feasible,S3,0.22727272727272727,0.03167872965623498,176,h3_equiv_given_h3_feas_orig
+H3 equivalence,"pooled TOST, true dC = +0.02",equivalence declared (size),S0,0.0,0.0,200,h3_margin_pool_equiv
+H3 equivalence,"pooled TOST, true dC = +0.02",equivalence declared (size),S1,0.0,0.0,200,h3_margin_pool_equiv
+H3 equivalence,"pooled TOST, true dC = +0.02",equivalence declared (size),S1b,0.0,0.0,200,h3_margin_pool_equiv
+H3 equivalence,"pooled TOST, true dC = +0.02",equivalence declared (size),S2,0.0,0.0,200,h3_margin_pool_equiv
+H3 equivalence,"pooled TOST, true dC = +0.02",equivalence declared (size),S3,0.005,0.005,200,h3_margin_pool_equiv
+H4,MixedLM fallback to OLS,share of replicates,S0,0.005,,200,h4_ols_fallback
+H4,MixedLM fallback to OLS,share of replicates,S1,0.0,,200,h4_ols_fallback
+H4,MixedLM fallback to OLS,share of replicates,S1b,0.0,,200,h4_ols_fallback
+H4,MixedLM fallback to OLS,share of replicates,S2,0.0,,200,h4_ols_fallback
+H4,MixedLM fallback to OLS,share of replicates,S3,0.0,,200,h4_ols_fallback
+H4,R0 reference only (test rho),SUPPORTED rate,S0,0.01,0.007053278933842965,200,h4_R0ref_testrho_supported
+H4,R0 reference only (test rho),SUPPORTED rate,S1,0.0,0.0,200,h4_R0ref_testrho_supported
+H4,R0 reference only (test rho),SUPPORTED rate,S1b,0.03,0.012092607484694706,200,h4_R0ref_testrho_supported
+H4,R0 reference only (test rho),SUPPORTED rate,S2,0.01,0.007053278933842965,200,h4_R0ref_testrho_supported
+H4,R0 reference only (test rho),SUPPORTED rate,S3,0.045,0.014695399751940973,200,h4_R0ref_testrho_supported
+H4,"corrected (val rho, R6 - R0, MixedLM)",SUPPORTED rate,S0,0.035,0.013027801736688053,200,h4_cor_mixed_supported
+H4,"corrected (val rho, R6 - R0, MixedLM)",SUPPORTED rate,S1,0.015,0.008616625276509296,200,h4_cor_mixed_supported
+H4,"corrected (val rho, R6 - R0, MixedLM)",SUPPORTED rate,S1b,0.0,0.0,200,h4_cor_mixed_supported
+H4,"corrected (val rho, R6 - R0, MixedLM)",SUPPORTED rate,S2,0.01,0.007053278933842965,200,h4_cor_mixed_supported
+H4,"corrected (val rho, R6 - R0, MixedLM)",SUPPORTED rate,S3,0.02,0.0099243368701167,200,h4_cor_mixed_supported
+H4,"corrected (val rho, R6 - R0, MixedLM)",one-sided p < 0.05,S0,0.06,0.016834995854681276,200,h4_cor_mixed_p_lt05
+H4,"corrected (val rho, R6 - R0, MixedLM)",one-sided p < 0.05,S1,0.035,0.013027801736688053,200,h4_cor_mixed_p_lt05
+H4,"corrected (val rho, R6 - R0, MixedLM)",one-sided p < 0.05,S1b,0.02,0.0099243368701167,200,h4_cor_mixed_p_lt05
+H4,"corrected (val rho, R6 - R0, MixedLM)",one-sided p < 0.05,S2,0.03,0.012092607484694706,200,h4_cor_mixed_p_lt05
+H4,"corrected (val rho, R6 - R0, MixedLM)",one-sided p < 0.05,S3,0.03,0.012092607484694706,200,h4_cor_mixed_p_lt05
+H4,"corrected (val rho, R6 - R0, two-stage HKSJ)",one-sided p < 0.05,S0,0.005,0.005000000000000001,200,h4_cor_2stage_supported
+H4,"corrected (val rho, R6 - R0, two-stage HKSJ)",one-sided p < 0.05,S1,0.0,0.0,200,h4_cor_2stage_supported
+H4,"corrected (val rho, R6 - R0, two-stage HKSJ)",one-sided p < 0.05,S1b,0.0,0.0,200,h4_cor_2stage_supported
+H4,"corrected (val rho, R6 - R0, two-stage HKSJ)",one-sided p < 0.05,S2,0.0,0.0,200,h4_cor_2stage_supported
+H4,"corrected (val rho, R6 - R0, two-stage HKSJ)",one-sided p < 0.05,S3,0.0,0.0,200,h4_cor_2stage_supported
+H4,"original (test rho, R6 - R1, MixedLM)",SUPPORTED rate,S0,0.305,0.03263741725420572,200,h4_orig_supported
+H4,"original (test rho, R6 - R1, MixedLM)",SUPPORTED rate,S1,0.295,0.03232801420614268,200,h4_orig_supported
+H4,"original (test rho, R6 - R1, MixedLM)",SUPPORTED rate,S1b,0.295,0.03232801420614268,200,h4_orig_supported
+H4,"original (test rho, R6 - R1, MixedLM)",SUPPORTED rate,S2,0.31,0.0327852767543496,200,h4_orig_supported
+H4,"original (test rho, R6 - R1, MixedLM)",SUPPORTED rate,S3,0.46,0.035330457200978174,200,h4_orig_supported
+H4,"original (test rho, R6 - R1, MixedLM)",one-sided p < 0.05,S0,0.425,0.03504304603451139,200,h4_orig_p_lt05
+H4,"original (test rho, R6 - R1, MixedLM)",one-sided p < 0.05,S1,0.385,0.03449382728261703,200,h4_orig_p_lt05
+H4,"original (test rho, R6 - R1, MixedLM)",one-sided p < 0.05,S1b,0.355,0.033920910080708584,200,h4_orig_p_lt05
+H4,"original (test rho, R6 - R1, MixedLM)",one-sided p < 0.05,S2,0.43,0.03509498954918332,200,h4_orig_p_lt05
+H4,"original (test rho, R6 - R1, MixedLM)",one-sided p < 0.05,S3,0.525,0.03539972744976418,200,h4_orig_p_lt05
+H4,original with R0 in place of R6,SUPPORTED rate,S0,0.39,0.03457567623250011,200,h4_origR0_supported
+H4,original with R0 in place of R6,SUPPORTED rate,S1,0.505,0.035442288003096976,200,h4_origR0_supported
+H4,original with R0 in place of R6,SUPPORTED rate,S1b,0.44,0.03518793763172075,200,h4_origR0_supported
+H4,original with R0 in place of R6,SUPPORTED rate,S2,0.45,0.03526639466921483,200,h4_origR0_supported
+H4,original with R0 in place of R6,SUPPORTED rate,S3,0.48,0.03541569365103442,200,h4_origR0_supported
+H4,validation rho only (R6 - R1),SUPPORTED rate,S0,0.025,0.011067404265948254,200,h4_valrho_only_supported
+H4,validation rho only (R6 - R1),SUPPORTED rate,S1,0.015,0.008616625276509296,200,h4_valrho_only_supported
+H4,validation rho only (R6 - R1),SUPPORTED rate,S1b,0.01,0.007053278933842965,200,h4_valrho_only_supported
+H4,validation rho only (R6 - R1),SUPPORTED rate,S2,0.01,0.007053278933842965,200,h4_valrho_only_supported
+H4,validation rho only (R6 - R1),SUPPORTED rate,S3,0.02,0.0099243368701167,200,h4_valrho_only_supported
+H5 audit,"corrected (SGKF, fold-mean C > pooled within-class null 95th pct)",ba vs (i) test C(R6) > 0.5,S0,0.5006957827856595,0.003036979049872059,200,go_cor|ba|out_C
+H5 audit,"corrected (SGKF, fold-mean C > pooled within-class null 95th pct)",ba vs (i) test C(R6) > 0.5,S1,0.5086139827184888,0.0027905974183356536,200,go_cor|ba|out_C
+H5 audit,"corrected (SGKF, fold-mean C > pooled within-class null 95th pct)",ba vs (i) test C(R6) > 0.5,S1b,0.5189727806915306,0.003961773917061531,200,go_cor|ba|out_C
+H5 audit,"corrected (SGKF, fold-mean C > pooled within-class null 95th pct)",ba vs (i) test C(R6) > 0.5,S2,0.5211396574440053,0.005728883989364846,200,go_cor|ba|out_C
+H5 audit,"corrected (SGKF, fold-mean C > pooled within-class null 95th pct)",ba vs (i) test C(R6) > 0.5,S3,0.5353647358672162,0.016558726855473174,200,go_cor|ba|out_C
+H5 audit,"corrected (SGKF, fold-mean C > pooled within-class null 95th pct)",ba vs (ii) BA at 10% by R6 > edge,S0,0.49628789616693586,0.0031192714400454452,200,go_cor|ba|out_ba10
+H5 audit,"corrected (SGKF, fold-mean C > pooled within-class null 95th pct)",ba vs (ii) BA at 10% by R6 > edge,S1,0.5078330314853026,0.0028071881039790224,200,go_cor|ba|out_ba10
+H5 audit,"corrected (SGKF, fold-mean C > pooled within-class null 95th pct)",ba vs (ii) BA at 10% by R6 > edge,S1b,0.5142819226034054,0.004737396080157411,200,go_cor|ba|out_ba10
+H5 audit,"corrected (SGKF, fold-mean C > pooled within-class null 95th pct)",ba vs (ii) BA at 10% by R6 > edge,S2,0.520391166011604,0.0051033571402579634,200,go_cor|ba|out_ba10
+H5 audit,"corrected (SGKF, fold-mean C > pooled within-class null 95th pct)",ba vs (ii) BA at 10% by R6 > edge,S3,0.5685982710298819,0.013596306404793713,200,go_cor|ba|out_ba10
+H5 audit,"corrected (SGKF, fold-mean C > pooled within-class null 95th pct)",ba vs (iii) Cap(R6) > 0.10,S0,0.501937984496124,0.0030817752436303534,200,go_cor|ba|out_cap
+H5 audit,"corrected (SGKF, fold-mean C > pooled within-class null 95th pct)",ba vs (iii) Cap(R6) > 0.10,S1,0.5115525708122378,0.0030331384818779315,200,go_cor|ba|out_cap
+H5 audit,"corrected (SGKF, fold-mean C > pooled within-class null 95th pct)",ba vs (iii) Cap(R6) > 0.10,S1b,0.5236976787085538,0.003444155543059064,200,go_cor|ba|out_cap
+H5 audit,"corrected (SGKF, fold-mean C > pooled within-class null 95th pct)",ba vs (iii) Cap(R6) > 0.10,S2,0.5327168752850018,0.004411116993469585,200,go_cor|ba|out_cap
+H5 audit,"corrected (SGKF, fold-mean C > pooled within-class null 95th pct)",ba vs (iii) Cap(R6) > 0.10,S3,0.5588070175438596,0.007375702734396027,200,go_cor|ba|out_cap
+H5 audit,"corrected (SGKF, fold-mean C > pooled within-class null 95th pct)",go_rate,S0,0.07025,0.0030356318321156485,200,go_cor|go_rate|out_C
+H5 audit,"corrected (SGKF, fold-mean C > pooled within-class null 95th pct)",go_rate,S1,0.076,0.0031423158353003603,200,go_cor|go_rate|out_C
+H5 audit,"corrected (SGKF, fold-mean C > pooled within-class null 95th pct)",go_rate,S1b,0.122,0.0036598444778288995,200,go_cor|go_rate|out_C
+H5 audit,"corrected (SGKF, fold-mean C > pooled within-class null 95th pct)",go_rate,S2,0.167375,0.004218651118382429,200,go_cor|go_rate|out_C
+H5 audit,"corrected (SGKF, fold-mean C > pooled within-class null 95th pct)",go_rate,S3,0.32075,0.005805988772622103,200,go_cor|go_rate|out_C
+H5 audit,"corrected (SGKF, fold-mean C > pooled within-class null 95th pct)",precision vs (i) test C(R6) > 0.5,S0,0.5195729537366548,0.022268057556735398,200,go_cor|precision|out_C
+H5 audit,"corrected (SGKF, fold-mean C > pooled within-class null 95th pct)",precision vs (i) test C(R6) > 0.5,S1,0.6726973684210527,0.018227727627712093,200,go_cor|precision|out_C
+H5 audit,"corrected (SGKF, fold-mean C > pooled within-class null 95th pct)",precision vs (i) test C(R6) > 0.5,S1b,0.8432377049180327,0.011336032856925577,200,go_cor|precision|out_C
+H5 audit,"corrected (SGKF, fold-mean C > pooled within-class null 95th pct)",precision vs (i) test C(R6) > 0.5,S2,0.8924570575056012,0.008656185894377473,200,go_cor|precision|out_C
+H5 audit,"corrected (SGKF, fold-mean C > pooled within-class null 95th pct)",precision vs (i) test C(R6) > 0.5,S3,0.9836321122369447,0.002530856943911968,200,go_cor|precision|out_C
+H5 audit,"corrected (SGKF, fold-mean C > pooled within-class null 95th pct)",precision vs (ii) BA at 10% by R6 > edge,S0,0.26334519572953735,0.019051607687592956,200,go_cor|precision|out_ba10
+H5 audit,"corrected (SGKF, fold-mean C > pooled within-class null 95th pct)",precision vs (ii) BA at 10% by R6 > edge,S1,0.6924342105263158,0.01767399877214769,200,go_cor|precision|out_ba10
+H5 audit,"corrected (SGKF, fold-mean C > pooled within-class null 95th pct)",precision vs (ii) BA at 10% by R6 > edge,S1b,0.8780737704918032,0.010676971253927019,200,go_cor|precision|out_ba10
+H5 audit,"corrected (SGKF, fold-mean C > pooled within-class null 95th pct)",precision vs (ii) BA at 10% by R6 > edge,S2,0.8633308439133682,0.009246349292327849,200,go_cor|precision|out_ba10
+H5 audit,"corrected (SGKF, fold-mean C > pooled within-class null 95th pct)",precision vs (ii) BA at 10% by R6 > edge,S3,0.9820732657833203,0.002855440201218486,200,go_cor|precision|out_ba10
+H5 audit,"corrected (SGKF, fold-mean C > pooled within-class null 95th pct)",precision vs (iii) Cap(R6) > 0.10,S0,0.3238434163701068,0.01938794512930668,200,go_cor|precision|out_cap
+H5 audit,"corrected (SGKF, fold-mean C > pooled within-class null 95th pct)",precision vs (iii) Cap(R6) > 0.10,S1,0.5016447368421053,0.020826628388876126,200,go_cor|precision|out_cap
+H5 audit,"corrected (SGKF, fold-mean C > pooled within-class null 95th pct)",precision vs (iii) Cap(R6) > 0.10,S1b,0.6444672131147541,0.014856581766922977,200,go_cor|precision|out_cap
+H5 audit,"corrected (SGKF, fold-mean C > pooled within-class null 95th pct)",precision vs (iii) Cap(R6) > 0.10,S2,0.777445855115758,0.01149207621004143,200,go_cor|precision|out_cap
+H5 audit,"corrected (SGKF, fold-mean C > pooled within-class null 95th pct)",precision vs (iii) Cap(R6) > 0.10,S3,0.926344505066251,0.0050342348143463085,200,go_cor|precision|out_cap
+H5 audit,"corrected (SGKF, fold-mean C > pooled within-class null 95th pct)",recall vs (i) test C(R6) > 0.5,S0,0.07092543113917901,0.004287039677551341,200,go_cor|recall|out_C
+H5 audit,"corrected (SGKF, fold-mean C > pooled within-class null 95th pct)",recall vs (i) test C(R6) > 0.5,S1,0.08255954784012919,0.003901073542599712,200,go_cor|recall|out_C
+H5 audit,"corrected (SGKF, fold-mean C > pooled within-class null 95th pct)",recall vs (i) test C(R6) > 0.5,S1b,0.12989267676767677,0.004149069565133545,200,go_cor|recall|out_C
+H5 audit,"corrected (SGKF, fold-mean C > pooled within-class null 95th pct)",recall vs (i) test C(R6) > 0.5,S2,0.17318840579710146,0.004596078586037826,200,go_cor|recall|out_C
+H5 audit,"corrected (SGKF, fold-mean C > pooled within-class null 95th pct)",recall vs (i) test C(R6) > 0.5,S3,0.3222264777224563,0.005846849022060304,200,go_cor|recall|out_C
+H5 audit,"corrected (SGKF, fold-mean C > pooled within-class null 95th pct)",recall vs (ii) BA at 10% by R6 > edge,S0,0.06494076349275998,0.005525150281131376,200,go_cor|recall|out_ba10
+H5 audit,"corrected (SGKF, fold-mean C > pooled within-class null 95th pct)",recall vs (ii) BA at 10% by R6 > edge,S1,0.08155753583882216,0.0040003847343094675,200,go_cor|recall|out_ba10
+H5 audit,"corrected (SGKF, fold-mean C > pooled within-class null 95th pct)",recall vs (ii) BA at 10% by R6 > edge,S1b,0.12634527495208608,0.004062535335213757,200,go_cor|recall|out_ba10
+H5 audit,"corrected (SGKF, fold-mean C > pooled within-class null 95th pct)",recall vs (ii) BA at 10% by R6 > edge,S2,0.17435897435897435,0.004712612986932817,200,go_cor|recall|out_ba10
+H5 audit,"corrected (SGKF, fold-mean C > pooled within-class null 95th pct)",recall vs (ii) BA at 10% by R6 > edge,S3,0.32495164410058025,0.0060206398868339105,200,go_cor|recall|out_ba10
+H5 audit,"corrected (SGKF, fold-mean C > pooled within-class null 95th pct)",recall vs (iii) Cap(R6) > 0.10,S0,0.07291666666666667,0.005476444502548906,200,go_cor|recall|out_cap
+H5 audit,"corrected (SGKF, fold-mean C > pooled within-class null 95th pct)",recall vs (iii) Cap(R6) > 0.10,S1,0.08923346986541837,0.004994827100932348,200,go_cor|recall|out_cap
+H5 audit,"corrected (SGKF, fold-mean C > pooled within-class null 95th pct)",recall vs (iii) Cap(R6) > 0.10,S1b,0.1434108527131783,0.005096325636980728,200,go_cor|recall|out_cap
+H5 audit,"corrected (SGKF, fold-mean C > pooled within-class null 95th pct)",recall vs (iii) Cap(R6) > 0.10,S2,0.18736501079913606,0.005380051899817229,200,go_cor|recall|out_cap
+H5 audit,"corrected (SGKF, fold-mean C > pooled within-class null 95th pct)",recall vs (iii) Cap(R6) > 0.10,S3,0.3336140350877193,0.0061752736339315455,200,go_cor|recall|out_cap
+H5 audit,"corrected, D-weighted fold mean (variant)",ba vs (i) test C(R6) > 0.5,S0,0.5016849728495837,0.0029302210238803202,200,go_cor_w|ba|out_C
+H5 audit,"corrected, D-weighted fold mean (variant)",ba vs (i) test C(R6) > 0.5,S1,0.5078232543073227,0.0025562188733230253,200,go_cor_w|ba|out_C
+H5 audit,"corrected, D-weighted fold mean (variant)",ba vs (i) test C(R6) > 0.5,S1b,0.5158647775835276,0.003927197080414748,200,go_cor_w|ba|out_C
+H5 audit,"corrected, D-weighted fold mean (variant)",ba vs (i) test C(R6) > 0.5,S2,0.5181752305665349,0.00553140883204628,200,go_cor_w|ba|out_C
+H5 audit,"corrected, D-weighted fold mean (variant)",ba vs (i) test C(R6) > 0.5,S3,0.5430124049105924,0.016658691129940766,200,go_cor_w|ba|out_C
+H5 audit,"corrected, D-weighted fold mean (variant)",ba vs (ii) BA at 10% by R6 > edge,S0,0.4993040044994082,0.002987987550301157,200,go_cor_w|ba|out_ba10
+H5 audit,"corrected, D-weighted fold mean (variant)",ba vs (ii) BA at 10% by R6 > edge,S1,0.5073418287649296,0.0027611615639504803,200,go_cor_w|ba|out_ba10
+H5 audit,"corrected, D-weighted fold mean (variant)",ba vs (ii) BA at 10% by R6 > edge,S1b,0.512123631617591,0.004423249038724868,200,go_cor_w|ba|out_ba10
+H5 audit,"corrected, D-weighted fold mean (variant)",ba vs (ii) BA at 10% by R6 > edge,S2,0.5193838006847882,0.005084783557587181,200,go_cor_w|ba|out_ba10
+H5 audit,"corrected, D-weighted fold mean (variant)",ba vs (ii) BA at 10% by R6 > edge,S3,0.5680403689522231,0.013171082089797616,200,go_cor_w|ba|out_ba10
+H5 audit,"corrected, D-weighted fold mean (variant)",ba vs (iii) Cap(R6) > 0.10,S0,0.5047541182170543,0.002942416524178303,200,go_cor_w|ba|out_cap
+H5 audit,"corrected, D-weighted fold mean (variant)",ba vs (iii) Cap(R6) > 0.10,S1,0.5117796276625225,0.0027240986521806974,200,go_cor_w|ba|out_cap
+H5 audit,"corrected, D-weighted fold mean (variant)",ba vs (iii) Cap(R6) > 0.10,S1b,0.5206352228540224,0.003614601507692986,200,go_cor_w|ba|out_cap
+H5 audit,"corrected, D-weighted fold mean (variant)",ba vs (iii) Cap(R6) > 0.10,S2,0.5318493505789585,0.004611446025496951,200,go_cor_w|ba|out_cap
+H5 audit,"corrected, D-weighted fold mean (variant)",ba vs (iii) Cap(R6) > 0.10,S3,0.5579248120300753,0.007375837769291888,200,go_cor_w|ba|out_cap
+H5 audit,"corrected, D-weighted fold mean (variant)",go_rate,S0,0.066375,0.0029145745584567575,200,go_cor_w|go_rate|out_C
+H5 audit,"corrected, D-weighted fold mean (variant)",go_rate,S1,0.0655,0.0028041749112424183,200,go_cor_w|go_rate|out_C
+H5 audit,"corrected, D-weighted fold mean (variant)",go_rate,S1b,0.115875,0.003851557760970622,200,go_cor_w|go_rate|out_C
+H5 audit,"corrected, D-weighted fold mean (variant)",go_rate,S2,0.168625,0.004147525393024935,200,go_cor_w|go_rate|out_C
+H5 audit,"corrected, D-weighted fold mean (variant)",go_rate,S3,0.32375,0.005724296534313202,200,go_cor_w|go_rate|out_C
+H5 audit,"corrected, D-weighted fold mean (variant)",precision vs (i) test C(R6) > 0.5,S0,0.527306967984934,0.022792514147451055,200,go_cor_w|precision|out_C
+H5 audit,"corrected, D-weighted fold mean (variant)",precision vs (i) test C(R6) > 0.5,S1,0.6755725190839694,0.019463423414990272,200,go_cor_w|precision|out_C
+H5 audit,"corrected, D-weighted fold mean (variant)",precision vs (i) test C(R6) > 0.5,S1b,0.837108953613808,0.012002720360397937,200,go_cor_w|precision|out_C
+H5 audit,"corrected, D-weighted fold mean (variant)",precision vs (i) test C(R6) > 0.5,S2,0.888065233506301,0.008322463668140321,200,go_cor_w|precision|out_C
+H5 audit,"corrected, D-weighted fold mean (variant)",precision vs (i) test C(R6) > 0.5,S3,0.9845559845559846,0.0024496428922861145,200,go_cor_w|precision|out_C
+H5 audit,"corrected, D-weighted fold mean (variant)",precision vs (ii) BA at 10% by R6 > edge,S0,0.2806026365348399,0.01943669799624206,200,go_cor_w|precision|out_ba10
+H5 audit,"corrected, D-weighted fold mean (variant)",precision vs (ii) BA at 10% by R6 > edge,S1,0.6965648854961832,0.02009669698666687,200,go_cor_w|precision|out_ba10
+H5 audit,"corrected, D-weighted fold mean (variant)",precision vs (ii) BA at 10% by R6 > edge,S1b,0.8748651564185544,0.010021750056627103,200,go_cor_w|precision|out_ba10
+H5 audit,"corrected, D-weighted fold mean (variant)",precision vs (ii) BA at 10% by R6 > edge,S2,0.8613787991104522,0.009690464536946438,200,go_cor_w|precision|out_ba10
+H5 audit,"corrected, D-weighted fold mean (variant)",precision vs (ii) BA at 10% by R6 > edge,S3,0.9818532818532818,0.0027617338478924257,200,go_cor_w|precision|out_ba10
+H5 audit,"corrected, D-weighted fold mean (variant)",precision vs (iii) Cap(R6) > 0.10,S0,0.3427495291902072,0.020107038601128207,200,go_cor_w|precision|out_cap
+H5 audit,"corrected, D-weighted fold mean (variant)",precision vs (iii) Cap(R6) > 0.10,S1,0.5152671755725191,0.021902250672753726,200,go_cor_w|precision|out_cap
+H5 audit,"corrected, D-weighted fold mean (variant)",precision vs (iii) Cap(R6) > 0.10,S1b,0.6364617044228694,0.015794924671606328,200,go_cor_w|precision|out_cap
+H5 audit,"corrected, D-weighted fold mean (variant)",precision vs (iii) Cap(R6) > 0.10,S2,0.7746478873239436,0.012135738014954538,200,go_cor_w|precision|out_cap
+H5 audit,"corrected, D-weighted fold mean (variant)",precision vs (iii) Cap(R6) > 0.10,S3,0.9254826254826255,0.005122538658660281,200,go_cor_w|precision|out_cap
+H5 audit,"corrected, D-weighted fold mean (variant)",recall vs (i) test C(R6) > 0.5,S0,0.0680106873937333,0.0038899999657565436,200,go_cor_w|recall|out_C
+H5 audit,"corrected, D-weighted fold mean (variant)",recall vs (i) test C(R6) > 0.5,S1,0.07145740815502624,0.0035751525532092187,200,go_cor_w|recall|out_C
+H5 audit,"corrected, D-weighted fold mean (variant)",recall vs (i) test C(R6) > 0.5,S1b,0.12247474747474747,0.004274027328914088,200,go_cor_w|recall|out_C
+H5 audit,"corrected, D-weighted fold mean (variant)",recall vs (i) test C(R6) > 0.5,S2,0.1736231884057971,0.004493276345888037,200,go_cor_w|recall|out_C
+H5 audit,"corrected, D-weighted fold mean (variant)",recall vs (i) test C(R6) > 0.5,S3,0.3255457679050172,0.005742444374484256,200,go_cor_w|recall|out_C
+H5 audit,"corrected, D-weighted fold mean (variant)",recall vs (ii) BA at 10% by R6 > edge,S0,0.06537955243527863,0.005423861121449553,200,go_cor_w|recall|out_ba10
+H5 audit,"corrected, D-weighted fold mean (variant)",recall vs (ii) BA at 10% by R6 > edge,S1,0.07070902750871755,0.003618695726434534,200,go_cor_w|recall|out_ba10
+H5 audit,"corrected, D-weighted fold mean (variant)",recall vs (ii) BA at 10% by R6 > edge,S1b,0.11956361491965208,0.004217594016054506,200,go_cor_w|recall|out_ba10
+H5 audit,"corrected, D-weighted fold mean (variant)",recall vs (ii) BA at 10% by R6 > edge,S2,0.17526395173453996,0.004670046804674342,200,go_cor_w|recall|out_ba10
+H5 audit,"corrected, D-weighted fold mean (variant)",recall vs (ii) BA at 10% by R6 > edge,S3,0.32791747259832366,0.005799089175550708,200,go_cor_w|recall|out_ba10
+H5 audit,"corrected, D-weighted fold mean (variant)",recall vs (iii) Cap(R6) > 0.10,S0,0.07291666666666667,0.005231290469817612,200,go_cor_w|recall|out_cap
+H5 audit,"corrected, D-weighted fold mean (variant)",recall vs (iii) Cap(R6) > 0.10,S1,0.07899356348741954,0.004386797300595316,200,go_cor_w|recall|out_cap
+H5 audit,"corrected, D-weighted fold mean (variant)",recall vs (iii) Cap(R6) > 0.10,S1b,0.13451892384860922,0.005492562908632197,200,go_cor_w|recall|out_cap
+H5 audit,"corrected, D-weighted fold mean (variant)",recall vs (iii) Cap(R6) > 0.10,S2,0.1880849532037437,0.005371363409734824,200,go_cor_w|recall|out_cap
+H5 audit,"corrected, D-weighted fold mean (variant)",recall vs (iii) Cap(R6) > 0.10,S3,0.33642105263157895,0.005863210664717139,200,go_cor_w|recall|out_cap
+H5 audit,"original (GroupKFold, pooled OOF C, bootstrap LB > 0.52)",ba vs (i) test C(R6) > 0.5,S0,0.5024209775476031,0.0028085212780713776,200,go_orig|ba|out_C
+H5 audit,"original (GroupKFold, pooled OOF C, bootstrap LB > 0.52)",ba vs (i) test C(R6) > 0.5,S1,0.5033092368370757,0.0024404630853891865,200,go_orig|ba|out_C
+H5 audit,"original (GroupKFold, pooled OOF C, bootstrap LB > 0.52)",ba vs (i) test C(R6) > 0.5,S1b,0.5061886897824398,0.003599427224954645,200,go_orig|ba|out_C
+H5 audit,"original (GroupKFold, pooled OOF C, bootstrap LB > 0.52)",ba vs (i) test C(R6) > 0.5,S2,0.5361198945981555,0.004272335240754853,200,go_orig|ba|out_C
+H5 audit,"original (GroupKFold, pooled OOF C, bootstrap LB > 0.52)",ba vs (i) test C(R6) > 0.5,S3,0.5562861255657967,0.014235534697533093,200,go_orig|ba|out_C
+H5 audit,"original (GroupKFold, pooled OOF C, bootstrap LB > 0.52)",ba vs (ii) BA at 10% by R6 > edge,S0,0.5017155412815567,0.003041582702091904,200,go_orig|ba|out_ba10
+H5 audit,"original (GroupKFold, pooled OOF C, bootstrap LB > 0.52)",ba vs (ii) BA at 10% by R6 > edge,S1,0.4987035961554581,0.0028103856314741203,200,go_orig|ba|out_ba10
+H5 audit,"original (GroupKFold, pooled OOF C, bootstrap LB > 0.52)",ba vs (ii) BA at 10% by R6 > edge,S1b,0.5037788414678244,0.003703178750459033,200,go_orig|ba|out_ba10
+H5 audit,"original (GroupKFold, pooled OOF C, bootstrap LB > 0.52)",ba vs (ii) BA at 10% by R6 > edge,S2,0.5308930871618721,0.004711459395442833,200,go_orig|ba|out_ba10
+H5 audit,"original (GroupKFold, pooled OOF C, bootstrap LB > 0.52)",ba vs (ii) BA at 10% by R6 > edge,S3,0.56221002907933,0.012804506378631996,200,go_orig|ba|out_ba10
+H5 audit,"original (GroupKFold, pooled OOF C, bootstrap LB > 0.52)",ba vs (iii) Cap(R6) > 0.10,S0,0.5035172555158021,0.003023821390062479,200,go_orig|ba|out_cap
+H5 audit,"original (GroupKFold, pooled OOF C, bootstrap LB > 0.52)",ba vs (iii) Cap(R6) > 0.10,S1,0.499598500147753,0.0025223797478273165,200,go_orig|ba|out_cap
+H5 audit,"original (GroupKFold, pooled OOF C, bootstrap LB > 0.52)",ba vs (iii) Cap(R6) > 0.10,S1b,0.5070120479434614,0.0028711734517130115,200,go_orig|ba|out_cap
+H5 audit,"original (GroupKFold, pooled OOF C, bootstrap LB > 0.52)",ba vs (iii) Cap(R6) > 0.10,S2,0.539379288282142,0.0038640863511327766,200,go_orig|ba|out_cap
+H5 audit,"original (GroupKFold, pooled OOF C, bootstrap LB > 0.52)",ba vs (iii) Cap(R6) > 0.10,S3,0.5631278195488723,0.006578524809188655,200,go_orig|ba|out_cap
+H5 audit,"original (GroupKFold, pooled OOF C, bootstrap LB > 0.52)",base rate of (i) test C(R6) > 0.5,S0,0.514625,0.005413952521568383,200,go_orig|outcome_rate|out_C
+H5 audit,"original (GroupKFold, pooled OOF C, bootstrap LB > 0.52)",base rate of (i) test C(R6) > 0.5,S1,0.61925,0.005851638009334643,200,go_orig|outcome_rate|out_C
+H5 audit,"original (GroupKFold, pooled OOF C, bootstrap LB > 0.52)",base rate of (i) test C(R6) > 0.5,S1b,0.792,0.0048178857501392095,200,go_orig|outcome_rate|out_C
+H5 audit,"original (GroupKFold, pooled OOF C, bootstrap LB > 0.52)",base rate of (i) test C(R6) > 0.5,S2,0.8625,0.004263383137425251,200,go_orig|outcome_rate|out_C
+H5 audit,"original (GroupKFold, pooled OOF C, bootstrap LB > 0.52)",base rate of (i) test C(R6) > 0.5,S3,0.979125,0.0016453167243438123,200,go_orig|outcome_rate|out_C
+H5 audit,"original (GroupKFold, pooled OOF C, bootstrap LB > 0.52)",base rate of (ii) BA at 10% by R6 > edge,S0,0.284875,0.005400815406572575,200,go_orig|outcome_rate|out_ba10
+H5 audit,"original (GroupKFold, pooled OOF C, bootstrap LB > 0.52)",base rate of (ii) BA at 10% by R6 > edge,S1,0.64525,0.0061588038959531875,200,go_orig|outcome_rate|out_ba10
+H5 audit,"original (GroupKFold, pooled OOF C, bootstrap LB > 0.52)",base rate of (ii) BA at 10% by R6 > edge,S1b,0.847875,0.0042455542600304185,200,go_orig|outcome_rate|out_ba10
+H5 audit,"original (GroupKFold, pooled OOF C, bootstrap LB > 0.52)",base rate of (ii) BA at 10% by R6 > edge,S2,0.82875,0.0047061003195270346,200,go_orig|outcome_rate|out_ba10
+H5 audit,"original (GroupKFold, pooled OOF C, bootstrap LB > 0.52)",base rate of (ii) BA at 10% by R6 > edge,S3,0.969375,0.0020226181304007188,200,go_orig|outcome_rate|out_ba10
+H5 audit,"original (GroupKFold, pooled OOF C, bootstrap LB > 0.52)",base rate of (iii) Cap(R6) > 0.10,S0,0.312,0.005334776381866651,200,go_orig|outcome_rate|out_cap
+H5 audit,"original (GroupKFold, pooled OOF C, bootstrap LB > 0.52)",base rate of (iii) Cap(R6) > 0.10,S1,0.42725,0.005531197413075328,200,go_orig|outcome_rate|out_cap
+H5 audit,"original (GroupKFold, pooled OOF C, bootstrap LB > 0.52)",base rate of (iii) Cap(R6) > 0.10,S1b,0.54825,0.006774295325979063,200,go_orig|outcome_rate|out_cap
+H5 audit,"original (GroupKFold, pooled OOF C, bootstrap LB > 0.52)",base rate of (iii) Cap(R6) > 0.10,S2,0.6945,0.00554520341290067,200,go_orig|outcome_rate|out_cap
+H5 audit,"original (GroupKFold, pooled OOF C, bootstrap LB > 0.52)",base rate of (iii) Cap(R6) > 0.10,S3,0.890625,0.003377250616013218,200,go_orig|outcome_rate|out_cap
+H5 audit,"original (GroupKFold, pooled OOF C, bootstrap LB > 0.52)",go_rate,S0,0.066875,0.0028216458342075106,200,go_orig|go_rate|out_C
+H5 audit,"original (GroupKFold, pooled OOF C, bootstrap LB > 0.52)",go_rate,S1,0.054,0.0025539421086865424,200,go_orig|go_rate|out_C
+H5 audit,"original (GroupKFold, pooled OOF C, bootstrap LB > 0.52)",go_rate,S1b,0.0705,0.0027935567766034465,200,go_orig|go_rate|out_C
+H5 audit,"original (GroupKFold, pooled OOF C, bootstrap LB > 0.52)",go_rate,S2,0.154125,0.004334251159838141,200,go_orig|go_rate|out_C
+H5 audit,"original (GroupKFold, pooled OOF C, bootstrap LB > 0.52)",go_rate,S3,0.283875,0.005519937486505391,200,go_orig|go_rate|out_C
+H5 audit,"original (GroupKFold, pooled OOF C, bootstrap LB > 0.52)",precision vs (i) test C(R6) > 0.5,S0,0.5327102803738317,0.02164405403894634,200,go_orig|precision|out_C
+H5 audit,"original (GroupKFold, pooled OOF C, bootstrap LB > 0.52)",precision vs (i) test C(R6) > 0.5,S1,0.6481481481481481,0.02183754448489414,200,go_orig|precision|out_C
+H5 audit,"original (GroupKFold, pooled OOF C, bootstrap LB > 0.52)",precision vs (i) test C(R6) > 0.5,S1b,0.8209219858156028,0.01786570212374933,200,go_orig|precision|out_C
+H5 audit,"original (GroupKFold, pooled OOF C, bootstrap LB > 0.52)",precision vs (i) test C(R6) > 0.5,S2,0.9180859691808597,0.006874607712101804,200,go_orig|precision|out_C
+H5 audit,"original (GroupKFold, pooled OOF C, bootstrap LB > 0.52)",precision vs (i) test C(R6) > 0.5,S3,0.9872302950242184,0.0022044502168629813,200,go_orig|precision|out_C
+H5 audit,"original (GroupKFold, pooled OOF C, bootstrap LB > 0.52)",precision vs (ii) BA at 10% by R6 > edge,S0,0.2953271028037383,0.019257882727818365,200,go_orig|precision|out_ba10
+H5 audit,"original (GroupKFold, pooled OOF C, bootstrap LB > 0.52)",precision vs (ii) BA at 10% by R6 > edge,S1,0.6342592592592593,0.024861273391580424,200,go_orig|precision|out_ba10
+H5 audit,"original (GroupKFold, pooled OOF C, bootstrap LB > 0.52)",precision vs (ii) BA at 10% by R6 > edge,S1b,0.8617021276595744,0.013455046080022017,200,go_orig|precision|out_ba10
+H5 audit,"original (GroupKFold, pooled OOF C, bootstrap LB > 0.52)",precision vs (ii) BA at 10% by R6 > edge,S2,0.8856447688564477,0.009015955058938548,200,go_orig|precision|out_ba10
+H5 audit,"original (GroupKFold, pooled OOF C, bootstrap LB > 0.52)",precision vs (ii) BA at 10% by R6 > edge,S3,0.9823866138265082,0.0029647340661224115,200,go_orig|precision|out_ba10
+H5 audit,"original (GroupKFold, pooled OOF C, bootstrap LB > 0.52)",precision vs (iii) Cap(R6) > 0.10,S0,0.33457943925233646,0.019776500220292894,200,go_orig|precision|out_cap
+H5 audit,"original (GroupKFold, pooled OOF C, bootstrap LB > 0.52)",precision vs (iii) Cap(R6) > 0.10,S1,0.4236111111111111,0.024042061938740027,200,go_orig|precision|out_cap
+H5 audit,"original (GroupKFold, pooled OOF C, bootstrap LB > 0.52)",precision vs (iii) Cap(R6) > 0.10,S1b,0.5975177304964538,0.021509482749347587,200,go_orig|precision|out_cap
+H5 audit,"original (GroupKFold, pooled OOF C, bootstrap LB > 0.52)",precision vs (iii) Cap(R6) > 0.10,S2,0.8029197080291971,0.010772392356134884,200,go_orig|precision|out_cap
+H5 audit,"original (GroupKFold, pooled OOF C, bootstrap LB > 0.52)",precision vs (iii) Cap(R6) > 0.10,S3,0.9339498018494056,0.005134172788105685,200,go_orig|precision|out_cap
+H5 audit,"original (GroupKFold, pooled OOF C, bootstrap LB > 0.52)",recall vs (i) test C(R6) > 0.5,S0,0.06922516395433569,0.003795135760758425,200,go_orig|recall|out_C
+H5 audit,"original (GroupKFold, pooled OOF C, bootstrap LB > 0.52)",recall vs (i) test C(R6) > 0.5,S1,0.056519983851433184,0.003263827847822264,200,go_orig|recall|out_C
+H5 audit,"original (GroupKFold, pooled OOF C, bootstrap LB > 0.52)",recall vs (i) test C(R6) > 0.5,S1b,0.07307449494949494,0.0031777627401487945,200,go_orig|recall|out_C
+H5 audit,"original (GroupKFold, pooled OOF C, bootstrap LB > 0.52)",recall vs (i) test C(R6) > 0.5,S2,0.16405797101449276,0.004700746003462024,200,go_orig|recall|out_C
+H5 audit,"original (GroupKFold, pooled OOF C, bootstrap LB > 0.52)",recall vs (i) test C(R6) > 0.5,S3,0.286224945742372,0.005539412086284836,200,go_orig|recall|out_C
+H5 audit,"original (GroupKFold, pooled OOF C, bootstrap LB > 0.52)",recall vs (ii) BA at 10% by R6 > edge,S0,0.06932865291794647,0.004990316877078883,200,go_orig|recall|out_ba10
+H5 audit,"original (GroupKFold, pooled OOF C, bootstrap LB > 0.52)",recall vs (ii) BA at 10% by R6 > edge,S1,0.053080201472297556,0.0032098277733343295,200,go_orig|recall|out_ba10
+H5 audit,"original (GroupKFold, pooled OOF C, bootstrap LB > 0.52)",recall vs (ii) BA at 10% by R6 > edge,S1b,0.07164971251658558,0.003015043466306132,200,go_orig|recall|out_ba10
+H5 audit,"original (GroupKFold, pooled OOF C, bootstrap LB > 0.52)",recall vs (ii) BA at 10% by R6 > edge,S2,0.16470588235294117,0.004921040298140023,200,go_orig|recall|out_ba10
+H5 audit,"original (GroupKFold, pooled OOF C, bootstrap LB > 0.52)",recall vs (ii) BA at 10% by R6 > edge,S3,0.28768536428110897,0.005641067862626214,200,go_orig|recall|out_ba10
+H5 audit,"original (GroupKFold, pooled OOF C, bootstrap LB > 0.52)",recall vs (iii) Cap(R6) > 0.10,S0,0.07171474358974358,0.004789046832861888,200,go_orig|recall|out_cap
+H5 audit,"original (GroupKFold, pooled OOF C, bootstrap LB > 0.52)",recall vs (iii) Cap(R6) > 0.10,S1,0.053540081919251026,0.0038343620861079506,200,go_orig|recall|out_cap
+H5 audit,"original (GroupKFold, pooled OOF C, bootstrap LB > 0.52)",recall vs (iii) Cap(R6) > 0.10,S1b,0.07683538531691747,0.0037909150131626083,200,go_orig|recall|out_cap
+H5 audit,"original (GroupKFold, pooled OOF C, bootstrap LB > 0.52)",recall vs (iii) Cap(R6) > 0.10,S2,0.17818574514038876,0.005198713392748201,200,go_orig|recall|out_cap
+H5 audit,"original (GroupKFold, pooled OOF C, bootstrap LB > 0.52)",recall vs (iii) Cap(R6) > 0.10,S3,0.2976842105263158,0.005697250989959402,200,go_orig|recall|out_cap
+descriptive,h1_ds_mean,mean over replicates,S0,-0.01070937499999995,0.00039261690628061466,200,h1_ds_mean
+descriptive,h1_ds_mean,mean over replicates,S1,0.03217937499999993,0.0005805321440482353,200,h1_ds_mean
+descriptive,h1_ds_mean,mean over replicates,S1b,0.0807631249999999,0.0007570566255029833,200,h1_ds_mean
+descriptive,h1_ds_mean,mean over replicates,S2,0.03706499999999993,0.0006445674117120765,200,h1_ds_mean
+descriptive,h1_ds_mean,mean over replicates,S3,0.07960437499999991,0.0005989972629545228,200,h1_ds_mean
+descriptive,h1_pool_mean,mean over replicates,S0,-0.010032919460407191,0.0003936897927931125,200,h1_pool_mean
+descriptive,h1_pool_mean,mean over replicates,S1,0.030698488445823388,0.0006298439265495889,200,h1_pool_mean
+descriptive,h1_pool_mean,mean over replicates,S1b,0.07952766230664127,0.000796184070919695,200,h1_pool_mean
+descriptive,h1_pool_mean,mean over replicates,S2,0.03590880622058487,0.0006890821042232352,200,h1_pool_mean
+descriptive,h1_pool_mean,mean over replicates,S3,0.07788721544410619,0.0006782589687907879,200,h1_pool_mean
+descriptive,h2_cor_slope,mean over replicates,S0,5.865233318520777e-05,0.00077922303478913,200,h2_cor_slope
+descriptive,h2_cor_slope,mean over replicates,S1,0.005404254745539019,0.0005407094122671071,200,h2_cor_slope
+descriptive,h2_cor_slope,mean over replicates,S1b,0.013290924002594195,0.0005204482242643559,200,h2_cor_slope
+descriptive,h2_cor_slope,mean over replicates,S2,0.02136847883259353,0.0005982948432906111,200,h2_cor_slope
+descriptive,h2_cor_slope,mean over replicates,S3,0.03404727431027319,0.0004919550554834692,200,h2_cor_slope
+descriptive,h2_level_dC,mean over replicates,S0,0.03312547116451139,0.0028917805366058457,200,h2_level_dC
+descriptive,h2_level_dC,mean over replicates,S1,-0.07659659409805357,0.0012592145569682723,200,h2_level_dC
+descriptive,h2_level_dC,mean over replicates,S1b,-0.09773473842517809,0.001029775949223973,200,h2_level_dC
+descriptive,h2_level_dC,mean over replicates,S2,-0.012015492188788985,0.0014319782961166015,200,h2_level_dC
+descriptive,h2_level_dC,mean over replicates,S3,0.022561892378504103,0.0013764920602854093,200,h2_level_dC
+descriptive,h2_orig_mean_C_q01,mean over replicates,S0,0.520837798216234,0.0010477610960187712,200,h2_orig_mean_C_q01
+descriptive,h2_orig_mean_C_q01,mean over replicates,S1,0.520909557549966,0.0009121224871040648,200,h2_orig_mean_C_q01
+descriptive,h2_orig_mean_C_q01,mean over replicates,S1b,0.5357071776977296,0.0008953143922029344,200,h2_orig_mean_C_q01
+descriptive,h2_orig_mean_C_q01,mean over replicates,S2,0.5439074503028487,0.0009763286010730731,200,h2_orig_mean_C_q01
+descriptive,h2_orig_mean_C_q01,mean over replicates,S3,0.5893511283482357,0.0008745488942535397,200,h2_orig_mean_C_q01
+descriptive,h2_orig_slope,mean over replicates,S0,-0.004771418512381128,0.0005431346482652285,200,h2_orig_slope
+descriptive,h2_orig_slope,mean over replicates,S1,0.0020656920185284757,0.00047717389553775626,200,h2_orig_slope
+descriptive,h2_orig_slope,mean over replicates,S1b,0.009814772915399578,0.00044384424957965175,200,h2_orig_slope
+descriptive,h2_orig_slope,mean over replicates,S2,0.01788327921744908,0.00043895122252811153,200,h2_orig_slope
+descriptive,h2_orig_slope,mean over replicates,S3,0.02533081590519965,0.0003966947657745055,200,h2_orig_slope
+descriptive,h3_pool_floor,mean over replicates,S0,0.012336594517469147,0.0001861516256140227,200,h3_pool_floor
+descriptive,h3_pool_floor,mean over replicates,S1,0.009415232609180823,0.00011696795004899375,200,h3_pool_floor
+descriptive,h3_pool_floor,mean over replicates,S1b,0.008065441878116806,0.00010035692218262697,200,h3_pool_floor
+descriptive,h3_pool_floor,mean over replicates,S2,0.008509269866737817,9.547973788745911e-05,200,h3_pool_floor
+descriptive,h3_pool_floor,mean over replicates,S3,0.006985302134444341,8.584176240427012e-05,200,h3_pool_floor
+descriptive,h3_pool_se,mean over replicates,S0,0.014749235491237456,0.00022382789966656646,200,h3_pool_se
+descriptive,h3_pool_se,mean over replicates,S1,0.011240330075311248,0.00013973338469301864,200,h3_pool_se
+descriptive,h3_pool_se,mean over replicates,S1b,0.009639955113175218,0.000122902840836638,200,h3_pool_se
+descriptive,h3_pool_se,mean over replicates,S2,0.010082289780844968,0.0001118861601998691,200,h3_pool_se
+descriptive,h3_pool_se,mean over replicates,S3,0.008308636947926185,9.883962936596542e-05,200,h3_pool_se
+descriptive,h3_pool_se_min,mean over replicates,S0,0.014597061762300629,0.00022024898742501958,200,h3_pool_se_min
+descriptive,h3_pool_se_min,mean over replicates,S1,0.011140253458470993,0.0001383983449110915,200,h3_pool_se_min
+descriptive,h3_pool_se_min,mean over replicates,S1b,0.009543159527378374,0.00011874391168374843,200,h3_pool_se_min
+descriptive,h3_pool_se_min,mean over replicates,S2,0.010068303885509272,0.00011297314940232937,200,h3_pool_se_min
+descriptive,h3_pool_se_min,mean over replicates,S3,0.008265120947285758,0.0001015693430211085,200,h3_pool_se_min
+descriptive,h3_sd_dC,mean over replicates,S0,0.056046689313252254,0.0008153376214098219,200,h3_sd_dC
+descriptive,h3_sd_dC,mean over replicates,S1,0.041512626809611534,0.00046879576032572397,200,h3_sd_dC
+descriptive,h3_sd_dC,mean over replicates,S1b,0.03521613467094698,0.00037480724494456453,200,h3_sd_dC
+descriptive,h3_sd_dC,mean over replicates,S2,0.03766863178434864,0.0003597979010010018,200,h3_sd_dC
+descriptive,h3_sd_dC,mean over replicates,S3,0.03071765204923258,0.00032663828770815507,200,h3_sd_dC
+descriptive,h4_cor_2stage_slope,mean over replicates,S0,-0.01492110713161924,0.015522719747176566,200,h4_cor_2stage_slope
+descriptive,h4_cor_2stage_slope,mean over replicates,S1,0.04629028122253427,0.013954534857352367,200,h4_cor_2stage_slope
+descriptive,h4_cor_2stage_slope,mean over replicates,S1b,0.08820507635754908,0.014919902527208593,200,h4_cor_2stage_slope
+descriptive,h4_cor_2stage_slope,mean over replicates,S2,0.049522225771025205,0.014370887783718802,200,h4_cor_2stage_slope
+descriptive,h4_cor_2stage_slope,mean over replicates,S3,0.040345351636477386,0.014736727060016061,200,h4_cor_2stage_slope
+descriptive,h4_cor_mixed_slope,mean over replicates,S0,-0.04498648807949971,0.01532939649092957,200,h4_cor_mixed_slope
+descriptive,h4_cor_mixed_slope,mean over replicates,S1,0.052157002008036024,0.012523568246606403,200,h4_cor_mixed_slope
+descriptive,h4_cor_mixed_slope,mean over replicates,S1b,0.09097467466827991,0.013299892602470349,200,h4_cor_mixed_slope
+descriptive,h4_cor_mixed_slope,mean over replicates,S2,0.04913445085761169,0.013562374478916794,200,h4_cor_mixed_slope
+descriptive,h4_cor_mixed_slope,mean over replicates,S3,0.040040015600640126,0.01239320194571263,200,h4_cor_mixed_slope
+descriptive,h4_origR0_slope,mean over replicates,S0,-0.5980376766626808,0.022027210695724386,200,h4_origR0_slope
+descriptive,h4_origR0_slope,mean over replicates,S1,-0.3125895168065604,0.012423695430015369,200,h4_origR0_slope
+descriptive,h4_origR0_slope,mean over replicates,S1b,-0.27400392949692204,0.011437833796967289,200,h4_origR0_slope
+descriptive,h4_origR0_slope,mean over replicates,S2,-0.2978354776561431,0.012917760996625302,200,h4_origR0_slope
+descriptive,h4_origR0_slope,mean over replicates,S3,-0.28844535939432653,0.010881730747763276,200,h4_origR0_slope
+descriptive,h4_orig_slope,mean over replicates,S0,-0.5298685026698952,0.02393389472377923,200,h4_orig_slope
+descriptive,h4_orig_slope,mean over replicates,S1,-0.22346224672970438,0.01238518522475063,200,h4_orig_slope
+descriptive,h4_orig_slope,mean over replicates,S1b,-0.19601757737691372,0.012138631991621874,200,h4_orig_slope
+descriptive,h4_orig_slope,mean over replicates,S2,-0.2587840306309357,0.012754681526589819,200,h4_orig_slope
+descriptive,h4_orig_slope,mean over replicates,S3,-0.2919151807774573,0.013211279677521028,200,h4_orig_slope
+descriptive,h4_rho_val_test_spearman,mean over replicates,S0,0.7496604252780417,0.005970723359024684,200,h4_rho_val_test_spearman
+descriptive,h4_rho_val_test_spearman,mean over replicates,S1,0.5799733198230728,0.00859100936372563,200,h4_rho_val_test_spearman
+descriptive,h4_rho_val_test_spearman,mean over replicates,S1b,0.4110733997282523,0.009821432086151344,200,h4_rho_val_test_spearman
+descriptive,h4_rho_val_test_spearman,mean over replicates,S2,0.5539083887941854,0.008628133384948685,200,h4_rho_val_test_spearman
+descriptive,h4_rho_val_test_spearman,mean over replicates,S3,0.48828793129759296,0.008726845347697005,200,h4_rho_val_test_spearman
