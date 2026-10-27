@@ -1,0 +1,7 @@
+{
+ "raw_edge": 2400,
+ "raw_cloud": 6000,
+ "features_edge": 136,
+ "features_cloud": 340,
+ "note": "float32 payload per 300-s window; raw at native 1 Hz"
+}

@@ -1,0 +1,86 @@
+{
+ "edge": [
+  "P-TPT",
+  "T-TPT"
+ ],
+ "cloud": [
+  "P-TPT",
+  "T-TPT",
+  "P-ANULAR",
+  "P-MON-CKP",
+  "P-JUS-CKGL"
+ ],
+ "rates_hz": {
+  "P-TPT": 1.0,
+  "T-TPT": 1.0,
+  "P-ANULAR": 1.0,
+  "P-MON-CKP": 1.0,
+  "P-JUS-CKGL": 1.0
+ },
+ "edge_node": "subsea wet Christmas tree (ANM): TPT temperature and pressure transducer",
+ "placement": {
+  "P-TPT": "subsea Xmas tree, TPT (temperature and pressure transducer)",
+  "T-TPT": "subsea Xmas tree, TPT (temperature and pressure transducer)",
+  "P-ANULAR": "well annulus (measurement point not specified in the documentation)",
+  "P-MON-CKP": "topside, upstream of the production choke (PCK)",
+  "P-JUS-CKGL": "topside, downstream of the gas-lift choke (GLCK), gas-lift line"
+ },
+ "excluded": [
+  "ABER-CKGL",
+  "ABER-CKP",
+  "ESTADO-DHSV",
+  "ESTADO-M1",
+  "ESTADO-M2",
+  "ESTADO-PXO",
+  "ESTADO-SDV-GL",
+  "ESTADO-SDV-P",
+  "ESTADO-W1",
+  "ESTADO-W2",
+  "ESTADO-XO",
+  "P-JUS-BS",
+  "P-JUS-CKP",
+  "P-MON-CKGL",
+  "P-MON-SDV-P",
+  "P-PDG",
+  "PT-P",
+  "QBS",
+  "QGL",
+  "T-JUS-CKP",
+  "T-MON-CKP",
+  "T-PDG"
+ ],
+ "raw_length": 300,
+ "resampling": "none (native 1 Hz, 300 samples per window)",
+ "imputation": {
+  "P-TPT": {
+   "missing_frac": 0.1273436101326451,
+   "ffill_frac": 0.00048210279124379497,
+   "median_frac": 0.1268615073414013,
+   "median_value": 14164200.0
+  },
+  "T-TPT": {
+   "missing_frac": 0.10266458573105942,
+   "ffill_frac": 0.00047785954265917993,
+   "median_frac": 0.10218672618840023,
+   "median_value": 116.50070190429688
+  },
+  "P-ANULAR": {
+   "missing_frac": 0.1768041362954696,
+   "ffill_frac": 0.0004884386007742475,
+   "median_frac": 0.17631569769469535,
+   "median_value": 14956860.0
+  },
+  "P-MON-CKP": {
+   "missing_frac": 0.3234684778944187,
+   "ffill_frac": 0.00016781176251758333,
+   "median_frac": 0.3233006661319011,
+   "median_value": 4247414.0
+  },
+  "P-JUS-CKGL": {
+   "missing_frac": 0.3200442925400202,
+   "ffill_frac": 0.0001440379451051512,
+   "median_frac": 0.31990025459491506,
+   "median_value": 8255208.0
+  }
+ }
+}

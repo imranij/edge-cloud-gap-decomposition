@@ -1,0 +1,30 @@
+{
+ "edge": [
+  "motor_vib",
+  "motor_torque"
+ ],
+ "cloud": [
+  "motor_vib",
+  "motor_torque",
+  "planet_x",
+  "planet_y",
+  "planet_z",
+  "par_x",
+  "par_y",
+  "par_z"
+ ],
+ "rates_hz": {
+  "motor_vib": 5120.0,
+  "motor_torque": 5120.0,
+  "planet_x": 5120.0,
+  "planet_y": 5120.0,
+  "planet_z": 5120.0,
+  "par_x": 5120.0,
+  "par_y": 5120.0,
+  "par_z": 5120.0
+ },
+ "rate_note": "inferred 5120 Hz (2.56 x 2000 Hz DAQ frequency limit); not stated in repo README",
+ "edge_node": "motor (motor vibration + motor torque)",
+ "L": 1024,
+ "stride": 1024
+}

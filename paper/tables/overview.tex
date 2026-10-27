@@ -1,0 +1,45 @@
+\begin{tabular}{@{}l ll@{}}
+\toprule
+Quantity & Hydraulic & SKAB \\
+\midrule
+\multicolumn{3}{@{}l}{\textit{Pair A, $J=20$ splits per dataset}} \\
+Deployed edge $B_{eE}$ & 0.913 [0.872, 0.955] & 0.643 [0.565, 0.722] \\
+Upgraded edge $B_{cE}$ & 0.952 [0.930, 0.974] & 0.678 [0.601, 0.754] \\
+Edge family, all sensors $B_{eC}$ & 0.985 [0.970, 1.001] & 0.687 [0.606, 0.768] \\
+Cloud $B_{cC}$ & 0.999 [0.997, 1.001] & 0.842 [0.755, 0.929] \\
+Per-window oracle & 0.999 [0.998, 1.001] & 0.908 [0.834, 0.982] \\
+Model step $\bar\Delta_{\mathrm{mod}}$ & 0.026 [0.002, 0.051] & 0.094 [0.044, 0.145] \\
+Information step $\bar\Delta_{\mathrm{inf}}$ & 0.059 [0.034, 0.085] & 0.104 [0.062, 0.147] \\
+Interaction $\Delta_{\times}$ & $-$0.026 [$-$0.068, 0.017] & 0.121 [0.024, 0.217] \\
+Combination step $\Delta_{\mathrm{comb}}$ & $-$0.001 [$-$0.006, 0.004] & $-$0.001 [$-$0.029, 0.027] \\
+Unresolved disagreement $\Delta_{\mathrm{unr}}$ & 0.002 [$-$0.004, 0.007] & 0.067 [0.025, 0.109] \\
+Unresolved, upgraded edge $\Delta'_{\mathrm{unr}}$ & 0.000 [$-$0.001, 0.001] & 0.052 [0.008, 0.096] \\
+Self-oracle headroom $H_{\mathrm{self}}$ & 0.000 [0.000, 0.000] & 0.010 [0.001, 0.019] \\
+\midrule
+\multicolumn{3}{@{}l}{\textit{Pair B, $J=20$ splits per dataset}} \\
+Deployed edge $B_{eE}$ & 0.945 [0.917, 0.973] & 0.662 [0.592, 0.732] \\
+Upgraded edge $B_{cE}$ & 0.959 [0.940, 0.979] & 0.669 [0.594, 0.744] \\
+Edge family, all sensors $B_{eC}$ & 0.995 [0.985, 1.006] & 0.837 [0.742, 0.932] \\
+Cloud $B_{cC}$ & 0.997 [0.993, 1.002] & 0.826 [0.730, 0.921] \\
+Per-window oracle & 1.000 [0.999, 1.001] & 0.896 [0.822, 0.970] \\
+Model step $\bar\Delta_{\mathrm{mod}}$ & 0.008 [$-$0.003, 0.019] & $-$0.002 [$-$0.041, 0.037] \\
+Information step $\bar\Delta_{\mathrm{inf}}$ & 0.044 [0.020, 0.069] & 0.166 [0.088, 0.244] \\
+Interaction $\Delta_{\times}$ & $-$0.013 [$-$0.039, 0.013] & $-$0.018 [$-$0.083, 0.047] \\
+Combination step $\Delta_{\mathrm{comb}}$ & 0.000 [$-$0.003, 0.003] & 0.011 [$-$0.026, 0.048] \\
+Unresolved disagreement $\Delta_{\mathrm{unr}}$ & 0.002 [$-$0.002, 0.006] & 0.059 [$-$0.001, 0.119] \\
+Unresolved, upgraded edge $\Delta'_{\mathrm{unr}}$ & 0.002 [$-$0.002, 0.006] & 0.050 [0.008, 0.091] \\
+\midrule
+\multicolumn{3}{@{}l}{\textit{Pair C, $J=10$ splits (12 on SEU)}} \\
+Deployed edge $B_{eE}$ & 0.761 [0.648, 0.874] & 0.669 [0.565, 0.773] \\
+Upgraded edge $B_{cE}$ & 0.873 [0.804, 0.942] & 0.671 [0.567, 0.775] \\
+Edge family, all sensors $B_{eC}$ & 0.939 [0.833, 1.046] & 0.682 [0.582, 0.782] \\
+Cloud $B_{cC}$ & 0.992 [0.975, 1.008] & 0.673 [0.602, 0.745] \\
+Per-window oracle & 0.995 [0.982, 1.008] & 0.775 [0.647, 0.904] \\
+Model step $\bar\Delta_{\mathrm{mod}}$ & 0.082 [$-$0.019, 0.183] & $-$0.004 [$-$0.044, 0.037] \\
+Information step $\bar\Delta_{\mathrm{inf}}$ & 0.148 [0.082, 0.215] & 0.008 [$-$0.027, 0.044] \\
+Interaction $\Delta_{\times}$ & $-$0.060 [$-$0.216, 0.096] & $-$0.011 [$-$0.075, 0.053] \\
+Combination step $\Delta_{\mathrm{comb}}$ & $-$0.001 [$-$0.006, 0.005] & 0.008 [$-$0.069, 0.086] \\
+Unresolved disagreement $\Delta_{\mathrm{unr}}$ & 0.004 [$-$0.004, 0.012] & 0.094 [$-$0.004, 0.191] \\
+Unresolved, upgraded edge $\Delta'_{\mathrm{unr}}$ & 0.003 [$-$0.002, 0.008] & 0.082 [$-$0.013, 0.176] \\
+\bottomrule
+\end{tabular}

@@ -1,0 +1,16 @@
+\begin{tabular}{@{}>{\raggedright\arraybackslash}p{2.15cm} c >{\raggedright\arraybackslash}p{2.1cm} >{\raggedright\arraybackslash}p{1.55cm} >{\raggedright\arraybackslash}p{2.1cm} >{\raggedright\arraybackslash}p{2.1cm} >{\raggedright\arraybackslash}p{2.1cm}@{}}
+\toprule
+Dataset, variant, verdict$^{b}$ & Pair & $\bar\Delta_{\mathrm{inf}}$ [95\% CI] & Best shortcut (BA) & $B_{cC}$ minus shortcut & $B_{cC}$ minus better of augmented edge and shortcut$^{a}$ & $\bar\Delta_{\mathrm{inf}}$, shortcut in both views$^{a}$ \\
+\midrule
+Hydraulic, block-grouped in time & A & 0.112\newline [0.014, 0.210] & component settings, tree (0.670) & 0.325\newline [0.223, 0.427] & 0.129\newline [0.033, 0.224] & 0.123\newline [0.031, 0.214] \\
+\textit{pair A met; pair B failed (i)} & B & 0.104\newline [$-$0.027, 0.236] &  & 0.317\newline [0.213, 0.421] & 0.120\newline [0.013, 0.227] & 0.111\newline [$-$0.005, 0.228] \\
+SKAB, z-scored within file$^{e}$ & A & 0.193\newline [0.095, 0.291] & time in file, tree (0.961) & $-$0.143\newline [$-$0.251, $-$0.035] & $-$0.108$^{f}$\newline [$-$0.175, $-$0.042] & 0.022$^{f}$\newline [$-$0.020, 0.064] \\
+\textit{benchmark-confounded, not testable} & B & 0.228\newline [0.113, 0.342] &  & $-$0.143\newline [$-$0.245, $-$0.041] & $-$0.120$^{f}$\newline [$-$0.215, $-$0.024] & 0.002$^{f}$\newline [$-$0.017, 0.020] \\
+SKAB, causal offset, not declared$^{d}$ & A & 0.084\newline [$-$0.008, 0.176] & time in file, tree (0.961) & $-$0.107\newline [$-$0.189, $-$0.025] & \multicolumn{2}{l}{not run} \\
+\textit{benchmark-confounded, not testable} & B & 0.153\newline [0.034, 0.273] &  & $-$0.087\newline [$-$0.159, $-$0.014] &  &  \\
+SEU, de-meaned windows & A & $-$0.078\newline [$-$0.285, 0.130] & eight channel means (0.625) & 0.018\newline [$-$0.306, 0.342] & \multicolumn{2}{l}{none (no shortcut)} \\
+\textit{not met for either pair} & B & $-$0.069\newline [$-$0.327, 0.189] &  & 0.043\newline [$-$0.305, 0.391] &  &  \\
+3W, de-meaned windows & A & 0.046\newline [$-$0.027, 0.118] & well identity (0.817) & 0.039\newline [$-$0.072, 0.150] & \multicolumn{2}{l}{not run$^{c}$} \\
+\textit{not met for either pair} & B & 0.032\newline [$-$0.042, 0.106] &  & 0.016\newline [$-$0.084, 0.116] &  &  \\
+\bottomrule
+\end{tabular}

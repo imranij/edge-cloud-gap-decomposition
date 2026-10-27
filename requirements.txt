@@ -1,0 +1,16 @@
+# Package versions used for the published results (Python 3.13.16)
+numpy==2.5.3
+scipy==1.18.1
+pandas==3.0.5
+scikit-learn==1.9.1
+statsmodels==0.15.0
+imbalanced-learn==0.14.2
+joblib==1.6.0
+pyarrow==25.0.1
+matplotlib==3.11.2
+tabulate==0.10.0
+# PyTorch is imported by src/escalation/models.py and trains the 1D CNNs of pair C. The runs used
+# torch 2.14.1 with CUDA 13.0 on the CPU only, so the CPU build of the same version is enough.
+torch==2.14.1
+# Unit tests
+pytest==9.1.1

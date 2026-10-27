@@ -1,0 +1,7 @@
+{
+ "raw_edge": 8192,
+ "raw_cloud": 32768,
+ "features_edge": 136,
+ "features_cloud": 544,
+ "note": "native rate == L samples per channel per window; float32"
+}

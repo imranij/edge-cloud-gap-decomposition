@@ -1,0 +1,24 @@
+\begin{tabular}{@{}l l ll ll@{}}
+\toprule
+& & \multicolumn{2}{c}{95\% delay $\le$ 10 min} & \multicolumn{2}{c}{Hourly 95th percentile} \\
+\cmidrule(lr){3-4}\cmidrule(l){5-6}
+Alternative & Hop & Pair A & Pair B & Pair A & Pair B \\
+\midrule
+Gateway, either model$^{a}$ & backhaul & empty & empty & empty & empty \\
+ & local & 60.1--108.8 & 63.5--108.8 & 42.3--108.8 & 44.4--108.8 \\
+ & per node & 4.3--9.1 & 4.5--9.1 & 3.0--9.1 & 3.2--9.1 \\
+Gateway, separate box & backhaul & empty & empty & empty & empty \\
+ & local & 60.1--126.9 & 63.5--126.9 & 42.3--126.9 & 44.4--126.9 \\
+ & per node & 4.3--9.1 & 4.5--9.1 & 3.0--9.1 & 3.2--9.1 \\
+Full feature stream & backhaul & 60.1--126.9 & 63.5--126.9 & 42.3--126.9 & 44.4--126.9 \\
+ & local & 60.1--126.9 & 63.5--126.9 & 42.3--126.9 & 44.4--126.9 \\
+ & per node & 4.3--9.1 & 4.5--9.1 & 3.0--9.1 & 3.2--9.1 \\
+Edge and FS1 features & backhaul & empty & empty & empty & empty \\
+ & local & empty & empty & empty & empty \\
+FS1 to the edge node$^{c}$ & backhaul & empty & empty & empty & empty \\
+ & local & empty & empty & empty & empty \\
+\midrule
+\multicolumn{2}{@{}l}{Dropped beyond 10 min at 42 bit/s$^{b}$} & 0.145, $-$0.0080 & 0.172, $-$0.0054 & & \\
+\multicolumn{2}{@{}l}{Dropped beyond 10 min at 64 bit/s$^{b}$} & 0.009, $-$0.0004 & 0.018, $-$0.0002 & & \\
+\bottomrule
+\end{tabular}

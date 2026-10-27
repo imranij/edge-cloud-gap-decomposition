@@ -1,0 +1,35 @@
+\begin{tabular}{@{}l rrrr rr@{}}
+\toprule
+& \multicolumn{4}{c}{Per window} & \multicolumn{2}{c}{Per hour} \\
+\cmidrule(lr){2-5}\cmidrule(l){6-7}
+Architecture & Ops, edge & Ops, other & Ops, total & Memory (B) & Uplink (B) & Messages \\
+\midrule
+\multicolumn{7}{@{}l}{\textit{Hydraulic}} \\
+Edge only & 280\,k & 0 & 280\,k & 73\,k & 0 & 0 \\
+Esc.\ 10\%, on-demand & 280\,k & 172\,k & 453\,k & 381\,k & 5.7\,k (1.8\,k--14\,k) & 6 \\
+Esc.\ 10\%, continuous & 280\,k & 1.7\,M & 2.0\,M & 279\,k & 5.7\,k (1.8\,k--14\,k) & 6 \\
+Gateway & 2.0\,M & 0 & 2.0\,M & 225\,k & 0 (local 57\,k) & 0 \\
+Full cloud & 0 & 2.0\,M & 2.0\,M & 174\,k & 57\,k & 60 \\
+\addlinespace
+\multicolumn{7}{@{}l}{\textit{SKAB}} \\
+Edge only & 9.1\,k & 0 & 9.1\,k & 2.7\,k & 0 & 0 \\
+Esc.\ 10\%, on-demand & 9.3\,k & 790 & 10\,k & 13\,k & 20\,k (8.9\,k--31\,k) & 36 \\
+Esc.\ 10\%, continuous & 9.3\,k & 5.6\,k & 15\,k & 13\,k & 20\,k (8.9\,k--31\,k) & 36 \\
+Gateway & 15\,k & 0 & 15\,k & 4.0\,k & 0 (local 196\,k) & 0 \\
+Full cloud & 0 & 17\,k & 17\,k & 1.9\,k & 196\,k & 360 \\
+\addlinespace
+\multicolumn{7}{@{}l}{\textit{SEU}} \\
+Edge only & 82\,k & 0 & 82\,k & 17\,k & 0 & 0 \\
+Esc.\ 10\%, on-demand & 82\,k & 25\,k & 107\,k & 75\,k & 979\,k (9.8\,k--5.9\,M) & 1.8\,k \\
+Esc.\ 10\%, continuous & 82\,k & 246\,k & 328\,k & 59\,k & 979\,k (9.8\,k--5.9\,M) & 1.8\,k \\
+Gateway & 328\,k & 0 & 328\,k & 43\,k & 0 (local 9.8\,M) & 0 \\
+Full cloud & 0 & 329\,k & 329\,k & 33\,k & 9.8\,M & 18\,k \\
+\addlinespace
+\multicolumn{7}{@{}l}{\textit{3W}} \\
+Edge only & 21\,k & 0 & 21\,k & 5.2\,k & 0 & 0 \\
+Esc.\ 10\%, on-demand & 22\,k & 3.5\,k & 25\,k & 21\,k & 408 (155--884) & 1 \\
+Esc.\ 10\%, continuous & 22\,k & 32\,k & 54\,k & 20\,k & 408 (155--884) & 1 \\
+Gateway & 54\,k & 0 & 54\,k & 9.4\,k & 0 (local 4.1\,k) & 0 \\
+Full cloud & 0 & 56\,k & 56\,k & 6.0\,k & 4.1\,k & 12 \\
+\bottomrule
+\end{tabular}

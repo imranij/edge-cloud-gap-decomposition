@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this code or these results, please cite the paper and this archive."
+title: "edge-cloud-gap-decomposition: code and results for 'Decomposing the Edge-to-Cloud Accuracy Gap for Fault Detection in Condition Monitoring'"
+type: software
+authors:
+  - family-names: "Imran"
+    affiliation: "King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
+version: "2026-10-27"
+date-released: "2026-10-27"
+repository-code: "https://github.com/imranij/edge-cloud-gap-decomposition"
+keywords:
+  - condition monitoring
+  - fault detection
+  - edge computing
+  - edge-to-cloud escalation
+  - pre-registered analysis
+  - Shapley decomposition

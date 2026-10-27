@@ -1,0 +1,30 @@
+{
+ "edge": [
+  "Accelerometer1RMS",
+  "Accelerometer2RMS",
+  "Current",
+  "Temperature",
+  "Voltage"
+ ],
+ "cloud": [
+  "Accelerometer1RMS",
+  "Accelerometer2RMS",
+  "Current",
+  "Temperature",
+  "Voltage",
+  "Pressure",
+  "Thermocouple",
+  "Volume Flow RateRMS"
+ ],
+ "rates_hz": {
+  "Accelerometer1RMS": 1.0,
+  "Accelerometer2RMS": 1.0,
+  "Current": 1.0,
+  "Temperature": 1.0,
+  "Voltage": 1.0,
+  "Pressure": 1.0,
+  "Thermocouple": 1.0,
+  "Volume Flow RateRMS": 1.0
+ },
+ "edge_node": "pump-motor drive unit: motor current, motor voltage, motor-body temperature, two vibration accelerometers"
+}

@@ -1,0 +1,11 @@
+\begin{tabular}{@{}l >{\raggedright\arraybackslash}p{2.1cm} >{\raggedright\arraybackslash}p{2.65cm} >{\raggedright\arraybackslash}p{2.1cm} >{\raggedright\arraybackslash}p{2.65cm} >{\raggedright\arraybackslash}p{2.7cm}@{}}
+\toprule
+& Pre-specified verdict ($p_{\mathrm{Holm}}$) & Two-stage$^{a}$ & Deconfounded replication$^{c}$ ($p_{\mathrm{Holm}}$) & Replication, two-stage$^{a}$ & Proposed corrected design \\
+\midrule
+H1 & INCONCLUSIVE\newline (0.115) & -- & INCONCLUSIVE\newline (0.266) & -- & Sim.$^{d}$: NB coverage 0.97--1.00, 0.93 or more under adjacent-block dependence \\
+H2 & SUPPORTED\newline ($4.0\times10^{-5}$) & 0.039 [$-$0.010, 0.088]; $p_1$ 0.042, $p_{\mathrm{Holm}}$ 0.168 & SUPPORTED\newline ($1.5\times10^{-5}$) & 0.033 [$-$0.011, 0.077]; $p_1$ 0.048, $p_{\mathrm{Holm}}$ 0.239 & Fixed tiers, two-stage: 0.022 [$-$0.021, 0.065]; $p_1$ 0.102; MDE 0.045; sim.$^{d}$ size 0.008, power 0.13 and 0.91 \\
+H3 & INCONCLUSIVE\newline (0.115) & -- & INCONCLUSIVE\newline (0.225) & -- & Feasibility at the realised $J$: infeasible ($p_{\mathrm{eq}}$ = 0.057 at $dC=0$; about 79 splits needed); sim.$^{d}$ declared in at most 0.27 at $dC=0$, never at $dC=0.02$ \\
+H4 & SUPPORTED\newline (0.003) & $-$0.752 [$-$2.154, 0.650]; $p_1$ 0.093, $p_{\mathrm{Holm}}$ 0.172; no factor$^{b}$ $-$0.677 [$-$1.362, 0.008]; $p_1$ 0.026, $p_{\mathrm{Holm}}$ 0.103 & FALSIFIED\newline (0.422) & $-$0.226 [$-$1.330, 0.879]; $p_1$ 0.281, $p_{\mathrm{Holm}}$ 0.562 & $\Capt(\mathrm{R6})-\Capt(\mathrm{R0})$ on validation $\rho_{\mathrm{pos}}$, two-stage: $-$0.077 [$-$1.567, 1.412]; $p_1$ 0.440; MDE $-$1.56 ($-$1.29 with no factor$^{b}$); sim.$^{d}$ size 0 with the factor, 0.04 with slopes per repeat \\
+H5 & SUPPORTED\newline (0.008) & -- & NOT SUPPORTED\newline (0.422) & -- & Within-class null: BA 0.563 (beats random), 0.605 (beats edge); MDE 0.564 or 0.588; sim.$^{d}$ GO in 0.08 of cells without information (nominal 0.05), BA of calls $\le$0.57 \\
+\bottomrule
+\end{tabular}

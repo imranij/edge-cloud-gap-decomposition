@@ -1,0 +1,24 @@
+\begin{tabular}{@{}l rrrrrrrr@{}}
+\toprule
+ & \multicolumn{2}{c}{Hydraulic} & \multicolumn{2}{c}{SKAB} & \multicolumn{2}{c}{SEU} & \multicolumn{2}{c}{3W} \\
+\cmidrule(lr){2-3}\cmidrule(lr){4-5}\cmidrule(lr){6-7}\cmidrule(l){8-9}
+Router & A & B & A & B & A & B & A & B \\
+\midrule
+\multicolumn{9}{@{}l}{\textit{Pre-specified (learned routers trained on the validation fold)}} \\
+R0 random & 0.502 & 0.482 & 0.501 & 0.502 & 0.496 & 0.482 & 0.500 & 0.499 \\
+R9 periodic & 0.522 & 0.483 & 0.514 & 0.520 & 0.501 & 0.500 & 0.500 & 0.502 \\
+R1 confidence & 0.857 & 0.874 & 0.566 & 0.599 & 0.430 & 0.509 & 0.581 & 0.458 \\
+R2 entropy & 0.861 & 0.872 & 0.583 & 0.636 & 0.407 & 0.566 & 0.622 & 0.476 \\
+R4 Diff-01 & 0.754 & 0.760 & 0.634 & 0.641 & 0.530 & 0.518 & 0.610 & 0.578 \\
+R5 Diff-Prob & 0.845 & 0.876 & 0.602 & 0.622 & 0.594 & 0.557 & 0.635 & 0.511 \\
+R6 gain regressor & 0.739 & 0.746 & 0.592 & 0.629 & 0.512 & 0.568 & 0.598 & 0.590 \\
+R8 L2D & 0.778 & -- & 0.484 & -- & 0.579 & -- & 0.623 & -- \\
+\multicolumn{9}{@{}l}{\textit{Post-plan (trained on cross-fitted fit and validation predictions)}} \\
+R4x & 0.898 & 0.833 & 0.645 & 0.633 & 0.502 & 0.537 & 0.685 & 0.728 \\
+R5x & 0.881 & 0.853 & 0.633 & 0.650 & 0.485 & 0.497 & 0.665 & 0.559 \\
+R6x & 0.892 & 0.822 & 0.587 & 0.632 & 0.574 & 0.542 & 0.690 & 0.719 \\
+Rank average R1, R6x & 0.894 & 0.860 & 0.597 & 0.633 & 0.501 & 0.533 & 0.679 & 0.604 \\
+Selected R1 or R6x & 0.870 & 0.872 & 0.594 & 0.608 & 0.513 & 0.484 & 0.673 & 0.628 \\
+R10 two-stage surrogate & 0.542 & 0.467 & 0.519 & 0.556 & 0.462 & 0.570 & 0.624 & 0.631 \\
+\bottomrule
+\end{tabular}

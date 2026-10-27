@@ -1,0 +1,25 @@
+\begin{tabular}{@{}l rr rrrrr@{}}
+\toprule
+& & & \multicolumn{5}{c}{Uplink (B/h)} \\
+\cmidrule(l){4-8}
+Dataset & Win.\ (s) & Dec./h & Feat.\ 10\% & Raw 10\% & Cloud, feat. & Stream, raw & Cloud-only, raw \\
+\midrule
+Hydraulic & 60 & 60 & 5.7\,k & 1.0\,M & 57\,k & 10.4\,M & 9.0\,M \\
+SKAB & 60 & 360 & 20\,k & 69\,k & 196\,k & 115\,k & 43\,k \\
+SEU & 0.2 & 18\,k & 979\,k & 59.0\,M & 9.8\,M & 589.8\,M & 442.4\,M \\
+3W & 300 & 12 & 408 & 7.2\,k & 4.1\,k & 72\,k & 43\,k \\
+\bottomrule
+\end{tabular}
+\par\medskip
+\begin{tabular}{@{}l rrrr@{}}
+\toprule
+& \multicolumn{4}{c}{Edge node, per window} \\
+\cmidrule(l){2-5}
+Dataset & Feat.\ ops & Param.\ B & FFT B & R6 ops \\
+\midrule
+Hydraulic & 280\,k & 412 & 48\,k & 200 \\
+SKAB & 8.9\,k & 1024 & 488 & 200 \\
+SEU & 82\,k & 412 & 8.2\,k & 200 \\
+3W & 21\,k & 412 & 2.4\,k & 200 \\
+\bottomrule
+\end{tabular}

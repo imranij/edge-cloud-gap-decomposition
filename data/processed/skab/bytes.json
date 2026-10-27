@@ -1,0 +1,7 @@
+{
+ "raw_edge": 1200,
+ "raw_cloud": 1920,
+ "features_edge": 340,
+ "features_cloud": 544,
+ "note": "per window, float32, native 1 Hz, 60-s window"
+}

@@ -1,0 +1,34 @@
+\begin{tabular}{@{}>{\raggedright\arraybackslash}p{3.4cm} l r l r@{}}
+\toprule
+& \multicolumn{2}{c}{Mixed model (plan)} & \multicolumn{2}{c}{Two-stage} \\
+\cmidrule(lr){2-3}\cmidrule(l){4-5}
+Left-hand side & Slope [95\% CI] & $p_1$ & Slope [95\% CI] & $p_1$ \\
+\midrule
+$\Capt(\mathrm{R6})-\Capt(\mathrm{R1})$, plan's test & $-$0.473 [$-$0.764, $-$0.181] & \num{7.4e-04} & $-$0.592 [$-$1.551, 0.367] & 0.072 \\
+$\Capt(\mathrm{R0})-\Capt(\mathrm{R1})$, random router & $-$0.563 [$-$0.890, $-$0.235] & \num{3.8e-04} & $-$0.397 [$-$1.463, 0.670] & 0.161 \\
+$\Capt(\mathrm{R9})-\Capt(\mathrm{R1})$, label-blind schedule & $-$0.594 [$-$0.932, $-$0.255] & \num{3.0e-04} & $-$0.447 [$-$1.343, 0.450] & 0.105 \\
+$\Capt(\mathrm{R1})$ & 0.588 [0.252, 0.923] & 1.000 & 0.369 [$-$0.660, 1.398] & 0.832 \\
+$\Capt(\mathrm{R6})$ & 0.153 [$-$0.148, 0.454] & 0.840 & $-$0.142 [$-$0.970, 0.686] & 0.312 \\
+$\Capt(\mathrm{R6})-\Capt(\mathrm{R0})$ & 0.132 [$-$0.166, 0.431] & 0.808 & $-$0.173 [$-$1.005, 0.658] & 0.277 \\
+\midrule
+\multicolumn{5}{@{}l}{\textit{Plan's left-hand side, other versions of the regressor (mixed model)}} \\
+$\rho$ on all test windows & $-$1.087 [$-$1.415, $-$0.759] & & &  \\
+$\rho$ within test negatives$^{\ast}$ & $-$0.233 [$-$0.562, 0.096] & & &  \\
+$\rho_{\mathrm{pos}}$ on the validation fold$^{\ast}$ & $-$0.106 [$-$0.444, 0.231] & & & \\
+\bottomrule
+\end{tabular}
+\par\medskip
+\begin{tabular}{@{}l rrrr@{}}
+\toprule
+& \multicolumn{4}{c}{OLS slope per dataset} \\
+\cmidrule(l){2-5}
+Left-hand side & Hyd. & SKAB & SEU & 3W \\
+\midrule
+$\Capt(\mathrm{R6})-\Capt(\mathrm{R1})$, plan's test & 0.16 & $-$0.71 & $-$0.15 & $-$0.83 \\
+$\Capt(\mathrm{R0})-\Capt(\mathrm{R1})$, random router & 0.61 & $-$0.37 & $-$0.35 & $-$1.16 \\
+$\Capt(\mathrm{R9})-\Capt(\mathrm{R1})$, label-blind schedule & 0.52 & $-$0.41 & $-$0.40 & $-$1.13 \\
+$\Capt(\mathrm{R1})$ & $-$0.49 & 0.41 & 0.39 & 1.13 \\
+$\Capt(\mathrm{R6})$ & $-$0.33 & $-$0.30 & 0.24 & 0.30 \\
+$\Capt(\mathrm{R6})-\Capt(\mathrm{R0})$ & $-$0.45 & $-$0.34 & 0.20 & 0.33 \\
+\bottomrule
+\end{tabular}

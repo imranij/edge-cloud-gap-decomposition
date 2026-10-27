@@ -1,0 +1,61 @@
+{
+ "edge": [
+  "EPS1",
+  "VS1"
+ ],
+ "cloud": [
+  "EPS1",
+  "VS1",
+  "PS1",
+  "PS2",
+  "PS3",
+  "PS4",
+  "PS5",
+  "PS6",
+  "FS1",
+  "FS2",
+  "TS1",
+  "TS2",
+  "TS3",
+  "TS4"
+ ],
+ "excluded": [
+  "CE",
+  "CP",
+  "SE"
+ ],
+ "rates_hz": {
+  "EPS1": 100,
+  "VS1": 1,
+  "PS1": 100,
+  "PS2": 100,
+  "PS3": 100,
+  "PS4": 100,
+  "PS5": 100,
+  "PS6": 100,
+  "FS1": 10,
+  "FS2": 10,
+  "TS1": 1,
+  "TS2": 1,
+  "TS3": 1,
+  "TS4": 1
+ },
+ "raw_L": 600,
+ "imputed_share": {
+  "EPS1": 0.0,
+  "VS1": 0.0,
+  "PS1": 0.0,
+  "PS2": 0.0,
+  "PS3": 0.0,
+  "PS4": 0.0,
+  "PS5": 0.0,
+  "PS6": 0.0,
+  "FS1": 0.0,
+  "FS2": 0.0,
+  "TS1": 0.0,
+  "TS2": 0.0,
+  "TS3": 0.0,
+  "TS4": 0.0
+ },
+ "edge_node": "motor-pump drive: motor power EPS1 and pump vibration VS1"
+}

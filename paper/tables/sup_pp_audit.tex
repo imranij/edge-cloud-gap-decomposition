@@ -1,0 +1,24 @@
+\begin{tabular}{@{}l l rrrr rrrr@{}}
+\toprule
+& & \multicolumn{4}{c}{Pre-specified audit} & \multicolumn{4}{c}{Corrected audit} \\
+\cmidrule(lr){3-6}\cmidrule(l){7-10}
+Outcome & Cells & GO & BA & $p_{\mathrm{ds}}$ & $p_{\mathrm{blk}}$ & GO & BA & $p_{\mathrm{ds}}$ & $p_{\mathrm{blk}}$ \\
+\midrule
+\multicolumn{10}{@{}l}{\textit{Routing beats random}} \\
+All 400 cells & 400 & 39 & 0.547 & 0.005 & 0.019 & 127 & 0.575 & 0.008 & 0.378 \\
+$q=1$, pairs A and B & 160 & 20 & 0.554 & 0.119 & 0.213 & 69 & 0.538 & 0.715 & 0.935 \\
+Hydraulic & 100 & 20 & 0.583 & 0.038 & 0.049 & 39 & 0.596 & 0.042 & 0.345 \\
+SKAB & 100 & 14 & 0.592 & 0.008 & 0.018 & 41 & 0.606 & 0.027 & 0.116 \\
+SEU & 100 & 1 & 0.491 & 1.000 & 1.000 & 0 & 0.500 & 1.000 & 1.000 \\
+3W & 100 & 4 & 0.495 & 0.781 & 0.918 & 47 & 0.514 & 0.467 & 0.929 \\
+\multicolumn{10}{@{}l}{\textit{Escalation beats the edge}} \\
+All 400 cells & 400 & 39 & 0.539 & 0.717 & 0.821 & 127 & 0.640 & 0.034 & 0.395 \\
+$q=1$, pairs A and B & 160 & 20 & 0.549 & 0.778 & 0.923 & 69 & 0.633 & 0.634 & 0.975 \\
+Hydraulic & 100 & 20 & 0.459 & 0.851 & 0.821 & 39 & 0.617 & 0.120 & 0.194 \\
+SKAB & 100 & 14 & 0.572 & 0.636 & 0.762 & 41 & 0.711 & 0.209 & 0.656 \\
+SEU & 100 & 1 & 0.493 & 1.000 & 1.000 & 0 & 0.500 & 1.000 & 1.000 \\
+3W & 100 & 4 & 0.505 & 0.659 & 0.836 & 47 & 0.550 & 0.239 & 0.761 \\
+\addlinespace
+\multicolumn{10}{@{}l}{Mean validation $C$: pre-specified pooled out-of-fold 0.461, corrected fold average 0.582 (permutation null 0.500).} \\
+\bottomrule
+\end{tabular}

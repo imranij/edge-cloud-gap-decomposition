@@ -1,0 +1,29 @@
+# Raw and processed data are not redistributed; see data/README.md
+data/raw/
+data/processed/*/X_*.npy
+data/processed/*/raw_*.npy
+data/processed/*/meta.parquet
+data/processed_sens/
+# Files restored by tools/unpack_archives.py
+results/hydraulic/
+results/seu/
+results/skab/
+results/threew/
+results/threew__by_well/
+results_timing/*/
+results_sens/*/*/
+!results_sens/*/summary/
+results_sens/simulation_full/truth/
+results_sens/simulation_full/refs/
+results_sens/simulation_full/reps/
+# Python and test caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+# Logs and editor or system files
+*.log
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
